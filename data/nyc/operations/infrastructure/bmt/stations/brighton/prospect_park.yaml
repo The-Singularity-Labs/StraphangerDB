@@ -1,0 +1,58 @@
+id: brighton_prospect_park
+accessible: false
+station_names:
+- Prospect Park
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.661614"
+station_longitude: "-73.962246"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.962246
+  - 40.661614
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Empire Blvd
+  corner: SW
+  entrance_latitude: "40.662482"
+  entrance_longitude: "-73.962285"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.962285
+    - 40.662482
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Ocean Ave
+  east_west_street: Lincoln Rd
+  corner: NE
+  entrance_latitude: "40.660792"
+  entrance_longitude: "-73.962109"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.962109
+    - 40.660792
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Empire Blvd
+  corner: SW
+  entrance_latitude: "40.662727"
+  entrance_longitude: "-73.962249"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.962249
+    - 40.662727

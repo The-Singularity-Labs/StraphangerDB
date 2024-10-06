@@ -1,0 +1,110 @@
+id: broadway_49th_st
+accessible: false
+station_names:
+- 49th St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.759901"
+station_longitude: "-73.984139"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.984139
+  - 40.759901
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Broadway
+  east_west_street: 47th St
+  corner: NE
+  entrance_latitude: "40.759513"
+  entrance_longitude: "-73.984884"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984884
+    - 40.759513
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 49th St
+  corner: SE
+  entrance_latitude: "40.760297"
+  entrance_longitude: "-73.983567"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983567
+    - 40.760297
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 7th Ave
+  east_west_street: 47th St
+  corner: NW
+  entrance_latitude: "40.759384"
+  entrance_longitude: "-73.984709"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984709
+    - 40.759384
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 7th Ave
+  east_west_street: 47th St
+  corner: SE
+  entrance_latitude: "40.75903"
+  entrance_longitude: "-73.984412"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984412
+    - 40.75903
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 7th Ave
+  east_west_street: 49th St
+  corner: NE
+  entrance_latitude: "40.760454"
+  entrance_longitude: "-73.983388"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983388
+    - 40.760454
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 49th St
+  corner: NW
+  entrance_latitude: "40.760621"
+  entrance_longitude: "-73.983904"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983904
+    - 40.760621
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 49th St
+  corner: SW
+  entrance_latitude: "40.760486"
+  entrance_longitude: "-73.983974"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983974
+    - 40.760486

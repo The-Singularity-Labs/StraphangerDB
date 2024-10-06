@@ -1,0 +1,32 @@
+id: brighton_newkirk_av
+accessible: false
+station_names:
+- Newkirk Av
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.635082"
+station_longitude: "-73.962793"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.962793
+  - 40.635082
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Marlborough Rd
+  east_west_street: Newkirk Ave
+  corner: SE
+  entrance_latitude: "40.635034"
+  entrance_longitude: "-73.962736"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.962736
+    - 40.635034

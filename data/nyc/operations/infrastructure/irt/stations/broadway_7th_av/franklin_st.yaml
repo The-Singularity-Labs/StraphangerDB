@@ -1,0 +1,84 @@
+id: broadway_7th_av_franklin_st
+accessible: false
+station_names:
+- Franklin St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.719318"
+station_longitude: "-74.006886"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.006886
+  - 40.719318
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: Franklin St
+  corner: SW
+  entrance_latitude: "40.718965"
+  entrance_longitude: "-74.007121"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.007121
+    - 40.718965
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: Franklin St
+  corner: NW
+  entrance_latitude: "40.719251"
+  entrance_longitude: "-74.007058"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.007058
+    - 40.719251
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: North Moore St
+  corner: NE
+  entrance_latitude: "40.719918"
+  entrance_longitude: "-74.00662"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00662
+    - 40.719918
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: West Broadway
+  east_west_street: Franklin St
+  corner: SW
+  entrance_latitude: "40.719001"
+  entrance_longitude: "-74.006675"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006675
+    - 40.719001
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: North Moore St
+  corner: NW
+  entrance_latitude: "40.719888"
+  entrance_longitude: "-74.006925"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006925
+    - 40.719888

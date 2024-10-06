@@ -1,0 +1,123 @@
+id: lexington_av_grand_central_42nd_st
+accessible: false
+station_names:
+- Grand Central-42nd St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.751776"
+station_longitude: "-73.976848"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.976848
+  - 40.751776
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.751352"
+  entrance_longitude: "-73.976396"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976396
+    - 40.751352
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 42nd St
+  corner: NE
+  entrance_latitude: "40.751345"
+  entrance_longitude: "-73.975409"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975409
+    - 40.751345
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 43rd St
+  corner: SE
+  entrance_latitude: "40.751801"
+  entrance_longitude: "-73.975294"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975294
+    - 40.751801
+- entry_only: false
+  exit_only: true
+  entrance_type: Easement
+  north_south_street: Park Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.751721"
+  entrance_longitude: "-73.977197"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977197
+    - 40.751721
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 42nd St
+  corner: NW
+  entrance_latitude: "40.751701"
+  entrance_longitude: "-73.976087"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976087
+    - 40.751701
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Park Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.751741"
+  entrance_longitude: "-73.977691"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977691
+    - 40.751741
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Park Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.751653"
+  entrance_longitude: "-73.977753"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977753
+    - 40.751653
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.751647"
+  entrance_longitude: "-73.977382"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977382
+    - 40.751647

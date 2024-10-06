@@ -1,0 +1,84 @@
+id: concourse_bedford_park_blvd
+accessible: false
+station_names:
+- Bedford Park Blvd
+lines:
+- Concourse
+transfers: []
+division: IND
+borough: Bronx
+station_latitude: "40.873244"
+station_longitude: "-73.887138"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.887138
+  - 40.873244
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: Bedofrd Park Blvd
+  corner: NE
+  entrance_latitude: "40.872135"
+  entrance_longitude: "-73.887459"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.887459
+    - 40.872135
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 203rd St
+  corner: NW
+  entrance_latitude: "40.874084"
+  entrance_longitude: "-73.887112"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.887112
+    - 40.874084
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: Bedford Park Blvd
+  corner: NW
+  entrance_latitude: "40.872468"
+  entrance_longitude: "-73.887894"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.887894
+    - 40.872468
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 203rd St
+  corner: NE
+  entrance_latitude: "40.874025"
+  entrance_longitude: "-73.886466"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.886466
+    - 40.874025
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: Bedford Park Blvd
+  corner: SE
+  entrance_latitude: "40.872198"
+  entrance_longitude: "-73.887788"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.887788
+    - 40.872198

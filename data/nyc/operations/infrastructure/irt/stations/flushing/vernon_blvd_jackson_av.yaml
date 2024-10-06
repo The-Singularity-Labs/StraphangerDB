@@ -1,0 +1,123 @@
+id: flushing_vernon_blvd_jackson_av
+accessible: false
+station_names:
+- Vernon Blvd-Jackson Av
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.742626"
+station_longitude: "-73.953581"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.953581
+  - 40.742626
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Vernon Blvd
+  east_west_street: 50th Ave
+  corner: SW
+  entrance_latitude: "40.742654"
+  entrance_longitude: "-73.954232"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954232
+    - 40.742654
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Vernon Blvd
+  east_west_street: 50th Ave
+  corner: NE
+  entrance_latitude: "40.742759"
+  entrance_longitude: "-73.953893"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.953893
+    - 40.742759
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Vernon Blvd
+  east_west_street: 50th Ave
+  corner: SW
+  entrance_latitude: "40.742588"
+  entrance_longitude: "-73.954252"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954252
+    - 40.742588
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Vernon Blvd
+  east_west_street: 50th Ave
+  corner: NE
+  entrance_latitude: "40.742803"
+  entrance_longitude: "-73.953955"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.953955
+    - 40.742803
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 50th Ave
+  corner: SE
+  entrance_latitude: "40.742351"
+  entrance_longitude: "-73.952723"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952723
+    - 40.742351
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 50th Ave
+  corner: SW
+  entrance_latitude: "40.742432"
+  entrance_longitude: "-73.953156"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.953156
+    - 40.742432
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 50th Ave
+  corner: NE
+  entrance_latitude: "40.742496"
+  entrance_longitude: "-73.952482"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952482
+    - 40.742496
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 50th Ave
+  corner: NW
+  entrance_latitude: "40.742593"
+  entrance_longitude: "-73.95285"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95285
+    - 40.742593

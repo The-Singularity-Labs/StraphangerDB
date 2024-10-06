@@ -1,0 +1,71 @@
+id: queens_blvd_23rd_st_ely_av
+accessible: false
+station_names:
+- 23rd St-Ely Av
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.747846"
+station_longitude: "-73.946"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.946
+  - 40.747846
+entry_exits:
+- entry_only: true
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 23rd St
+  east_west_street: 44th Ave
+  corner: NE
+  entrance_latitude: "40.747706"
+  entrance_longitude: "-73.944626"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.944626
+    - 40.747706
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Hunter St
+  east_west_street: 44th Ave
+  corner: SW
+  entrance_latitude: "40.747371"
+  entrance_longitude: "-73.944287"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.944287
+    - 40.747371
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 21st St
+  east_west_street: 44th Ave
+  corner: SE
+  entrance_latitude: "40.747954"
+  entrance_longitude: "-73.94724"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.94724
+    - 40.747954
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 21st St
+  east_west_street: 44th Ave
+  corner: NE
+  entrance_latitude: "40.748195"
+  entrance_longitude: "-73.947163"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947163
+    - 40.748195

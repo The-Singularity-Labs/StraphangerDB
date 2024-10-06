@@ -1,0 +1,45 @@
+id: new_lots_new_lots_av
+accessible: false
+station_names:
+- New Lots Av
+lines:
+- New Lots
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.666235"
+station_longitude: "-73.884079"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.884079
+  - 40.666235
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ashford St
+  east_west_street: Livonia Ave
+  corner: SW
+  entrance_latitude: "40.666285"
+  entrance_longitude: "-73.883276"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.883276
+    - 40.666285
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ashford St
+  east_west_street: Livonia Ave
+  corner: NW
+  entrance_latitude: "40.666413"
+  entrance_longitude: "-73.883307"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.883307
+    - 40.666413

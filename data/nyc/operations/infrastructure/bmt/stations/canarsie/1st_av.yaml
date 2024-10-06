@@ -1,0 +1,71 @@
+id: canarsie_1st_av
+accessible: false
+station_names:
+- 1st Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.730953"
+station_longitude: "-73.981628"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.981628
+  - 40.730953
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 1st Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.731118"
+  entrance_longitude: "-73.982563"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982563
+    - 40.731118
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 1st Ave
+  east_west_street: 14th St
+  corner: NE
+  entrance_latitude: "40.731397"
+  entrance_longitude: "-73.982112"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982112
+    - 40.731397
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 1st Ave
+  east_west_street: 14th St
+  corner: NE
+  entrance_latitude: "40.731483"
+  entrance_longitude: "-73.982145"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982145
+    - 40.731483
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 1st Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.73105"
+  entrance_longitude: "-73.982625"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982625
+    - 40.73105

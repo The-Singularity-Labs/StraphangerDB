@@ -1,0 +1,45 @@
+id: nostrand_av_beverly_rd
+accessible: false
+station_names:
+- Beverly Rd
+lines:
+- Nostrand Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.645098"
+station_longitude: "-73.948959"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.948959
+  - 40.645098
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Beverly Rd
+  corner: SE
+  entrance_latitude: "40.645046"
+  entrance_longitude: "-73.948684"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.948684
+    - 40.645046
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Beverly Rd
+  corner: SW
+  entrance_latitude: "40.645016"
+  entrance_longitude: "-73.949213"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949213
+    - 40.645016

@@ -1,0 +1,136 @@
+id: lexington_av_brooklyn_bridge_city_hall
+accessible: false
+station_names:
+- Brooklyn Bridge-City Hall
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.713889"
+station_longitude: "-74.003654"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.003654
+  - 40.713889
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Reade St
+  corner: NW
+  entrance_latitude: "40.713721"
+  entrance_longitude: "-74.003734"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003734
+    - 40.713721
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Reade St
+  corner: NW
+  entrance_latitude: "40.713721"
+  entrance_longitude: "-74.003734"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003734
+    - 40.713721
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Centre St
+  east_west_street: Reade St
+  corner: NW
+  entrance_latitude: "40.713839"
+  entrance_longitude: "-74.003864"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003864
+    - 40.713839
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Centre St
+  east_west_street: Reade St
+  corner: NW
+  entrance_latitude: "40.713899"
+  entrance_longitude: "-74.003642"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003642
+    - 40.713899
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Centre St
+  east_west_street: Brooklyn Bridge Approach
+  corner: NE
+  entrance_latitude: "40.712333"
+  entrance_longitude: "-74.004387"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004387
+    - 40.712333
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Centre St
+  east_west_street: Brooklyn Bridge Approach
+  corner: NW
+  entrance_latitude: "40.712868"
+  entrance_longitude: "-74.004806"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004806
+    - 40.712868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Centre St
+  east_west_street: Brooklyn Bridge Approach
+  corner: NW
+  entrance_latitude: "40.712723"
+  entrance_longitude: "-74.004971"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004971
+    - 40.712723
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nassau St
+  east_west_street: Frankfort St
+  corner: SE
+  entrance_latitude: "40.711824"
+  entrance_longitude: "-74.005057"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005057
+    - 40.711824
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nassau St
+  east_west_street: Frankfort St
+  corner: SE
+  entrance_latitude: "40.711857"
+  entrance_longitude: "-74.005114"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005114
+    - 40.711857

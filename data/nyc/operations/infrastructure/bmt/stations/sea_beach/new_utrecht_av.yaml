@@ -1,0 +1,45 @@
+id: sea_beach_new_utrecht_av
+accessible: false
+station_names:
+- New Utrecht Av
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.624842"
+station_longitude: "-73.996353"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.996353
+  - 40.624842
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 63rd St
+  east_west_street: 15th Ave
+  corner: SE
+  entrance_latitude: "40.624246"
+  entrance_longitude: "-73.995962"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.995962
+    - 40.624246
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: New Utrecht Ave
+  east_west_street: 62nd St
+  corner: SE
+  entrance_latitude: "40.625606"
+  entrance_longitude: "-73.99683"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99683
+    - 40.625606

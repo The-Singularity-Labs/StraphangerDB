@@ -1,0 +1,45 @@
+id: pelham_whitlock_av
+accessible: false
+station_names:
+- Whitlock Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.826525"
+station_longitude: "-73.886283"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.886283
+  - 40.826525
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Whitlock Ave
+  east_west_street: Westchester Ave
+  corner: SW
+  entrance_latitude: "40.827298"
+  entrance_longitude: "-73.886256"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.886256
+    - 40.827298
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Whitlock Ave
+  east_west_street: Westchester Ave
+  corner: SE
+  entrance_latitude: "40.827295"
+  entrance_longitude: "-73.886082"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.886082
+    - 40.827295

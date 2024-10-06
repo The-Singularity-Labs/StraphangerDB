@@ -1,0 +1,97 @@
+id: culver_prospect_park_15_st
+accessible: false
+station_names:
+- Prospect Park-15 St
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.660365"
+station_longitude: "-73.979493"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.979493
+  - 40.660365
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Park West
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.661287"
+  entrance_longitude: "-73.979395"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979395
+    - 40.661287
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Park West
+  east_west_street: Prospect Park Southwest
+  corner: SE
+  entrance_latitude: "40.660705"
+  entrance_longitude: "-73.979522"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979522
+    - 40.660705
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Park West
+  east_west_street: 16th St
+  corner: NE
+  entrance_latitude: "40.660198"
+  entrance_longitude: "-73.979787"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979787
+    - 40.660198
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Howard Pl
+  east_west_street: Windsor Pl
+  corner: NE
+  entrance_latitude: "40.659436"
+  entrance_longitude: "-73.979951"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979951
+    - 40.659436
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Park West
+  east_west_street: 14th St
+  corner: SW
+  entrance_latitude: "40.6614"
+  entrance_longitude: "-73.979762"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979762
+    - 40.6614
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Park West
+  east_west_street: Prospect Park Southwest
+  corner: NE
+  entrance_latitude: "40.660763"
+  entrance_longitude: "-73.978992"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978992
+    - 40.660763

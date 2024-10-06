@@ -1,0 +1,58 @@
+id: 8th_av_163rd_st_amsterdam_av
+accessible: false
+station_names:
+- 163rd St - Amsterdam Av
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.836013"
+station_longitude: "-73.939892"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.939892
+  - 40.836013
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 162nd St
+  corner: SW
+  entrance_latitude: "40.835936"
+  entrance_longitude: "-73.940137"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940137
+    - 40.835936
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Amsterdam Ave
+  east_west_street: 161st St
+  corner: SE
+  entrance_latitude: "40.835192"
+  entrance_longitude: "-73.940146"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940146
+    - 40.835192
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 161st St
+  corner: NE
+  entrance_latitude: "40.835278"
+  entrance_longitude: "-73.939625"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.939625
+    - 40.835278

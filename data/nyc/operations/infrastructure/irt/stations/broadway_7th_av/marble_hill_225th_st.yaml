@@ -1,0 +1,45 @@
+id: broadway_7th_av_marble_hill_225th_st
+accessible: false
+station_names:
+- Marble Hill-225th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.874561"
+station_longitude: "-73.909831"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.909831
+  - 40.874561
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 225th St
+  corner: NW
+  entrance_latitude: "40.874437"
+  entrance_longitude: "-73.910529"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.910529
+    - 40.874437
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 225th St
+  corner: SE
+  entrance_latitude: "40.874308"
+  entrance_longitude: "-73.909795"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.909795
+    - 40.874308

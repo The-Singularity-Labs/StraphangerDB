@@ -1,0 +1,71 @@
+id: queens_blvd_steinway_st
+accessible: false
+station_names:
+- Steinway St
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.756879"
+station_longitude: "-73.92074"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.92074
+  - 40.756879
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Steinway St
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.758279"
+  entrance_longitude: "-73.919433"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919433
+    - 40.758279
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Steinway St
+  east_west_street: 34th Ave
+  corner: SW
+  entrance_latitude: "40.756583"
+  entrance_longitude: "-73.921108"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.921108
+    - 40.756583
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Steinway St
+  east_west_street: 34th Ave
+  corner: NE
+  entrance_latitude: "40.756673"
+  entrance_longitude: "-73.920622"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.920622
+    - 40.756673
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Steinway St
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.758143"
+  entrance_longitude: "-73.919842"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919842
+    - 40.758143

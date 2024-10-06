@@ -1,0 +1,32 @@
+id: west_end_9th_av
+accessible: false
+station_names:
+- 9th Av
+lines:
+- West End
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.646292"
+station_longitude: "-73.994324"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.994324
+  - 40.646292
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 9th Ave
+  east_west_street: New Utrecht Ave
+  corner: NE
+  entrance_latitude: "40.646337"
+  entrance_longitude: "-73.994489"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994489
+    - 40.646337

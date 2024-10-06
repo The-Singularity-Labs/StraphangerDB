@@ -1,0 +1,58 @@
+id: west_end_62nd_st
+accessible: false
+station_names:
+- 62nd St
+lines:
+- West End
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.626472"
+station_longitude: "-73.996895"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.996895
+  - 40.626472
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 14th Ave
+  east_west_street: 61st St
+  corner: NW
+  entrance_latitude: "40.627367"
+  entrance_longitude: "-73.996729"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.996729
+    - 40.627367
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 14th Ave
+  east_west_street: 61st St
+  corner: NE
+  entrance_latitude: "40.627299"
+  entrance_longitude: "-73.996465"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.996465
+    - 40.627299
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 14th Ave
+  east_west_street: 61st St
+  corner: NW
+  entrance_latitude: "40.62711"
+  entrance_longitude: "-73.99687"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99687
+    - 40.62711

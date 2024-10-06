@@ -1,0 +1,45 @@
+id: sea_beach_av_u
+accessible: false
+station_names:
+- Av U
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.597473"
+station_longitude: "-73.979137"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.979137
+  - 40.597473
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 8th St
+  east_west_street: Avenue U
+  corner: NE
+  entrance_latitude: "40.596459"
+  entrance_longitude: "-73.978943"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978943
+    - 40.596459
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 8th St
+  east_west_street: Avenue T
+  corner: SE
+  entrance_latitude: "40.598512"
+  entrance_longitude: "-73.979335"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979335
+    - 40.598512

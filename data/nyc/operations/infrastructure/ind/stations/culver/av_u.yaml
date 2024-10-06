@@ -1,0 +1,71 @@
+id: culver_av_u
+accessible: false
+station_names:
+- Av U
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.596063"
+station_longitude: "-73.973357"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.973357
+  - 40.596063
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Gravesend Neck Rd
+  corner: SE
+  entrance_latitude: "40.595027"
+  entrance_longitude: "-73.973382"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973382
+    - 40.595027
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue U
+  corner: SE
+  entrance_latitude: "40.596897"
+  entrance_longitude: "-73.973137"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973137
+    - 40.596897
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue U
+  corner: SW
+  entrance_latitude: "40.596701"
+  entrance_longitude: "-73.973402"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973402
+    - 40.596701
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Gravesend Neck Rd
+  corner: SW
+  entrance_latitude: "40.595053"
+  entrance_longitude: "-73.973623"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973623
+    - 40.595053

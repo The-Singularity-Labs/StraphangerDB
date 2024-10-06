@@ -1,0 +1,71 @@
+id: canarsie_bedford_av
+accessible: false
+station_names:
+- Bedford Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.717304"
+station_longitude: "-73.956872"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.956872
+  - 40.717304
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Driggs Ave
+  east_west_street: N 7th St
+  corner: NE
+  entrance_latitude: "40.716991"
+  entrance_longitude: "-73.956257"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.956257
+    - 40.716991
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bedford Ave
+  east_west_street: N 7th St
+  corner: NE
+  entrance_latitude: "40.717821"
+  entrance_longitude: "-73.957568"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957568
+    - 40.717821
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bedford Ave
+  east_west_street: N 7th St
+  corner: SE
+  entrance_latitude: "40.717714"
+  entrance_longitude: "-73.957695"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957695
+    - 40.717714
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Driggs Ave
+  east_west_street: N 7th St
+  corner: SE
+  entrance_latitude: "40.716888"
+  entrance_longitude: "-73.956367"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.956367
+    - 40.716888

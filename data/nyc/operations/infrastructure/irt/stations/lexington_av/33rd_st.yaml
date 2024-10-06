@@ -1,0 +1,136 @@
+id: lexington_av_33rd_st
+accessible: false
+station_names:
+- 33rd St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.746081"
+station_longitude: "-73.982076"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.982076
+  - 40.746081
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 33rd St
+  corner: SE
+  entrance_latitude: "40.746242"
+  entrance_longitude: "-73.9816"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.9816
+    - 40.746242
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 32nd St
+  corner: SW
+  entrance_latitude: "40.745821"
+  entrance_longitude: "-73.982576"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982576
+    - 40.745821
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 32nd St
+  corner: SW
+  entrance_latitude: "40.745723"
+  entrance_longitude: "-73.982531"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982531
+    - 40.745723
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 33rd St
+  corner: NW
+  entrance_latitude: "40.746632"
+  entrance_longitude: "-73.981882"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981882
+    - 40.746632
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 33rd St
+  corner: SW
+  entrance_latitude: "40.746447"
+  entrance_longitude: "-73.982147"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982147
+    - 40.746447
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 32nd St
+  corner: SE
+  entrance_latitude: "40.745641"
+  entrance_longitude: "-73.982103"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982103
+    - 40.745641
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 32nd St
+  corner: SE
+  entrance_latitude: "40.745585"
+  entrance_longitude: "-73.982198"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982198
+    - 40.745585
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 33rd St
+  corner: NE
+  entrance_latitude: "40.74655"
+  entrance_longitude: "-73.981533"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981533
+    - 40.74655
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 33rd St
+  corner: SE
+  entrance_latitude: "40.746263"
+  entrance_longitude: "-73.981663"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981663
+    - 40.746263

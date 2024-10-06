@@ -1,0 +1,71 @@
+id: jerome_av_burnside_av
+accessible: false
+station_names:
+- Burnside Av
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.853453"
+station_longitude: "-73.907684"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.907684
+  - 40.853453
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Burnside Ave
+  corner: SW
+  entrance_latitude: "40.85367"
+  entrance_longitude: "-73.907654"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907654
+    - 40.85367
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Burnside Ave
+  corner: SW
+  entrance_latitude: "40.853313"
+  entrance_longitude: "-73.907977"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907977
+    - 40.853313
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Burnside Ave
+  corner: SE
+  entrance_latitude: "40.853181"
+  entrance_longitude: "-73.907782"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907782
+    - 40.853181
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Burnside Ave
+  corner: SE
+  entrance_latitude: "40.853596"
+  entrance_longitude: "-73.907393"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907393
+    - 40.853596

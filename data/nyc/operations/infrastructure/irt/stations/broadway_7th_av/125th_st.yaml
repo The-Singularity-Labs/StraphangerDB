@@ -1,0 +1,71 @@
+id: broadway_7th_av_125th_st
+accessible: false
+station_names:
+- 125th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.815581"
+station_longitude: "-73.958372"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.958372
+  - 40.815581
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Broadway
+  east_west_street: Tiemann Pl
+  corner: NE
+  entrance_latitude: "40.815143"
+  entrance_longitude: "-73.958439"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958439
+    - 40.815143
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Broadway
+  east_west_street: Tiemann Pl
+  corner: NW
+  entrance_latitude: "40.815688"
+  entrance_longitude: "-73.958554"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958554
+    - 40.815688
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 125th St
+  corner: SW
+  entrance_latitude: "40.81523"
+  entrance_longitude: "-73.958366"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958366
+    - 40.81523
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Broadway
+  east_west_street: 125th St
+  corner: SW
+  entrance_latitude: "40.815307"
+  entrance_longitude: "-73.958826"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958826
+    - 40.815307

@@ -1,0 +1,84 @@
+id: queens_blvd_36th_st
+accessible: false
+station_names:
+- 36th St
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.752039"
+station_longitude: "-73.928781"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.928781
+  - 40.752039
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 36th St
+  east_west_street: Northern Blvd
+  corner: SE
+  entrance_latitude: "40.75193"
+  entrance_longitude: "-73.927141"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927141
+    - 40.75193
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 34th St
+  east_west_street: Northern Blvd
+  corner: SW
+  entrance_latitude: "40.751868"
+  entrance_longitude: "-73.930585"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.930585
+    - 40.751868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 35th St
+  east_west_street: 38th Ave
+  corner: NE
+  entrance_latitude: "40.752232"
+  entrance_longitude: "-73.928775"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.928775
+    - 40.752232
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 35th St
+  east_west_street: 38th Ave
+  corner: SW
+  entrance_latitude: "40.752198"
+  entrance_longitude: "-73.929263"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.929263
+    - 40.752198
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 36th St
+  east_west_street: Northern Blvd
+  corner: NE
+  entrance_latitude: "40.752238"
+  entrance_longitude: "-73.927662"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927662
+    - 40.752238

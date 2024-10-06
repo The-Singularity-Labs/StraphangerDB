@@ -1,0 +1,110 @@
+id: eastern_parkway_utica_av
+accessible: true
+station_names:
+- Utica Av
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.668897"
+station_longitude: "-73.932942"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.932942
+  - 40.668897
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Schenectady Ave
+  east_west_street: Eastern Pkwy
+  corner: NE
+  entrance_latitude: "40.669102"
+  entrance_longitude: "-73.934213"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.934213
+    - 40.669102
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Utica Ave
+  east_west_street: Eastern Pkwy
+  corner: SW
+  entrance_latitude: "40.668708"
+  entrance_longitude: "-73.931883"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931883
+    - 40.668708
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Utica Ave
+  east_west_street: Eastern Pkwy
+  corner: NW
+  entrance_latitude: "40.66896"
+  entrance_longitude: "-73.931675"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931675
+    - 40.66896
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Utica Ave
+  east_west_street: Eastern Pkwy
+  corner: SE
+  entrance_latitude: "40.6687"
+  entrance_longitude: "-73.931702"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931702
+    - 40.6687
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Utica Ave
+  east_west_street: Eastern Pkwy
+  corner: SE
+  entrance_latitude: "40.668935"
+  entrance_longitude: "-73.931831"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931831
+    - 40.668935
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Utica Ave
+  east_west_street: Eastern Pkwy
+  corner: NW
+  entrance_latitude: "40.668969"
+  entrance_longitude: "-73.931874"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931874
+    - 40.668969
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Schenectady Ave
+  east_west_street: Eastern Pkwy
+  corner: SE
+  entrance_latitude: "40.668838"
+  entrance_longitude: "-73.934239"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.934239
+    - 40.668838

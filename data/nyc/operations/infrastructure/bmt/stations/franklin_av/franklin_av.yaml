@@ -1,0 +1,32 @@
+id: franklin_av_franklin_av
+accessible: false
+station_names:
+- Franklin Av
+lines:
+- Franklin Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.680596"
+station_longitude: "-73.955827"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.955827
+  - 40.680596
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Franklin Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.681051"
+  entrance_longitude: "-73.95584"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95584
+    - 40.681051

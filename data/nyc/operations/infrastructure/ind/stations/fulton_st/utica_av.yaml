@@ -1,0 +1,71 @@
+id: fulton_st_utica_av
+accessible: false
+station_names:
+- Utica Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.679364"
+station_longitude: "-73.930729"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.930729
+  - 40.679364
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Utica Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.679095"
+  entrance_longitude: "-73.930044"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.930044
+    - 40.679095
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stuyvesant Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.679346"
+  entrance_longitude: "-73.931987"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931987
+    - 40.679346
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stuyvesant Ave
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.67953"
+  entrance_longitude: "-73.932021"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.932021
+    - 40.67953
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Utica Ave
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.679487"
+  entrance_longitude: "-73.929725"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.929725
+    - 40.679487

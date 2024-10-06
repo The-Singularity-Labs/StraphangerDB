@@ -1,0 +1,32 @@
+id: 63rd_st_roosevelt_island
+accessible: false
+station_names:
+- Roosevelt Island
+lines:
+- 63rd St
+transfers: []
+division: NYCT
+borough: Manhattan
+station_latitude: "40.759145"
+station_longitude: "-73.95326"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.95326
+  - 40.759145
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: West Rd
+  east_west_street: Unnamed St
+  corner: SE
+  entrance_latitude: "40.759016"
+  entrance_longitude: "-73.953505"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.953505
+    - 40.759016

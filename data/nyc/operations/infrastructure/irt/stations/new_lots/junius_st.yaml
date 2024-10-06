@@ -1,0 +1,45 @@
+id: new_lots_junius_st
+accessible: false
+station_names:
+- Junius St
+lines:
+- New Lots
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.663515"
+station_longitude: "-73.902447"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.902447
+  - 40.663515
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Powell St
+  east_west_street: Livonia Ave
+  corner: SW
+  entrance_latitude: "40.663426"
+  entrance_longitude: "-73.902636"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.902636
+    - 40.663426
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Powell St
+  east_west_street: Livonia Ave
+  corner: SW
+  entrance_latitude: "40.663361"
+  entrance_longitude: "-73.903063"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903063
+    - 40.663361

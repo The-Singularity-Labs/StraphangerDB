@@ -1,0 +1,71 @@
+id: broadway_7th_av_canal_st
+accessible: false
+station_names:
+- Canal St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.722854"
+station_longitude: "-74.006277"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.006277
+  - 40.722854
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Canal St
+  east_west_street: Varick St
+  corner: NW
+  entrance_latitude: "40.722932"
+  entrance_longitude: "-74.00662"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00662
+    - 40.722932
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Canal St
+  east_west_street: Varick St
+  corner: NE
+  entrance_latitude: "40.722497"
+  entrance_longitude: "-74.005994"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005994
+    - 40.722497
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Canal St
+  east_west_street: Varick St
+  corner: NW
+  entrance_latitude: "40.722878"
+  entrance_longitude: "-74.006518"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006518
+    - 40.722878
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Canal St
+  east_west_street: Varick St
+  corner: NE
+  entrance_latitude: "40.722569"
+  entrance_longitude: "-74.00608"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00608
+    - 40.722569

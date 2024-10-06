@@ -1,0 +1,84 @@
+id: 8th_av_canal_st
+accessible: false
+station_names:
+- Canal St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.720824"
+station_longitude: "-74.005229"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.005229
+  - 40.720824
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lispenard St
+  east_west_street: West Broadway
+  corner: NE
+  entrance_latitude: "40.720704"
+  entrance_longitude: "-74.004999"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004999
+    - 40.720704
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: West Broadway
+  corner: NW
+  entrance_latitude: "40.720758"
+  entrance_longitude: "-74.005399"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005399
+    - 40.720758
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: St. John La
+  east_west_street: Laight St
+  corner: SE
+  entrance_latitude: "40.721651"
+  entrance_longitude: "-74.005634"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005634
+    - 40.721651
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Thompson St
+  east_west_street: Canal St
+  corner: NE
+  entrance_latitude: "40.721967"
+  entrance_longitude: "-74.005133"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005133
+    - 40.721967
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Walker St
+  corner: NE
+  entrance_latitude: "40.71987"
+  entrance_longitude: "-74.005038"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005038
+    - 40.71987

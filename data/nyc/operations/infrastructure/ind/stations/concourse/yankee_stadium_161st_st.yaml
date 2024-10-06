@@ -1,0 +1,123 @@
+id: concourse_yankee_stadium_161st_st
+accessible: true
+station_names:
+- Yankee Stadium-161st St
+lines:
+- Concourse
+transfers: []
+division: IND
+borough: Bronx
+station_latitude: "40.827905"
+station_longitude: "-73.925651"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.925651
+  - 40.827905
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: River Ave
+  east_west_street: 161st St
+  corner: NE
+  entrance_latitude: "40.82784"
+  entrance_longitude: "-73.925715"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.925715
+    - 40.82784
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 161st St
+  corner: SW
+  entrance_latitude: "40.827471"
+  entrance_longitude: "-73.92625"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.92625
+    - 40.827471
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Walton Ave
+  east_west_street: 161st St
+  corner: NW
+  entrance_latitude: "40.827372"
+  entrance_longitude: "-73.924217"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.924217
+    - 40.827372
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Walton Ave
+  east_west_street: 161st St
+  corner: NW
+  entrance_latitude: "40.827539"
+  entrance_longitude: "-73.924156"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.924156
+    - 40.827539
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 161st St
+  corner: NE
+  entrance_latitude: "40.828011"
+  entrance_longitude: "-73.925588"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.925588
+    - 40.828011
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Walton Ave
+  east_west_street: 161st St
+  corner: NW
+  entrance_latitude: "40.827572"
+  entrance_longitude: "-73.924028"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.924028
+    - 40.827572
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 161st St
+  corner: SE
+  entrance_latitude: "40.827488"
+  entrance_longitude: "-73.926004"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.926004
+    - 40.827488
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 161st St
+  corner: SW
+  entrance_latitude: "40.827545"
+  entrance_longitude: "-73.926202"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.926202
+    - 40.827545

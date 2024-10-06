@@ -1,0 +1,71 @@
+id: fulton_st_shepherd_av
+accessible: false
+station_names:
+- Shepherd Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.67413"
+station_longitude: "-73.88075"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.88075
+  - 40.67413
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Shepherd Ave
+  east_west_street: Pitkin Ave
+  corner: NE
+  entrance_latitude: "40.674303"
+  entrance_longitude: "-73.880749"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.880749
+    - 40.674303
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Shepherd Ave
+  east_west_street: Pitkin Ave
+  corner: NW
+  entrance_latitude: "40.673989"
+  entrance_longitude: "-73.880869"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.880869
+    - 40.673989
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Shepherd Ave
+  east_west_street: Pitkin Ave
+  corner: SE
+  entrance_latitude: "40.67397"
+  entrance_longitude: "-73.880667"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.880667
+    - 40.67397
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Shepherd Ave
+  east_west_street: Pitkin Ave
+  corner: SW
+  entrance_latitude: "40.674234"
+  entrance_longitude: "-73.880927"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.880927
+    - 40.674234

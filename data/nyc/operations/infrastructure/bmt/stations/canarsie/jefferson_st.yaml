@@ -1,0 +1,97 @@
+id: canarsie_jefferson_st
+accessible: false
+station_names:
+- Jefferson St
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.706607"
+station_longitude: "-73.922913"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.922913
+  - 40.706607
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jefferson St
+  east_west_street: Wyckoff Ave
+  corner: SW
+  entrance_latitude: "40.707071"
+  entrance_longitude: "-73.923877"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.923877
+    - 40.707071
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Starr St
+  east_west_street: Wyckoff Ave
+  corner: SE
+  entrance_latitude: "40.705943"
+  entrance_longitude: "-73.922036"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.922036
+    - 40.705943
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Starr St
+  east_west_street: Wyckoff Ave
+  corner: NE
+  entrance_latitude: "40.706228"
+  entrance_longitude: "-73.92191"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.92191
+    - 40.706228
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jefferson St
+  east_west_street: Wyckoff Ave
+  corner: NW
+  entrance_latitude: "40.707229"
+  entrance_longitude: "-73.923725"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.923725
+    - 40.707229
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Starr St
+  east_west_street: Wyckoff Ave
+  corner: SW
+  entrance_latitude: "40.706082"
+  entrance_longitude: "-73.9223"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.9223
+    - 40.706082
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Starr St
+  east_west_street: Wyckoff Ave
+  corner: NW
+  entrance_latitude: "40.70632"
+  entrance_longitude: "-73.922062"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.922062
+    - 40.70632

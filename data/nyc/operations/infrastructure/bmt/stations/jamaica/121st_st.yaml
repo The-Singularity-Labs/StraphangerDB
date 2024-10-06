@@ -1,0 +1,71 @@
+id: jamaica_121st_st
+accessible: false
+station_names:
+- 121st St
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.700492"
+station_longitude: "-73.828294"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.828294
+  - 40.700492
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 121st St
+  east_west_street: Jamaica Ave
+  corner: SW
+  entrance_latitude: "40.700254"
+  entrance_longitude: "-73.829332"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829332
+    - 40.700254
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 121st St
+  east_west_street: Jamaica Ave
+  corner: NW
+  entrance_latitude: "40.70052"
+  entrance_longitude: "-73.829231"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829231
+    - 40.70052
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 123rd St
+  east_west_street: Jamaica Ave
+  corner: SE
+  entrance_latitude: "40.700596"
+  entrance_longitude: "-73.827239"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827239
+    - 40.700596
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 123rd St
+  east_west_street: Jamaica Ave
+  corner: NW
+  entrance_latitude: "40.700808"
+  entrance_longitude: "-73.82739"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.82739
+    - 40.700808

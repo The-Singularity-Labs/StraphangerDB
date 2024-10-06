@@ -1,0 +1,45 @@
+id: sea_beach_fort_hamilton_parkway
+accessible: false
+station_names:
+- Fort Hamilton Parkway
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.631386"
+station_longitude: "-74.005351"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.005351
+  - 40.631386
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Fort Hamilton Pkwy
+  east_west_street: 62nd St
+  corner: NE
+  entrance_latitude: "40.632179"
+  entrance_longitude: "-74.006658"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006658
+    - 40.632179
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 11th Ave
+  east_west_street: 62nd St
+  corner: NW
+  entrance_latitude: "40.630609"
+  entrance_longitude: "-74.004067"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004067
+    - 40.630609

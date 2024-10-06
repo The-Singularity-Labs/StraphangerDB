@@ -1,0 +1,58 @@
+id: jamaica_cypress_hills
+accessible: false
+station_names:
+- Cypress Hills
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.689941"
+station_longitude: "-73.87255"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.87255
+  - 40.689941
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Autumn Ave
+  east_west_street: Jamaica Ave
+  corner: SE
+  entrance_latitude: "40.690142"
+  entrance_longitude: "-73.87163"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.87163
+    - 40.690142
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Crescent St
+  east_west_street: Jamaica Ave
+  corner: NE
+  entrance_latitude: "40.689596"
+  entrance_longitude: "-73.873555"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.873555
+    - 40.689596
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Crescent St
+  east_west_street: Jamaica Ave
+  corner: SE
+  entrance_latitude: "40.68947"
+  entrance_longitude: "-73.873449"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.873449
+    - 40.68947

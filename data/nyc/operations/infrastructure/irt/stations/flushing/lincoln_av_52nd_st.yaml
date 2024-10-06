@@ -1,0 +1,71 @@
+id: flushing_lincoln_av_52nd_st
+accessible: false
+station_names:
+- Lincoln Av-52nd St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.744149"
+station_longitude: "-73.912549"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.912549
+  - 40.744149
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 53rd St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.74459"
+  entrance_longitude: "-73.911294"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.911294
+    - 40.74459
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 52nd St
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.743933"
+  entrance_longitude: "-73.913003"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913003
+    - 40.743933
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 53rd St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.744453"
+  entrance_longitude: "-73.911282"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.911282
+    - 40.744453
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 52nd St
+  east_west_street: Roosevelt Ave
+  corner: NW
+  entrance_latitude: "40.744067"
+  entrance_longitude: "-73.91308"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.91308
+    - 40.744067

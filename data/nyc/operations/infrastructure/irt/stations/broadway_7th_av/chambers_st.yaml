@@ -1,0 +1,84 @@
+id: broadway_7th_av_chambers_st
+accessible: false
+station_names:
+- Chambers St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.715478"
+station_longitude: "-74.009266"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.009266
+  - 40.715478
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chambers St
+  east_west_street: West Broadway
+  corner: NE
+  entrance_latitude: "40.715576"
+  entrance_longitude: "-74.009031"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009031
+    - 40.715576
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chambers St
+  east_west_street: West Broadway
+  corner: SW
+  entrance_latitude: "40.715444"
+  entrance_longitude: "-74.009453"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009453
+    - 40.715444
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chambers St
+  east_west_street: West Broadway
+  corner: SE
+  entrance_latitude: "40.715349"
+  entrance_longitude: "-74.009211"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009211
+    - 40.715349
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chambers St
+  east_west_street: West Broadway
+  corner: NW
+  entrance_latitude: "40.715736"
+  entrance_longitude: "-74.009328"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009328
+    - 40.715736
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chambers St
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.715539"
+  entrance_longitude: "-74.009427"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009427
+    - 40.715539

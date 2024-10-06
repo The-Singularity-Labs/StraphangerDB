@@ -1,0 +1,32 @@
+id: fulton_st_broadway_junction_east_new_york
+accessible: false
+station_names:
+- Broadway Junction-East New York
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.678334"
+station_longitude: "-73.905316"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.905316
+  - 40.678334
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Fulton St
+  east_west_street: Van Sinderen Ave
+  corner: SW
+  entrance_latitude: "40.678334"
+  entrance_longitude: "-73.903922"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903922
+    - 40.678334

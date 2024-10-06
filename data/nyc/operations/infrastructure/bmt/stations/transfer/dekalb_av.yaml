@@ -1,0 +1,97 @@
+id: 4th_av/brighton_dekalb_av
+accessible: true
+station_names:
+- DeKalb Av
+lines:
+- transfer
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.690635"
+station_longitude: "-73.981824"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.981824
+  - 40.690635
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Flatbush Ave
+  east_west_street: Fleet St
+  corner: NW
+  entrance_latitude: "40.69154"
+  entrance_longitude: "-73.982565"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982565
+    - 40.69154
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: De Kalb Ave
+  corner: SE
+  entrance_latitude: "40.689817"
+  entrance_longitude: "-73.981082"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981082
+    - 40.689817
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Flatbush Ave
+  east_west_street: De Kalb Ave
+  corner: SE
+  entrance_latitude: "40.689804"
+  entrance_longitude: "-73.981164"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981164
+    - 40.689804
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: De Kalb Ave
+  corner: SW
+  entrance_latitude: "40.68981"
+  entrance_longitude: "-73.981651"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981651
+    - 40.68981
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Fleet St
+  corner: NE
+  entrance_latitude: "40.691562"
+  entrance_longitude: "-73.982048"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982048
+    - 40.691562
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: De Kalb Ave
+  corner: SE
+  entrance_latitude: "40.68974"
+  entrance_longitude: "-73.981156"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981156
+    - 40.68974

@@ -1,0 +1,58 @@
+id: broadway_7th_av_168th_st
+accessible: false
+station_names:
+- 168th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.840556"
+station_longitude: "-73.940133"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.940133
+  - 40.840556
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 168th St
+  corner: SE
+  entrance_latitude: "40.840717"
+  entrance_longitude: "-73.93972"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.93972
+    - 40.840717
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.841024"
+  entrance_longitude: "-73.940083"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940083
+    - 40.841024
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 168th St
+  corner: SW
+  entrance_latitude: "40.840859"
+  entrance_longitude: "-73.940209"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940209
+    - 40.840859

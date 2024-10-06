@@ -1,0 +1,45 @@
+id: 8th_av_190th_st
+accessible: false
+station_names:
+- 190th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.859022"
+station_longitude: "-73.93418"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.93418
+  - 40.859022
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Fort Washington Ave
+  east_west_street: 192nd St
+  corner: NW
+  entrance_latitude: "40.858899"
+  entrance_longitude: "-73.932702"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.932702
+    - 40.858899
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Washington Ave
+  east_west_street: Margaret Corbin Dr
+  corner: SE
+  entrance_latitude: "40.858886"
+  entrance_longitude: "-73.934226"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.934226
+    - 40.858886

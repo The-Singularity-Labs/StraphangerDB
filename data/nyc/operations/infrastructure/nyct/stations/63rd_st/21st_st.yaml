@@ -1,0 +1,84 @@
+id: 63rd_st_21st_st
+accessible: false
+station_names:
+- 21st St
+lines:
+- 63rd St
+transfers: []
+division: NYCT
+borough: Queens
+station_latitude: "40.754203"
+station_longitude: "-73.942836"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.942836
+  - 40.754203
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 21st St
+  east_west_street: 41st Ave
+  corner: NE
+  entrance_latitude: "40.754255"
+  entrance_longitude: "-73.941935"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.941935
+    - 40.754255
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 21st St
+  east_west_street: 41st Ave
+  corner: NW
+  entrance_latitude: "40.754322"
+  entrance_longitude: "-73.942374"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.942374
+    - 40.754322
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: 21st St
+  east_west_street: 41st Ave
+  corner: NW
+  entrance_latitude: "40.754131"
+  entrance_longitude: "-73.942491"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.942491
+    - 40.754131
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: 21st St
+  east_west_street: 41st Ave
+  corner: NW
+  entrance_latitude: "40.754195"
+  entrance_longitude: "-73.942521"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.942521
+    - 40.754195
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 21st St
+  east_west_street: 41st Ave
+  corner: NE
+  entrance_latitude: "40.754069"
+  entrance_longitude: "-73.942132"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.942132
+    - 40.754069

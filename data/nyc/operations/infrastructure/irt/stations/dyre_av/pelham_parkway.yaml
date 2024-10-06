@@ -1,0 +1,32 @@
+id: dyre_av_pelham_parkway
+accessible: false
+station_names:
+- Pelham Parkway
+lines:
+- Dyre Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.858985"
+station_longitude: "-73.855359"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.855359
+  - 40.858985
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Esplanade
+  east_west_street: Laconia Ave
+  corner: NE
+  entrance_latitude: "40.858804"
+  entrance_longitude: "-73.855515"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.855515
+    - 40.858804

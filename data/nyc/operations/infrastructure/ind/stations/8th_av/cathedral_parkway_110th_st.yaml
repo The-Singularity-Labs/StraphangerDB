@@ -1,0 +1,58 @@
+id: 8th_av_cathedral_parkway_110th_st
+accessible: false
+station_names:
+- Cathedral Parkway-110th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.800605"
+station_longitude: "-73.958158"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.958158
+  - 40.800605
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Frederick Douglass Blvd
+  east_west_street: Cathedral Pkwy
+  corner: SW
+  entrance_latitude: "40.800866"
+  entrance_longitude: "-73.958405"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958405
+    - 40.800866
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Frederick Douglass Blvd
+  east_west_street: 109th St
+  corner: SW
+  entrance_latitude: "40.800002"
+  entrance_longitude: "-73.958882"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958882
+    - 40.800002
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Frederick Douglass Blvd
+  east_west_street: 109th St
+  corner: NE
+  entrance_latitude: "40.800002"
+  entrance_longitude: "-73.958448"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958448
+    - 40.800002

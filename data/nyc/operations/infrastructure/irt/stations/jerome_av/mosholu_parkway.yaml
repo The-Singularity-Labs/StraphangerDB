@@ -1,0 +1,71 @@
+id: jerome_av_mosholu_parkway
+accessible: false
+station_names:
+- Mosholu Parkway
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.87975"
+station_longitude: "-73.884655"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.884655
+  - 40.87975
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Mosholu Pkwy
+  corner: SW
+  entrance_latitude: "40.880077"
+  entrance_longitude: "-73.88447"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.88447
+    - 40.880077
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Mosholu Pkwy
+  corner: SW
+  entrance_latitude: "40.879503"
+  entrance_longitude: "-73.885138"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.885138
+    - 40.879503
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Mosholu Pkwy
+  corner: SE
+  entrance_latitude: "40.879343"
+  entrance_longitude: "-73.88488"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.88488
+    - 40.879343
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Mosholu Pkwy
+  corner: SE
+  entrance_latitude: "40.879899"
+  entrance_longitude: "-73.884244"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.884244
+    - 40.879899

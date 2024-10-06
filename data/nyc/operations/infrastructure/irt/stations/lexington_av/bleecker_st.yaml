@@ -1,0 +1,110 @@
+id: lexington_av_bleecker_st
+accessible: false
+station_names:
+- Bleecker St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.725915"
+station_longitude: "-73.994659"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.994659
+  - 40.725915
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Mulberry St
+  corner: SE
+  entrance_latitude: "40.725755"
+  entrance_longitude: "-73.994367"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994367
+    - 40.725755
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Mulberry St
+  corner: SW
+  entrance_latitude: "40.725726"
+  entrance_longitude: "-73.994579"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994579
+    - 40.725726
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.724888"
+  entrance_longitude: "-73.995291"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.995291
+    - 40.724888
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Bleecker St
+  corner: SW
+  entrance_latitude: "40.725958"
+  entrance_longitude: "-73.994829"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994829
+    - 40.725958
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Bleecker St
+  corner: NW
+  entrance_latitude: "40.726047"
+  entrance_longitude: "-73.994759"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994759
+    - 40.726047
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Mulberry St
+  corner: NE
+  entrance_latitude: "40.725845"
+  entrance_longitude: "-73.99432"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99432
+    - 40.725845
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.725137"
+  entrance_longitude: "-73.994938"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994938
+    - 40.725137

@@ -1,0 +1,97 @@
+id: canarsie_halsey_st
+accessible: false
+station_names:
+- Halsey St
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.695602"
+station_longitude: "-73.904084"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.904084
+  - 40.695602
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Halsey St
+  east_west_street: Wyckoff Ave
+  corner: SW
+  entrance_latitude: "40.695871"
+  entrance_longitude: "-73.905143"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.905143
+    - 40.695871
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Covert St
+  east_west_street: Wyckoff Ave
+  corner: NW
+  entrance_latitude: "40.695201"
+  entrance_longitude: "-73.903764"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903764
+    - 40.695201
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Norman St
+  east_west_street: Wyckoff Ave
+  corner: NE
+  entrance_latitude: "40.695186"
+  entrance_longitude: "-73.903065"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903065
+    - 40.695186
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Halsey St
+  east_west_street: Wyckoff Ave
+  corner: SE
+  entrance_latitude: "40.69599"
+  entrance_longitude: "-73.905265"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.905265
+    - 40.69599
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: George St
+  east_west_street: Wyckoff Ave
+  corner: NW
+  entrance_latitude: "40.696069"
+  entrance_longitude: "-73.904665"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.904665
+    - 40.696069
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: George St
+  east_west_street: Wyckoff Ave
+  corner: NE
+  entrance_latitude: "40.696094"
+  entrance_longitude: "-73.90443"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.90443
+    - 40.696094

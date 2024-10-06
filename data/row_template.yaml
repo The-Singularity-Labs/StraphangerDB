@@ -1,0 +1,37 @@
+id: cross_harbor_tunnel
+kind: row
+labels:
+  division: BMT
+  branch: 4th Avenue
+row:
+  borough: Brooklyn
+  grade: subteranean | elevated | trench | other
+  max_tph: 12 -- global maximum for entire row on any path ex. S curve
+  has_cbtc: true
+  comments:
+  url: https://www.nycsubway.org/wiki/IRT_West_Side_Line#42nd_Street.2FTimes_Square
+  track_points: 
+    - id: some_point_of_track
+      track_id: 0
+      orientation: inbound
+      level: 0 -- 0 indicates street level, -1 is standard subway level, +1 is standard elevated subway
+    - id: another_point_of_track
+      track_id: 0 -- points on the same track are automatically connected from outbound to inbound
+      orientation: outbound
+      level: 0 -- 0 indicates street level, -1 is standard subway level, +1 is standard elevated subway
+    - id: a_branch_point
+      track_id: 1
+      orientation: outbound
+      level: 0 -- 0 indicates street level, -1 is standard subway level, +1 is standard elevated subway
+
+  switch_graph:
+    - id: some_point_of_track
+      from: some_point_of_track
+      to: a_branch_point
+      capacity_per_hour: 24 -- number of trains that can be switched here assuming no competiting traffic 
+
+  georeference:
+    type: Point
+    coordinates:
+    - -73.981637
+    - 40.762862

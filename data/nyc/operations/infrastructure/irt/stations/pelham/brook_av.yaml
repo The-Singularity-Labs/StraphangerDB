@@ -1,0 +1,71 @@
+id: pelham_brook_av
+accessible: false
+station_names:
+- Brook Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.807566"
+station_longitude: "-73.91924"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.91924
+  - 40.807566
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Brook Ave
+  east_west_street: 138th St
+  corner: NE
+  entrance_latitude: "40.80758"
+  entrance_longitude: "-73.918957"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918957
+    - 40.80758
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Brook Ave
+  east_west_street: 138th St
+  corner: SW
+  entrance_latitude: "40.807467"
+  entrance_longitude: "-73.919448"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919448
+    - 40.807467
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Brook Ave
+  east_west_street: 138th St
+  corner: SE
+  entrance_latitude: "40.807355"
+  entrance_longitude: "-73.919219"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919219
+    - 40.807355
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Brook Ave
+  east_west_street: 138th St
+  corner: NW
+  entrance_latitude: "40.807747"
+  entrance_longitude: "-73.919347"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919347
+    - 40.807747

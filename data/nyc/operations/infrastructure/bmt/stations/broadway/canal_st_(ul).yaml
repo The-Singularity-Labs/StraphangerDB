@@ -1,0 +1,110 @@
+id: broadway_canal_st_(ul)
+accessible: false
+station_names:
+- Canal St (UL)
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.719527"
+station_longitude: "-74.001775"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.001775
+  - 40.719527
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: SE
+  entrance_latitude: "40.719218"
+  entrance_longitude: "-74.00185"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00185
+    - 40.719218
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: NE
+  entrance_latitude: "40.719498"
+  entrance_longitude: "-74.001606"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001606
+    - 40.719498
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: NW
+  entrance_latitude: "40.719585"
+  entrance_longitude: "-74.00193"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00193
+    - 40.719585
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: SW
+  entrance_latitude: "40.719408"
+  entrance_longitude: "-74.002158"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002158
+    - 40.719408
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: NW
+  entrance_latitude: "40.71966"
+  entrance_longitude: "-74.002019"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002019
+    - 40.71966
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: SW
+  entrance_latitude: "40.71946"
+  entrance_longitude: "-74.002236"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002236
+    - 40.71946
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Canal St
+  corner: SE
+  entrance_latitude: "40.719166"
+  entrance_longitude: "-74.001774"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001774
+    - 40.719166

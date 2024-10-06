@@ -1,0 +1,58 @@
+id: broadway_7th_av_cathedral_parkway_110th_st
+accessible: false
+station_names:
+- Cathedral Parkway-110th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.803967"
+station_longitude: "-73.966847"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.966847
+  - 40.803967
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Cathedral Pkwy
+  corner: SE
+  entrance_latitude: "40.803926"
+  entrance_longitude: "-73.966647"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966647
+    - 40.803926
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Cathedral Pkwy
+  corner: NW
+  entrance_latitude: "40.80439"
+  entrance_longitude: "-73.966786"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966786
+    - 40.80439
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Cathedral Pkwy
+  corner: NE
+  entrance_latitude: "40.804257"
+  entrance_longitude: "-73.966422"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966422
+    - 40.804257

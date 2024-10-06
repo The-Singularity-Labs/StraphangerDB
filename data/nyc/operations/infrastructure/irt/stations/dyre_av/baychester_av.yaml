@@ -1,0 +1,45 @@
+id: dyre_av_baychester_av
+accessible: false
+station_names:
+- Baychester Av
+lines:
+- Dyre Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.878663"
+station_longitude: "-73.838591"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.838591
+  - 40.878663
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Baychester Ave
+  east_west_street: Tillotson Ave
+  corner: NW
+  entrance_latitude: "40.879519"
+  entrance_longitude: "-73.837958"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.837958
+    - 40.879519
+- entry_only: false
+  exit_only: true
+  entrance_type: Door
+  north_south_street: Baychester Ave
+  east_west_street: Tillotson Ave
+  corner: NW
+  entrance_latitude: "40.87933"
+  entrance_longitude: "-73.837858"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.837858
+    - 40.87933

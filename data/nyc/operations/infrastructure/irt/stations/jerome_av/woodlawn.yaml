@@ -1,0 +1,45 @@
+id: jerome_av_woodlawn
+accessible: false
+station_names:
+- Woodlawn
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.886037"
+station_longitude: "-73.878751"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.878751
+  - 40.886037
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Bainbridge Ave
+  corner: SW
+  entrance_latitude: "40.886819"
+  entrance_longitude: "-73.878376"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.878376
+    - 40.886819
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Bainbridge Ave
+  corner: SE
+  entrance_latitude: "40.886737"
+  entrance_longitude: "-73.87812"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.87812
+    - 40.886737

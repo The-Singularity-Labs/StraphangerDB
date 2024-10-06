@@ -1,0 +1,71 @@
+id: broadway_28th_st
+accessible: false
+station_names:
+- 28th St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.745494"
+station_longitude: "-73.988691"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.988691
+  - 40.745494
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 28th St
+  corner: NE
+  entrance_latitude: "40.745299"
+  entrance_longitude: "-73.988579"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988579
+    - 40.745299
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 28th St
+  corner: SW
+  entrance_latitude: "40.745281"
+  entrance_longitude: "-73.988923"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988923
+    - 40.745281
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 28th St
+  corner: SE
+  entrance_latitude: "40.745089"
+  entrance_longitude: "-73.988472"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988472
+    - 40.745089
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 28th St
+  corner: NW
+  entrance_latitude: "40.745488"
+  entrance_longitude: "-73.98901"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98901
+    - 40.745488

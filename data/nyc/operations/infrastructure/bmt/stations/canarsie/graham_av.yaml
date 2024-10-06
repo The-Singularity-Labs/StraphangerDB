@@ -1,0 +1,71 @@
+id: canarsie_graham_av
+accessible: false
+station_names:
+- Graham Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.714565"
+station_longitude: "-73.944053"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.944053
+  - 40.714565
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Graham Ave
+  east_west_street: Metropolitan Ave
+  corner: SE
+  entrance_latitude: "40.714439"
+  entrance_longitude: "-73.94419"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.94419
+    - 40.714439
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Graham Ave
+  east_west_street: Metropolitan Ave
+  corner: NW
+  entrance_latitude: "40.714433"
+  entrance_longitude: "-73.944546"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.944546
+    - 40.714433
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Graham Ave
+  east_west_street: Metropolitan Ave
+  corner: NE
+  entrance_latitude: "40.714661"
+  entrance_longitude: "-73.944287"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.944287
+    - 40.714661
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Graham Ave
+  east_west_street: Metropolitan Ave
+  corner: SW
+  entrance_latitude: "40.714613"
+  entrance_longitude: "-73.94457"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.94457
+    - 40.714613

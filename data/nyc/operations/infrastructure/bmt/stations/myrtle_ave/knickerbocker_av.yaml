@@ -1,0 +1,45 @@
+id: myrtle_ave_knickerbocker_av
+accessible: false
+station_names:
+- Knickerbocker Av
+lines:
+- Myrtle Ave
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.698664"
+station_longitude: "-73.919711"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.919711
+  - 40.698664
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Myrtle Ave
+  east_west_street: Greene Ave
+  corner: NW
+  entrance_latitude: "40.698717"
+  entrance_longitude: "-73.918655"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918655
+    - 40.698717
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Myrtle Ave
+  east_west_street: Greene Ave
+  corner: SE
+  entrance_latitude: "40.698913"
+  entrance_longitude: "-73.918771"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918771
+    - 40.698913

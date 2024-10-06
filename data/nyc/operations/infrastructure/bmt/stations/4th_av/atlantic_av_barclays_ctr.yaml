@@ -1,0 +1,32 @@
+id: 4th_av_atlantic_av_barclays_ctr
+accessible: true
+station_names:
+- Atlantic Av-Barclays Ctr
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.683666"
+station_longitude: "-73.97881"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.97881
+  - 40.683666
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 4th Ave
+  east_west_street: Pacific St
+  corner: NE
+  entrance_latitude: "40.683805"
+  entrance_longitude: "-73.978487"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978487
+    - 40.683805

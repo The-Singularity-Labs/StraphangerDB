@@ -1,0 +1,71 @@
+id: jerome_av/white_plains_rd_149th_st_grand_concourse
+accessible: false
+station_names:
+- 149th St-Grand Concourse
+lines:
+- transfer
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.818375"
+station_longitude: "-73.927351"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.927351
+  - 40.818375
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 149th St
+  corner: SE
+  entrance_latitude: "40.818281"
+  entrance_longitude: "-73.927251"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927251
+    - 40.818281
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Conccourse
+  east_west_street: 149th St
+  corner: SE
+  entrance_latitude: "40.818405"
+  entrance_longitude: "-73.927101"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927101
+    - 40.818405
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 149th St
+  corner: SW
+  entrance_latitude: "40.818373"
+  entrance_longitude: "-73.927609"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927609
+    - 40.818373
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 149th St
+  corner: SW
+  entrance_latitude: "40.818259"
+  entrance_longitude: "-73.927659"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927659
+    - 40.818259

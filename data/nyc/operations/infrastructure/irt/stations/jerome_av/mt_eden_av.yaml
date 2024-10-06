@@ -1,0 +1,45 @@
+id: jerome_av_mt_eden_av
+accessible: false
+station_names:
+- Mt Eden Av
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.844434"
+station_longitude: "-73.914685"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.914685
+  - 40.844434
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Cross Bronx Expwy
+  corner: SW
+  entrance_latitude: "40.844702"
+  entrance_longitude: "-73.91465"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.91465
+    - 40.844702
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: Mt Eden Ave
+  corner: NE
+  entrance_latitude: "40.844389"
+  entrance_longitude: "-73.914578"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.914578
+    - 40.844389

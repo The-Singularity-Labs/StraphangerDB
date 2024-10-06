@@ -1,0 +1,71 @@
+id: queens_blvd_46th_st
+accessible: false
+station_names:
+- 46th St
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.756312"
+station_longitude: "-73.913333"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.913333
+  - 40.756312
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 48th St
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.755813"
+  entrance_longitude: "-73.912642"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.912642
+    - 40.755813
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 46th St
+  east_west_street: Broadway
+  corner: NW
+  entrance_latitude: "40.756868"
+  entrance_longitude: "-73.914303"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.914303
+    - 40.756868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 48th St
+  east_west_street: Newtown Rd
+  corner: NE
+  entrance_latitude: "40.756029"
+  entrance_longitude: "-73.91218"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.91218
+    - 40.756029
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 46th St
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.756624"
+  entrance_longitude: "-73.914407"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.914407
+    - 40.756624

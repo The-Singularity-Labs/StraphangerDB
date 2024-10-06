@@ -1,0 +1,32 @@
+id: sea_beach_86th_st
+accessible: false
+station_names:
+- 86th St
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.592721"
+station_longitude: "-73.97823"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.97823
+  - 40.592721
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 8th St
+  east_west_street: 86th St
+  corner: SE
+  entrance_latitude: "40.592724"
+  entrance_longitude: "-73.978227"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978227
+    - 40.592724

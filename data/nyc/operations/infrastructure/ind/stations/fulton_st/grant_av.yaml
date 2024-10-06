@@ -1,0 +1,32 @@
+id: fulton_st_grant_av
+accessible: false
+station_names:
+- Grant Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.677044"
+station_longitude: "-73.86505"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.86505
+  - 40.677044
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Grant Ave
+  east_west_street: Pitkin Ave
+  corner: NE
+  entrance_latitude: "40.676735"
+  entrance_longitude: "-73.865491"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.865491
+    - 40.676735

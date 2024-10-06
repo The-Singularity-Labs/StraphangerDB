@@ -1,0 +1,97 @@
+id: lexington_av_14th_st_union_square
+accessible: false
+station_names:
+- 14th St-Union Square
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.734673"
+station_longitude: "-73.989951"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.989951
+  - 40.734673
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.73418"
+  entrance_longitude: "-73.989549"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989549
+    - 40.73418
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 4th Ave
+  east_west_street: 15th St
+  corner: SW
+  entrance_latitude: "40.735184"
+  entrance_longitude: "-73.989793"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989793
+    - 40.735184
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.734222"
+  entrance_longitude: "-73.989674"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989674
+    - 40.734222
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 14th St
+  corner: SW
+  entrance_latitude: "40.734495"
+  entrance_longitude: "-73.990311"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990311
+    - 40.734495
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 14th St
+  corner: SW
+  entrance_latitude: "40.734444"
+  entrance_longitude: "-73.990184"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990184
+    - 40.734444
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 4th Ave
+  east_west_street: 14th St
+  corner: NE
+  entrance_latitude: "40.734406"
+  entrance_longitude: "-73.989437"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989437
+    - 40.734406

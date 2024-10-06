@@ -1,0 +1,110 @@
+id: queens_blvd_63rd_drive_rego_park
+accessible: false
+station_names:
+- 63rd Drive-Rego Park
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.729846"
+station_longitude: "-73.861604"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.861604
+  - 40.729846
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 64th Rd
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.729774"
+  entrance_longitude: "-73.860489"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.860489
+    - 40.729774
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 63rd Dr
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.729574"
+  entrance_longitude: "-73.861751"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.861751
+    - 40.729574
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 63rd Rd
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.730417"
+  entrance_longitude: "-73.862373"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.862373
+    - 40.730417
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 63rd Rd
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.729265"
+  entrance_longitude: "-73.860814"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.860814
+    - 40.729265
+- entry_only: true
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 63rd Rd
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.729953"
+  entrance_longitude: "-73.862699"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.862699
+    - 40.729953
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 64th Rd
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.728847"
+  entrance_longitude: "-73.859668"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.859668
+    - 40.728847
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 63rd Dr
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.730037"
+  entrance_longitude: "-73.861343"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.861343
+    - 40.730037

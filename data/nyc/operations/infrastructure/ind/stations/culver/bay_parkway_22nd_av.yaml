@@ -1,0 +1,58 @@
+id: culver_bay_parkway_22nd_av
+accessible: false
+station_names:
+- Bay Parkway-22nd Av
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.620769"
+station_longitude: "-73.975264"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.975264
+  - 40.620769
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Bay Pkwy
+  corner: SE
+  entrance_latitude: "40.620825"
+  entrance_longitude: "-73.975138"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975138
+    - 40.620825
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Bay Pkwy
+  corner: SW
+  entrance_latitude: "40.620797"
+  entrance_longitude: "-73.975479"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975479
+    - 40.620797
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Bay Pkwy
+  corner: NW
+  entrance_latitude: "40.621162"
+  entrance_longitude: "-73.975467"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975467
+    - 40.621162

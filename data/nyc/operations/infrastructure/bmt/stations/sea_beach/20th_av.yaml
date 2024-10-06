@@ -1,0 +1,32 @@
+id: sea_beach_20th_av
+accessible: false
+station_names:
+- 20th Av
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.61741"
+station_longitude: "-73.985026"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.985026
+  - 40.61741
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 20th Ave
+  east_west_street: 64th St
+  corner: NE
+  entrance_latitude: "40.617341"
+  entrance_longitude: "-73.98484"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98484
+    - 40.617341

@@ -1,0 +1,84 @@
+id: white_plains_rd_simpson_st
+accessible: true
+station_names:
+- Simpson St
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.824073"
+station_longitude: "-73.893064"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.893064
+  - 40.824073
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Westchester Ave
+  east_west_street: Simpson St
+  corner: SW
+  entrance_latitude: "40.823884"
+  entrance_longitude: "-73.893197"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.893197
+    - 40.823884
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Westchester Ave
+  east_west_street: Simpson St
+  corner: SE
+  entrance_latitude: "40.824118"
+  entrance_longitude: "-73.892731"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.892731
+    - 40.824118
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Westchester Ave
+  east_west_street: Simpson St
+  corner: NW
+  entrance_latitude: "40.824177"
+  entrance_longitude: "-73.893114"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.893114
+    - 40.824177
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Westchester Ave
+  east_west_street: Simpson St
+  corner: NE
+  entrance_latitude: "40.824358"
+  entrance_longitude: "-73.892724"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.892724
+    - 40.824358
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Westchester Ave
+  east_west_street: Simpson St
+  corner: NE
+  entrance_latitude: "40.824356"
+  entrance_longitude: "-73.892897"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.892897
+    - 40.824356

@@ -1,0 +1,45 @@
+id: pelham_zerega_av
+accessible: false
+station_names:
+- Zerega Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.836488"
+station_longitude: "-73.847036"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.847036
+  - 40.836488
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Westchester Ave
+  east_west_street: Zerega Ave
+  corner: NW
+  entrance_latitude: "40.836954"
+  entrance_longitude: "-73.846653"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.846653
+    - 40.836954
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Westchester Ave
+  east_west_street: Zerega Ave
+  corner: SE
+  entrance_latitude: "40.836613"
+  entrance_longitude: "-73.846726"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.846726
+    - 40.836613

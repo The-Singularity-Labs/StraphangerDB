@@ -1,0 +1,84 @@
+id: broadway_7th_av_86th_st
+accessible: false
+station_names:
+- 86th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.788644"
+station_longitude: "-73.976218"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.976218
+  - 40.788644
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 86th St
+  corner: NE
+  entrance_latitude: "40.78902"
+  entrance_longitude: "-73.97633"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97633
+    - 40.78902
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 86th St
+  corner: NE
+  entrance_latitude: "40.788272"
+  entrance_longitude: "-73.976083"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976083
+    - 40.788272
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 86th St
+  corner: SE
+  entrance_latitude: "40.788073"
+  entrance_longitude: "-73.976288"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976288
+    - 40.788073
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 86th St
+  corner: NW
+  entrance_latitude: "40.788515"
+  entrance_longitude: "-73.976718"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976718
+    - 40.788515
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 86th St
+  corner: SW
+  entrance_latitude: "40.788349"
+  entrance_longitude: "-73.976935"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976935
+    - 40.788349

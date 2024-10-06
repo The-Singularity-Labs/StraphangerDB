@@ -1,0 +1,45 @@
+id: flushing_34_st_hudson_yards
+accessible: true
+station_names:
+- 34 St Hudson Yards
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.755882"
+station_longitude: "-74.00191"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.00191
+  - 40.755882
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 34th St
+  east_west_street: Hudson Boulevard (East)
+  corner: SW
+  entrance_latitude: "40.754937"
+  entrance_longitude: "-74.000961"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000961
+    - 40.754937
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 34th St
+  east_west_street: Hudson Boulevard (East)
+  corner: SW
+  entrance_latitude: "40.754904"
+  entrance_longitude: "-74.001323"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001323
+    - 40.754904

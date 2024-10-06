@@ -1,0 +1,32 @@
+id: eastern_parkway_atlantic_av_barclays_ctr
+accessible: false
+station_names:
+- Atlantic Av-Barclays Ctr
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.684359"
+station_longitude: "-73.977666"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.977666
+  - 40.684359
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Ashland Pl
+  east_west_street: Hanson Pl
+  corner: SE
+  entrance_latitude: "40.684976"
+  entrance_longitude: "-73.97788"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97788
+    - 40.684976

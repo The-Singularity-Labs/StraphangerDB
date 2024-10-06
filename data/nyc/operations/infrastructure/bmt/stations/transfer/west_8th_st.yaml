@@ -1,0 +1,71 @@
+id: brighton/culver_west_8th_st
+accessible: false
+station_names:
+- West 8th St
+lines:
+- transfer
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.576127"
+station_longitude: "-73.975939"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.975939
+  - 40.576127
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Ramp
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.575752"
+  entrance_longitude: "-73.97674"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97674
+    - 40.575752
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.576464"
+  entrance_longitude: "-73.974862"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974862
+    - 40.576464
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th St
+  east_west_street: Surf Ave
+  corner: NW
+  entrance_latitude: "40.575929"
+  entrance_longitude: "-73.976747"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976747
+    - 40.575929
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th St
+  east_west_street: Surf Ave
+  corner: NW
+  entrance_latitude: "40.575499"
+  entrance_longitude: "-73.976873"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976873
+    - 40.575499

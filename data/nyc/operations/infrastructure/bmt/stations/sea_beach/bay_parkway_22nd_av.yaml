@@ -1,0 +1,45 @@
+id: sea_beach_bay_parkway_22nd_av
+accessible: false
+station_names:
+- Bay Parkway-22nd Av
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.611815"
+station_longitude: "-73.981848"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.981848
+  - 40.611815
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Bay Pkwy
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.612989"
+  entrance_longitude: "-73.982084"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982084
+    - 40.612989
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 8th St
+  east_west_street: Avenue O
+  corner: NE
+  entrance_latitude: "40.610572"
+  entrance_longitude: "-73.981613"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981613
+    - 40.610572

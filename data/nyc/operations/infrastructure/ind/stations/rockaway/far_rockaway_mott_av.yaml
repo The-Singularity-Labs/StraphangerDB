@@ -1,0 +1,32 @@
+id: rockaway_far_rockaway_mott_av
+accessible: false
+station_names:
+- Far Rockaway-Mott Av
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.603995"
+station_longitude: "-73.755405"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.755405
+  - 40.603995
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Beach 22nd St
+  east_west_street: Mott Ave
+  corner: SW
+  entrance_latitude: "40.604657"
+  entrance_longitude: "-73.754178"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.754178
+    - 40.604657

@@ -1,0 +1,188 @@
+id: fulton_st/culver_jay_st_borough_hall
+accessible: false
+station_names:
+- Jay St - Borough Hall
+lines:
+- transfer
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.692338"
+station_longitude: "-73.987342"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.987342
+  - 40.692338
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Jay St
+  east_west_street: Metrotech Walk
+  corner: SW
+  entrance_latitude: "40.693243"
+  entrance_longitude: "-73.987481"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987481
+    - 40.693243
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jay St
+  east_west_street: Willoughby St
+  corner: NE
+  entrance_latitude: "40.692397"
+  entrance_longitude: "-73.987162"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987162
+    - 40.692397
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jay St
+  east_west_street: Willoughby St
+  corner: NE
+  entrance_latitude: "40.692329"
+  entrance_longitude: "-73.987167"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987167
+    - 40.692329
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jay St
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.691559"
+  entrance_longitude: "-73.987208"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987208
+    - 40.691559
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jay St
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.6917"
+  entrance_longitude: "-73.987461"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987461
+    - 40.6917
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Jay St
+  east_west_street: Willoughby St
+  corner: NW
+  entrance_latitude: "40.692336"
+  entrance_longitude: "-73.987494"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987494
+    - 40.692336
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Jay St
+  east_west_street: Metrotech Walk
+  corner: SW
+  entrance_latitude: "40.693153"
+  entrance_longitude: "-73.987484"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987484
+    - 40.693153
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Jay St
+  east_west_street: Willoughby St
+  corner: NW
+  entrance_latitude: "40.692335"
+  entrance_longitude: "-73.987446"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987446
+    - 40.692335
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Jay St
+  east_west_street: Willoughby St
+  corner: NW
+  entrance_latitude: "40.692393"
+  entrance_longitude: "-73.987443"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987443
+    - 40.692393
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Jay St
+  east_west_street: Willoughby St
+  corner: NW
+  entrance_latitude: "40.692394"
+  entrance_longitude: "-73.987491"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987491
+    - 40.692394
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Jay St
+  east_west_street: Metrotech Walk
+  corner: SW
+  entrance_latitude: "40.693243"
+  entrance_longitude: "-73.987402"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987402
+    - 40.693243
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Jay St
+  east_west_street: Metrotech Walk
+  corner: SE
+  entrance_latitude: "40.693491"
+  entrance_longitude: "-73.987089"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987089
+    - 40.693491
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Jay St
+  east_west_street: Metrotech Walk
+  corner: SW
+  entrance_latitude: "40.693153"
+  entrance_longitude: "-73.987408"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987408
+    - 40.693153

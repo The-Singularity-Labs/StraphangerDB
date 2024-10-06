@@ -1,0 +1,71 @@
+id: fulton_st_lefferts_blvd
+accessible: false
+station_names:
+- Lefferts Blvd
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.685951"
+station_longitude: "-73.825798"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.825798
+  - 40.685951
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 116th St
+  east_west_street: Liberty Ave
+  corner: SW
+  entrance_latitude: "40.68572"
+  entrance_longitude: "-73.827092"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827092
+    - 40.68572
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 116th St
+  east_west_street: Liberty Ave
+  corner: NW
+  entrance_latitude: "40.685868"
+  entrance_longitude: "-73.827107"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827107
+    - 40.685868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lefferts Blvd
+  east_west_street: Liberty Ave
+  corner: SW
+  entrance_latitude: "40.686103"
+  entrance_longitude: "-73.824314"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.824314
+    - 40.686103
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lefferts Blvd
+  east_west_street: Liberty Ave
+  corner: NW
+  entrance_latitude: "40.686234"
+  entrance_longitude: "-73.824378"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.824378
+    - 40.686234

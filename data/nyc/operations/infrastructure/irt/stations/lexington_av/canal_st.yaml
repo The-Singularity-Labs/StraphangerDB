@@ -1,0 +1,110 @@
+id: lexington_av_canal_st
+accessible: true
+station_names:
+- Canal St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.718803"
+station_longitude: "-74.000193"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.000193
+  - 40.718803
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: NE
+  entrance_latitude: "40.718304"
+  entrance_longitude: "-74.000138"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000138
+    - 40.718304
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: SE
+  entrance_latitude: "40.718197"
+  entrance_longitude: "-74.000388"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000388
+    - 40.718197
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: SE
+  entrance_latitude: "40.718155"
+  entrance_longitude: "-74.000317"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000317
+    - 40.718155
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: NW
+  entrance_latitude: "40.718638"
+  entrance_longitude: "-74.000623"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000623
+    - 40.718638
+- entry_only: false
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: NW
+  entrance_latitude: "40.718589"
+  entrance_longitude: "-74.000552"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000552
+    - 40.718589
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: NE
+  entrance_latitude: "40.718358"
+  entrance_longitude: "-74.000216"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000216
+    - 40.718358
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lafayette St
+  east_west_street: Canal St
+  corner: SW
+  entrance_latitude: "40.718506"
+  entrance_longitude: "-74.000826"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000826
+    - 40.718506

@@ -1,0 +1,45 @@
+id: sea_beach_kings_highway
+accessible: false
+station_names:
+- Kings Highway
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.603923"
+station_longitude: "-73.980353"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.980353
+  - 40.603923
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 7th St
+  east_west_street: Kings Hwy
+  corner: NW
+  entrance_latitude: "40.605107"
+  entrance_longitude: "-73.980578"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980578
+    - 40.605107
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 7th St
+  east_west_street: Highlawn Ave
+  corner: SW
+  entrance_latitude: "40.603212"
+  entrance_longitude: "-73.980199"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980199
+    - 40.603212

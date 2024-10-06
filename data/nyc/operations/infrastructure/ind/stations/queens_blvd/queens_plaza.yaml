@@ -1,0 +1,110 @@
+id: queens_blvd_queens_plaza
+accessible: false
+station_names:
+- Queens Plaza
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.748973"
+station_longitude: "-73.937243"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.937243
+  - 40.748973
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.748807"
+  entrance_longitude: "-73.937057"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.937057
+    - 40.748807
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: West St
+  corner: SE
+  entrance_latitude: "40.748466"
+  entrance_longitude: "-73.938244"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.938244
+    - 40.748466
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Northern Blvd
+  east_west_street: 41st Ave
+  corner: SE
+  entrance_latitude: "40.749577"
+  entrance_longitude: "-73.936094"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936094
+    - 40.749577
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Northern Blvd
+  east_west_street: 41st Ave
+  corner: NW
+  entrance_latitude: "40.749857"
+  entrance_longitude: "-73.936198"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936198
+    - 40.749857
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.749086"
+  entrance_longitude: "-73.937896"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.937896
+    - 40.749086
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: West St
+  corner: SW
+  entrance_latitude: "40.748705"
+  entrance_longitude: "-73.938471"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.938471
+    - 40.748705
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.748697"
+  entrance_longitude: "-73.937364"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.937364
+    - 40.748697

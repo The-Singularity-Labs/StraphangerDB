@@ -1,0 +1,84 @@
+id: eastern_parkway_bergen_st
+accessible: false
+station_names:
+- Bergen St
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.680829"
+station_longitude: "-73.975098"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.975098
+  - 40.680829
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Bergen St
+  corner: SW
+  entrance_latitude: "40.680709"
+  entrance_longitude: "-73.975241"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975241
+    - 40.680709
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Bergen St
+  corner: SE
+  entrance_latitude: "40.680695"
+  entrance_longitude: "-73.974748"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974748
+    - 40.680695
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Bergen St
+  corner: NE
+  entrance_latitude: "40.680911"
+  entrance_longitude: "-73.97496"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97496
+    - 40.680911
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Bergen St
+  corner: SW
+  entrance_latitude: "40.680832"
+  entrance_longitude: "-73.975534"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975534
+    - 40.680832
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Bergen St
+  corner: NW
+  entrance_latitude: "40.680951"
+  entrance_longitude: "-73.975448"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975448
+    - 40.680951

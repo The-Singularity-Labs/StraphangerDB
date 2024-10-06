@@ -1,0 +1,45 @@
+id: brighton_av_m
+accessible: false
+station_names:
+- Av M
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.617618"
+station_longitude: "-73.959399"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.959399
+  - 40.617618
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 15th St
+  east_west_street: Avenue M
+  corner: SE
+  entrance_latitude: "40.617928"
+  entrance_longitude: "-73.959454"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.959454
+    - 40.617928
+- entry_only: false
+  exit_only: false
+  entrance_type: Door
+  north_south_street: East 16 St
+  east_west_street: Avenue M
+  corner: NW
+  entrance_latitude: "40.61814"
+  entrance_longitude: "-73.95946"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95946
+    - 40.61814

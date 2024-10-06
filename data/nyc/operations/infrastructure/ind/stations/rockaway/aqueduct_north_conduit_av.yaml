@@ -1,0 +1,45 @@
+id: rockaway_aqueduct_north_conduit_av
+accessible: false
+station_names:
+- Aqueduct-North Conduit Av
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.668234"
+station_longitude: "-73.834058"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.834058
+  - 40.668234
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Cohancy St
+  east_west_street: North Conduit Ave
+  corner: NE
+  entrance_latitude: "40.667018"
+  entrance_longitude: "-73.83348"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.83348
+    - 40.667018
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 99th Pl
+  east_west_street: Hawtree St
+  corner: NE
+  entrance_latitude: "40.669339"
+  entrance_longitude: "-73.834721"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.834721
+    - 40.669339

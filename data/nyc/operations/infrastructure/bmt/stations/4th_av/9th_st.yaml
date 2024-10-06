@@ -1,0 +1,45 @@
+id: 4th_av_9th_st
+accessible: false
+station_names:
+- 9th St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.670847"
+station_longitude: "-73.988302"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.988302
+  - 40.670847
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 9th St
+  corner: NE
+  entrance_latitude: "40.670387"
+  entrance_longitude: "-73.98848"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98848
+    - 40.670387
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 9th St
+  corner: NW
+  entrance_latitude: "40.670538"
+  entrance_longitude: "-73.988778"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988778
+    - 40.670538

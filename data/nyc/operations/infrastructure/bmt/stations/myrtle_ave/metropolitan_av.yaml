@@ -1,0 +1,32 @@
+id: myrtle_ave_metropolitan_av
+accessible: false
+station_names:
+- Metropolitan Av
+lines:
+- Myrtle Ave
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.711396"
+station_longitude: "-73.889601"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.889601
+  - 40.711396
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 69th St
+  east_west_street: Metropolitan Ave
+  corner: SW
+  entrance_latitude: "40.712082"
+  entrance_longitude: "-73.88954"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.88954
+    - 40.712082

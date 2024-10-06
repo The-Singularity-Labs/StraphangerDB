@@ -1,0 +1,32 @@
+id: sea_beach_8th_av
+accessible: false
+station_names:
+- 8th Av
+lines:
+- Sea Beach
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.635064"
+station_longitude: "-74.011719"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.011719
+  - 40.635064
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 8th Ave
+  east_west_street: 62nd St
+  corner: NW
+  entrance_latitude: "40.634552"
+  entrance_longitude: "-74.010726"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010726
+    - 40.634552

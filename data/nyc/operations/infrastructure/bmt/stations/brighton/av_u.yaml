@@ -1,0 +1,32 @@
+id: brighton_av_u
+accessible: false
+station_names:
+- Av U
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.5993"
+station_longitude: "-73.955929"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.955929
+  - 40.5993
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 15th St
+  east_west_street: Avenue U
+  corner: SE
+  entrance_latitude: "40.598991"
+  entrance_longitude: "-73.955828"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955828
+    - 40.598991

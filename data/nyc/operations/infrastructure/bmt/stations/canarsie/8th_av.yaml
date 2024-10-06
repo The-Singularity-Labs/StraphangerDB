@@ -1,0 +1,45 @@
+id: canarsie_8th_av
+accessible: false
+station_names:
+- 8th Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.739777"
+station_longitude: "-74.002578"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.002578
+  - 40.739777
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.73955"
+  entrance_longitude: "-74.002389"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002389
+    - 40.73955
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 14th St
+  corner: SW
+  entrance_latitude: "40.739734"
+  entrance_longitude: "-74.002804"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002804
+    - 40.739734

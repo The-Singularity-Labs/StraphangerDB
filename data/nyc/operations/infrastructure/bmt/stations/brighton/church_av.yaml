@@ -1,0 +1,45 @@
+id: brighton_church_av
+accessible: false
+station_names:
+- Church Av
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.650527"
+station_longitude: "-73.962982"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.962982
+  - 40.650527
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: St. Pauls Pl
+  east_west_street: Caton Ave
+  corner: SE
+  entrance_latitude: "40.651482"
+  entrance_longitude: "-73.962732"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.962732
+    - 40.651482
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 18th St
+  east_west_street: Church Ave
+  corner: NW
+  entrance_latitude: "40.649427"
+  entrance_longitude: "-73.963356"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.963356
+    - 40.649427

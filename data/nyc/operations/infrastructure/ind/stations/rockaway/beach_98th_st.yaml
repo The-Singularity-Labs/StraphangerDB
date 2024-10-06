@@ -1,0 +1,58 @@
+id: rockaway_beach_98th_st
+accessible: false
+station_names:
+- Beach 98th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.585307"
+station_longitude: "-73.820558"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.820558
+  - 40.585307
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 98th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.585342"
+  entrance_longitude: "-73.820249"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.820249
+    - 40.585342
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 98th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.585208"
+  entrance_longitude: "-73.820595"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.820595
+    - 40.585208
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 98th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.58554"
+  entrance_longitude: "-73.820345"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.820345
+    - 40.58554

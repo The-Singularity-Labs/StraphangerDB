@@ -1,0 +1,58 @@
+id: broadway_city_hall
+accessible: false
+station_names:
+- City Hall
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.713282"
+station_longitude: "-74.006978"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.006978
+  - 40.713282
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Warren St
+  corner: NE
+  entrance_latitude: "40.713437"
+  entrance_longitude: "-74.00676"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00676
+    - 40.713437
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Warren St
+  corner: SE
+  entrance_latitude: "40.71311"
+  entrance_longitude: "-74.007045"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.007045
+    - 40.71311
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Warren St
+  corner: SE
+  entrance_latitude: "40.713521"
+  entrance_longitude: "-74.006697"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006697
+    - 40.713521

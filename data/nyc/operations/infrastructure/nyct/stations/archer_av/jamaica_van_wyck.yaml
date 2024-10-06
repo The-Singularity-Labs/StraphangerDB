@@ -1,0 +1,58 @@
+id: archer_av_jamaica_van_wyck
+accessible: false
+station_names:
+- Jamaica-Van Wyck
+lines:
+- Archer Av
+transfers: []
+division: NYCT
+borough: Queens
+station_latitude: "40.702566"
+station_longitude: "-73.816859"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.816859
+  - 40.702566
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Van Wyck Expwy
+  east_west_street: Jamaica Ave
+  corner: NW
+  entrance_latitude: "40.702731"
+  entrance_longitude: "-73.81727"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.81727
+    - 40.702731
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Van Wyck Expwy
+  east_west_street: 89th Ave
+  corner: SW
+  entrance_latitude: "40.701263"
+  entrance_longitude: "-73.816372"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.816372
+    - 40.701263
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Van Wyck Expwy
+  east_west_street: 89th Ave
+  corner: SW
+  entrance_latitude: "40.701241"
+  entrance_longitude: "-73.816577"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.816577
+    - 40.701241

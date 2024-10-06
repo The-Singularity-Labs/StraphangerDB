@@ -1,0 +1,123 @@
+id: 6th_av_23rd_st
+accessible: false
+station_names:
+- 23rd St
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.742878"
+station_longitude: "-73.992821"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.992821
+  - 40.742878
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.742715"
+  entrance_longitude: "-73.992617"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992617
+    - 40.742715
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: NE
+  entrance_latitude: "40.74288"
+  entrance_longitude: "-73.992506"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992506
+    - 40.74288
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: NE
+  entrance_latitude: "40.742825"
+  entrance_longitude: "-73.992383"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992383
+    - 40.742825
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: NW
+  entrance_latitude: "40.743121"
+  entrance_longitude: "-73.993099"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993099
+    - 40.743121
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: NW
+  entrance_latitude: "40.743066"
+  entrance_longitude: "-73.992971"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992971
+    - 40.743066
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: SW
+  entrance_latitude: "40.742977"
+  entrance_longitude: "-73.993188"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993188
+    - 40.742977
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: SW
+  entrance_latitude: "40.742922"
+  entrance_longitude: "-73.993066"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993066
+    - 40.742922
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.742659"
+  entrance_longitude: "-73.992489"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992489
+    - 40.742659

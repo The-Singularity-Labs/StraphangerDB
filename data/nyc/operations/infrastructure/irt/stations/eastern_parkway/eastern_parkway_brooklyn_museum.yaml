@@ -1,0 +1,45 @@
+id: eastern_parkway_eastern_parkway_brooklyn_museum
+accessible: false
+station_names:
+- Eastern Parkway-Brooklyn Museum
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.671987"
+station_longitude: "-73.964375"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.964375
+  - 40.671987
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Eastern Pkwy
+  corner: SW
+  entrance_latitude: "40.671789"
+  entrance_longitude: "-73.964301"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.964301
+    - 40.671789
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Eastern Pkwy
+  corner: NW
+  entrance_latitude: "40.672122"
+  entrance_longitude: "-73.964154"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.964154
+    - 40.672122

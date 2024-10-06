@@ -1,0 +1,58 @@
+id: jerome_av_138th_st
+accessible: false
+station_names:
+- 138th St
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.813224"
+station_longitude: "-73.929849"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.929849
+  - 40.813224
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: East 138th Street
+  corner: ""
+  entrance_latitude: "40.813363"
+  entrance_longitude: "-73.929847"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.929847
+    - 40.813363
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: East 138th Street
+  corner: ""
+  entrance_latitude: "40.813328"
+  entrance_longitude: "-73.930004"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.930004
+    - 40.813328
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: East 138th Street
+  corner: NE
+  entrance_latitude: "40.813091"
+  entrance_longitude: "-73.929689"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.929689
+    - 40.813091

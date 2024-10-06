@@ -1,0 +1,97 @@
+id: broadway_7th_av_18th_st
+accessible: false
+station_names:
+- 18th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.74104"
+station_longitude: "-73.997871"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.997871
+  - 40.74104
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 18th St
+  corner: NW
+  entrance_latitude: "40.741206"
+  entrance_longitude: "-73.998035"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998035
+    - 40.741206
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 18th St
+  corner: SW
+  entrance_latitude: "40.741081"
+  entrance_longitude: "-73.998105"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998105
+    - 40.741081
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 18th St
+  corner: NE
+  entrance_latitude: "40.741015"
+  entrance_longitude: "-73.99758"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99758
+    - 40.741015
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 18th St
+  corner: SE
+  entrance_latitude: "40.74092"
+  entrance_longitude: "-73.997698"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997698
+    - 40.74092
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 18th St
+  corner: NE
+  entrance_latitude: "40.741617"
+  entrance_longitude: "-73.997197"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997197
+    - 40.741617
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 18th St
+  corner: NW
+  entrance_latitude: "40.741783"
+  entrance_longitude: "-73.997557"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997557
+    - 40.741783

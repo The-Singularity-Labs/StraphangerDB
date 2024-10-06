@@ -1,0 +1,71 @@
+id: broadway_7th_av_fulton_st
+accessible: false
+station_names:
+- Fulton St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.709416"
+station_longitude: "-74.006571"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.006571
+  - 40.709416
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: William St
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.709475"
+  entrance_longitude: "-74.006409"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006409
+    - 40.709475
+- entry_only: false
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: William St
+  east_west_street: John St
+  corner: NE
+  entrance_latitude: "40.70863"
+  entrance_longitude: "-74.006999"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006999
+    - 40.70863
+- entry_only: false
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: William St
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.7092"
+  entrance_longitude: "-74.006664"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006664
+    - 40.7092
+- entry_only: false
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: William St
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.709046"
+  entrance_longitude: "-74.006814"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.006814
+    - 40.709046

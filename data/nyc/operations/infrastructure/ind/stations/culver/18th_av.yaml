@@ -1,0 +1,71 @@
+id: culver_18th_av
+accessible: false
+station_names:
+- 18th Av
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.629755"
+station_longitude: "-73.976971"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.976971
+  - 40.629755
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: 18th Ave
+  corner: SE
+  entrance_latitude: "40.630562"
+  entrance_longitude: "-73.976995"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976995
+    - 40.630562
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: 18th Ave
+  corner: SW
+  entrance_latitude: "40.630531"
+  entrance_longitude: "-73.977251"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977251
+    - 40.630531
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Parkville Ave
+  corner: NE
+  entrance_latitude: "40.628708"
+  entrance_longitude: "-73.976646"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976646
+    - 40.628708
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Parkville Ave
+  corner: NW
+  entrance_latitude: "40.628674"
+  entrance_longitude: "-73.976892"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976892
+    - 40.628674

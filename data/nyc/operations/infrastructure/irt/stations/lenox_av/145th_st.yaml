@@ -1,0 +1,71 @@
+id: lenox_av_145th_st
+accessible: false
+station_names:
+- 145th St
+lines:
+- Lenox Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.820421"
+station_longitude: "-73.936245"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.936245
+  - 40.820421
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 145th St
+  corner: NE
+  entrance_latitude: "40.820602"
+  entrance_longitude: "-73.935933"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.935933
+    - 40.820602
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 145th St
+  corner: SW
+  entrance_latitude: "40.820343"
+  entrance_longitude: "-73.936508"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936508
+    - 40.820343
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 145th St
+  corner: NW
+  entrance_latitude: "40.820662"
+  entrance_longitude: "-73.936275"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936275
+    - 40.820662
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 145th St
+  corner: SE
+  entrance_latitude: "40.820161"
+  entrance_longitude: "-73.936253"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936253
+    - 40.820161

@@ -1,0 +1,110 @@
+id: 4th_av_lawrence_st
+accessible: false
+station_names:
+- Lawrence St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.69218"
+station_longitude: "-73.985942"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.985942
+  - 40.69218
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lawrence St
+  east_west_street: Willoughby St
+  corner: SE
+  entrance_latitude: "40.692114"
+  entrance_longitude: "-73.986107"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986107
+    - 40.692114
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bridge St
+  east_west_street: Willoughby St
+  corner: NE
+  entrance_latitude: "40.692315"
+  entrance_longitude: "-73.985172"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985172
+    - 40.692315
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bridge St
+  east_west_street: Willoughby St
+  corner: SE
+  entrance_latitude: "40.69198"
+  entrance_longitude: "-73.98519"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98519
+    - 40.69198
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lawrence St
+  east_west_street: Willoughby St
+  corner: NE
+  entrance_latitude: "40.692052"
+  entrance_longitude: "-73.986191"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986191
+    - 40.692052
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lawrence St
+  east_west_street: Willoughby St
+  corner: NE
+  entrance_latitude: "40.692359"
+  entrance_longitude: "-73.986181"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986181
+    - 40.692359
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bridge St
+  east_west_street: Willoughby St
+  corner: SW
+  entrance_latitude: "40.692031"
+  entrance_longitude: "-73.985395"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985395
+    - 40.692031
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lawrence St
+  east_west_street: Willoughby St
+  corner: SE
+  entrance_latitude: "40.692258"
+  entrance_longitude: "-73.986114"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986114
+    - 40.692258

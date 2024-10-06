@@ -1,0 +1,45 @@
+id: culver_4th_av
+accessible: false
+station_names:
+- 4th Av
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.670272"
+station_longitude: "-73.989779"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.989779
+  - 40.670272
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 4th Ave
+  east_west_street: 10th St
+  corner: NW
+  entrance_latitude: "40.669953"
+  entrance_longitude: "-73.989442"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989442
+    - 40.669953
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 4th Ave
+  east_west_street: 10th St
+  corner: NW
+  entrance_latitude: "40.67001"
+  entrance_longitude: "-73.989248"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989248
+    - 40.67001

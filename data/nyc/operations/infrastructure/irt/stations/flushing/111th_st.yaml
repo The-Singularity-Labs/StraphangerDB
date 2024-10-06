@@ -1,0 +1,58 @@
+id: flushing_111th_st
+accessible: false
+station_names:
+- 111th St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.75173"
+station_longitude: "-73.855334"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.855334
+  - 40.75173
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 111th St
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.751423"
+  entrance_longitude: "-73.855996"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.855996
+    - 40.751423
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 111th St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.751551"
+  entrance_longitude: "-73.855628"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.855628
+    - 40.751551
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 111th St
+  east_west_street: Roosevelt Ave
+  corner: NW
+  entrance_latitude: "40.75161"
+  entrance_longitude: "-73.856065"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.856065
+    - 40.75161

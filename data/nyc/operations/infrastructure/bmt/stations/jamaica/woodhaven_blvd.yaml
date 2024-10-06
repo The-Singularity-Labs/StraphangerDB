@@ -1,0 +1,58 @@
+id: jamaica_woodhaven_blvd
+accessible: false
+station_names:
+- Woodhaven Blvd
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.693879"
+station_longitude: "-73.851576"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.851576
+  - 40.693879
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Woodhaven Blvd
+  east_west_street: Jamaica Ave
+  corner: SW
+  entrance_latitude: "40.693451"
+  entrance_longitude: "-73.852556"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.852556
+    - 40.693451
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Woodhaven Blvd
+  east_west_street: Jamaica Ave
+  corner: NW
+  entrance_latitude: "40.693563"
+  entrance_longitude: "-73.852608"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.852608
+    - 40.693563
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 95th St
+  east_west_street: Jamaica Ave
+  corner: SW
+  entrance_latitude: "40.694077"
+  entrance_longitude: "-73.850476"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.850476
+    - 40.694077

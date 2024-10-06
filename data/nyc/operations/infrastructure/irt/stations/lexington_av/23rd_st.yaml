@@ -1,0 +1,136 @@
+id: lexington_av_23rd_st
+accessible: false
+station_names:
+- 23rd St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.739864"
+station_longitude: "-73.986599"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.986599
+  - 40.739864
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.739984"
+  entrance_longitude: "-73.986343"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986343
+    - 40.739984
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 22nd St
+  corner: NE
+  entrance_latitude: "40.739477"
+  entrance_longitude: "-73.986562"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986562
+    - 40.739477
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 22nd St
+  corner: NW
+  entrance_latitude: "40.739674"
+  entrance_longitude: "-73.98704"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98704
+    - 40.739674
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 23rd St
+  corner: SW
+  entrance_latitude: "40.74018"
+  entrance_longitude: "-73.986617"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986617
+    - 40.74018
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 23rd St
+  corner: SW
+  entrance_latitude: "40.740097"
+  entrance_longitude: "-73.986601"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986601
+    - 40.740097
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Park Ave
+  east_west_street: 22nd St
+  corner: SW
+  entrance_latitude: "40.739501"
+  entrance_longitude: "-73.987134"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987134
+    - 40.739501
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Park Ave
+  east_west_street: 23rd St
+  corner: NW
+  entrance_latitude: "40.740419"
+  entrance_longitude: "-73.986452"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986452
+    - 40.740419
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 23rd St
+  corner: NE
+  entrance_latitude: "40.74018"
+  entrance_longitude: "-73.986006"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986006
+    - 40.74018
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Park Ave
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.740008"
+  entrance_longitude: "-73.986233"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986233
+    - 40.740008

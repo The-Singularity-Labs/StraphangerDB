@@ -1,0 +1,84 @@
+id: lexington_av_borough_hall
+accessible: false
+station_names:
+- Borough Hall
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.692404"
+station_longitude: "-73.990151"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.990151
+  - 40.692404
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Joralemon St
+  corner: SE
+  entrance_latitude: "40.69234"
+  entrance_longitude: "-73.99056"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99056
+    - 40.69234
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Joralemon St
+  corner: NE
+  entrance_latitude: "40.692548"
+  entrance_longitude: "-73.990099"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990099
+    - 40.692548
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Joralemon St
+  corner: SE
+  entrance_latitude: "40.692299"
+  entrance_longitude: "-73.990301"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990301
+    - 40.692299
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Joralemon St
+  corner: NE
+  entrance_latitude: "40.692588"
+  entrance_longitude: "-73.990572"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990572
+    - 40.692588
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Joralemon St
+  corner: SW
+  entrance_latitude: "40.692489"
+  entrance_longitude: "-73.991193"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.991193
+    - 40.692489

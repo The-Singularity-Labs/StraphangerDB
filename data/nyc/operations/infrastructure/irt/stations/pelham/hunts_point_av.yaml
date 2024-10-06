@@ -1,0 +1,58 @@
+id: pelham_hunts_point_av
+accessible: false
+station_names:
+- Hunts Point Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.820948"
+station_longitude: "-73.890549"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.890549
+  - 40.820948
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Hunts Point Ave
+  east_west_street: 163rd St
+  corner: SW
+  entrance_latitude: "40.820614"
+  entrance_longitude: "-73.891519"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.891519
+    - 40.820614
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Hunts Point Ave
+  east_west_street: 163rd St
+  corner: SE
+  entrance_latitude: "40.820819"
+  entrance_longitude: "-73.890442"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.890442
+    - 40.820819
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Hunts Point Ave
+  east_west_street: 163rd St
+  corner: SE
+  entrance_latitude: "40.820591"
+  entrance_longitude: "-73.890836"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.890836
+    - 40.820591

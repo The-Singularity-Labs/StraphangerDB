@@ -1,0 +1,58 @@
+id: crosstown_21st_st
+accessible: false
+station_names:
+- 21st St
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.744065"
+station_longitude: "-73.949724"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.949724
+  - 40.744065
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 47th Ave
+  corner: SW
+  entrance_latitude: "40.744625"
+  entrance_longitude: "-73.949117"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949117
+    - 40.744625
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 47th Ave
+  corner: SE
+  entrance_latitude: "40.744552"
+  entrance_longitude: "-73.948425"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.948425
+    - 40.744552
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 47th Ave
+  corner: NW
+  entrance_latitude: "40.744771"
+  entrance_longitude: "-73.948658"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.948658
+    - 40.744771

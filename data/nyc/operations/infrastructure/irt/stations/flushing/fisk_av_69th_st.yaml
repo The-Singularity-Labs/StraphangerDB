@@ -1,0 +1,45 @@
+id: flushing_fisk_av_69th_st
+accessible: false
+station_names:
+- Fisk Av-69th St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.746325"
+station_longitude: "-73.896403"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.896403
+  - 40.746325
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 69th St
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.746148"
+  entrance_longitude: "-73.896396"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896396
+    - 40.746148
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 69th St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.746509"
+  entrance_longitude: "-73.896268"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896268
+    - 40.746509

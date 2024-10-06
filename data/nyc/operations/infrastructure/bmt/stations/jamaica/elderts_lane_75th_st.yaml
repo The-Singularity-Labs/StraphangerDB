@@ -1,0 +1,45 @@
+id: jamaica_elderts_lane_75th_st
+accessible: false
+station_names:
+- Elderts Lane-75th St
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.691324"
+station_longitude: "-73.867139"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.867139
+  - 40.691324
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 75th St
+  east_west_street: Jamaica
+  corner: SE
+  entrance_latitude: "40.691285"
+  entrance_longitude: "-73.866425"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.866425
+    - 40.691285
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 75th St
+  east_west_street: Jamaica
+  corner: NW
+  entrance_latitude: "40.691479"
+  entrance_longitude: "-73.86661"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.86661
+    - 40.691479

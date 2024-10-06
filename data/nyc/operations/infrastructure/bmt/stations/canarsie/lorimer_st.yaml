@@ -1,0 +1,45 @@
+id: canarsie_lorimer_st
+accessible: false
+station_names:
+- Lorimer St
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.714063"
+station_longitude: "-73.950275"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.950275
+  - 40.714063
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lorimer St
+  east_west_street: Metropolitan Ave
+  corner: NE
+  entrance_latitude: "40.71421"
+  entrance_longitude: "-73.949313"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949313
+    - 40.71421
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lorimer St
+  east_west_street: Metropolitan Ave
+  corner: SE
+  entrance_latitude: "40.713908"
+  entrance_longitude: "-73.949262"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949262
+    - 40.713908

@@ -1,0 +1,71 @@
+id: culver_kings_highway
+accessible: false
+station_names:
+- Kings Highway
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.603217"
+station_longitude: "-73.972361"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.972361
+  - 40.603217
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Kings Hwy
+  corner: SW
+  entrance_latitude: "40.604007"
+  entrance_longitude: "-73.972393"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.972393
+    - 40.604007
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue S
+  corner: NE
+  entrance_latitude: "40.602178"
+  entrance_longitude: "-73.972379"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.972379
+    - 40.602178
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue S
+  corner: NW
+  entrance_latitude: "40.602197"
+  entrance_longitude: "-73.97264"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97264
+    - 40.602197
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Kings Hwy
+  corner: SE
+  entrance_latitude: "40.603999"
+  entrance_longitude: "-73.972124"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.972124
+    - 40.603999

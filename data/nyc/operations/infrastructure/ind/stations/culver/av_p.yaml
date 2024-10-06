@@ -1,0 +1,45 @@
+id: culver_av_p
+accessible: false
+station_names:
+- Av P
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.608944"
+station_longitude: "-73.973022"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.973022
+  - 40.608944
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue P
+  corner: SW
+  entrance_latitude: "40.608615"
+  entrance_longitude: "-73.973097"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973097
+    - 40.608615
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue P
+  corner: NE
+  entrance_latitude: "40.609041"
+  entrance_longitude: "-73.972904"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.972904
+    - 40.609041

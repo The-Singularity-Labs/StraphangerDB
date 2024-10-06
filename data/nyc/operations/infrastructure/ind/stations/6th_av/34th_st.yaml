@@ -1,0 +1,149 @@
+id: 6th_av_34th_st
+accessible: true
+station_names:
+- 34th St
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.749719"
+station_longitude: "-73.987823"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.987823
+  - 40.749719
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 35th St
+  corner: SW
+  entrance_latitude: "40.750674"
+  entrance_longitude: "-73.988031"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988031
+    - 40.750674
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.749615"
+  entrance_longitude: "-73.988159"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988159
+    - 40.749615
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 34th St
+  corner: SW
+  entrance_latitude: "40.749845"
+  entrance_longitude: "-73.988254"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988254
+    - 40.749845
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 34th St
+  corner: NW
+  entrance_latitude: "40.750088"
+  entrance_longitude: "-73.988142"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988142
+    - 40.750088
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 32nd St
+  corner: NW
+  entrance_latitude: "40.748746"
+  entrance_longitude: "-73.988774"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988774
+    - 40.748746
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 33rd St
+  corner: SW
+  entrance_latitude: "40.74895"
+  entrance_longitude: "-73.988623"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988623
+    - 40.74895
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 35th St
+  corner: NE
+  entrance_latitude: "40.750404"
+  entrance_longitude: "-73.986989"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986989
+    - 40.750404
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 35th St
+  corner: NW
+  entrance_latitude: "40.750647"
+  entrance_longitude: "-73.987346"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987346
+    - 40.750647
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 35th St
+  corner: NW
+  entrance_latitude: "40.75088"
+  entrance_longitude: "-73.988096"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988096
+    - 40.75088
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 35th St
+  corner: SE
+  entrance_latitude: "40.750271"
+  entrance_longitude: "-73.987066"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987066
+    - 40.750271

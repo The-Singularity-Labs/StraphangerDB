@@ -1,0 +1,71 @@
+id: broadway_7th_av_215th_st
+accessible: false
+station_names:
+- 215th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.869444"
+station_longitude: "-73.915279"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.915279
+  - 40.869444
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 10th Ave
+  east_west_street: 215th St
+  corner: SW
+  entrance_latitude: "40.869412"
+  entrance_longitude: "-73.915455"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.915455
+    - 40.869412
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 10th Ave
+  east_west_street: 215th St
+  corner: NW
+  entrance_latitude: "40.869793"
+  entrance_longitude: "-73.91517"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.91517
+    - 40.869793
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 10th Ave
+  east_west_street: 215th St
+  corner: SE
+  entrance_latitude: "40.869315"
+  entrance_longitude: "-73.915216"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.915216
+    - 40.869315
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 10th Ave
+  east_west_street: 215th St
+  corner: NE
+  entrance_latitude: "40.869729"
+  entrance_longitude: "-73.914954"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.914954
+    - 40.869729

@@ -1,0 +1,123 @@
+id: broadway_57th_st
+accessible: false
+station_names:
+- 57th St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.764664"
+station_longitude: "-73.980658"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.980658
+  - 40.764664
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 57th St
+  corner: NW
+  entrance_latitude: "40.765796"
+  entrance_longitude: "-73.980012"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980012
+    - 40.765796
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 57th St
+  corner: SW
+  entrance_latitude: "40.765365"
+  entrance_longitude: "-73.980341"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980341
+    - 40.765365
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 55th St
+  corner: NE
+  entrance_latitude: "40.764179"
+  entrance_longitude: "-73.980683"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980683
+    - 40.764179
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 55th St
+  corner: NW
+  entrance_latitude: "40.764377"
+  entrance_longitude: "-73.981167"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981167
+    - 40.764377
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 55th St
+  corner: SE
+  entrance_latitude: "40.764057"
+  entrance_longitude: "-73.980803"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980803
+    - 40.764057
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 55th St
+  corner: SW
+  entrance_latitude: "40.764258"
+  entrance_longitude: "-73.981278"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981278
+    - 40.764258
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 57th St
+  corner: SE
+  entrance_latitude: "40.765298"
+  entrance_longitude: "-73.980033"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980033
+    - 40.765298
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 57th St
+  corner: NE
+  entrance_latitude: "40.765639"
+  entrance_longitude: "-73.979764"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979764
+    - 40.765639

@@ -1,0 +1,97 @@
+id: flushing_rawson_st_33rd_st
+accessible: false
+station_names:
+- Rawson St-33rd St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.744587"
+station_longitude: "-73.930997"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.930997
+  - 40.744587
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 33rd St
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.744594"
+  entrance_longitude: "-73.931829"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931829
+    - 40.744594
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 33rd St
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.744763"
+  entrance_longitude: "-73.931794"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931794
+    - 40.744763
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 34th St
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.744658"
+  entrance_longitude: "-73.930865"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.930865
+    - 40.744658
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 34th St
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.744494"
+  entrance_longitude: "-73.930894"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.930894
+    - 40.744494
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 33rd St
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.744568"
+  entrance_longitude: "-73.93157"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.93157
+    - 40.744568
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 33rd St
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.744724"
+  entrance_longitude: "-73.931533"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.931533
+    - 40.744724

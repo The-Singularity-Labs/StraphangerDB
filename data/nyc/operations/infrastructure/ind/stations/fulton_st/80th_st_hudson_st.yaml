@@ -1,0 +1,71 @@
+id: fulton_st_80th_st_hudson_st
+accessible: false
+station_names:
+- 80th St-Hudson St
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.679371"
+station_longitude: "-73.858992"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.858992
+  - 40.679371
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 77th St
+  east_west_street: Liberty Ave
+  corner: NE
+  entrance_latitude: "40.679361"
+  entrance_longitude: "-73.860284"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.860284
+    - 40.679361
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 80th St
+  east_west_street: Liberty Ave
+  corner: NE
+  entrance_latitude: "40.679498"
+  entrance_longitude: "-73.858049"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.858049
+    - 40.679498
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 80th St
+  east_west_street: Liberty Ave
+  corner: SE
+  entrance_latitude: "40.679371"
+  entrance_longitude: "-73.858024"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.858024
+    - 40.679371
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 77th St
+  east_west_street: Liberty Ave
+  corner: SE
+  entrance_latitude: "40.679215"
+  entrance_longitude: "-73.860291"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.860291
+    - 40.679215

@@ -1,0 +1,71 @@
+id: fulton_st_kingston_throop
+accessible: false
+station_names:
+- Kingston-Throop
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.679921"
+station_longitude: "-73.940858"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.940858
+  - 40.679921
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Kingston Ave
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.679804"
+  entrance_longitude: "-73.941119"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.941119
+    - 40.679804
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Throop Ave
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.68001"
+  entrance_longitude: "-73.940247"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940247
+    - 40.68001
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Kingston Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.679728"
+  entrance_longitude: "-73.941362"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.941362
+    - 40.679728
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Throop Ave
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.680057"
+  entrance_longitude: "-73.940483"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940483
+    - 40.680057

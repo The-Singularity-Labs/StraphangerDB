@@ -1,0 +1,45 @@
+id: pelham_st_lawrence_av
+accessible: false
+station_names:
+- St Lawrence Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.831509"
+station_longitude: "-73.867618"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.867618
+  - 40.831509
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: St Lawrence Ave
+  east_west_street: Westchester Ave
+  corner: SW
+  entrance_latitude: "40.831466"
+  entrance_longitude: "-73.86741"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.86741
+    - 40.831466
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: St Lawrence Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.831765"
+  entrance_longitude: "-73.867078"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867078
+    - 40.831765

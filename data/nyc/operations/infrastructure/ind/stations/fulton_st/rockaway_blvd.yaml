@@ -1,0 +1,71 @@
+id: fulton_st_rockaway_blvd
+accessible: false
+station_names:
+- Rockaway Blvd
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.680429"
+station_longitude: "-73.843853"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.843853
+  - 40.680429
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 94th St
+  east_west_street: Liberty Ave
+  corner: NW
+  entrance_latitude: "40.680305"
+  entrance_longitude: "-73.845159"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.845159
+    - 40.680305
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 94th St
+  east_west_street: Liberty Ave
+  corner: SW
+  entrance_latitude: "40.680158"
+  entrance_longitude: "-73.845131"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.845131
+    - 40.680158
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 97th St
+  east_west_street: Liberty Ave
+  corner: SW
+  entrance_latitude: "40.680774"
+  entrance_longitude: "-73.842558"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.842558
+    - 40.680774
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 97th St
+  east_west_street: Liberty Ave
+  corner: NW
+  entrance_latitude: "40.680611"
+  entrance_longitude: "-73.842537"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.842537
+    - 40.680611

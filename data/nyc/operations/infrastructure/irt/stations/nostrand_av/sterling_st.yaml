@@ -1,0 +1,45 @@
+id: nostrand_av_sterling_st
+accessible: false
+station_names:
+- Sterling St
+lines:
+- Nostrand Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.662742"
+station_longitude: "-73.95085"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.95085
+  - 40.662742
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Sterling St
+  corner: NE
+  entrance_latitude: "40.663226"
+  entrance_longitude: "-73.95067"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95067
+    - 40.663226
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Sterling St
+  corner: NW
+  entrance_latitude: "40.66329"
+  entrance_longitude: "-73.951044"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951044
+    - 40.66329

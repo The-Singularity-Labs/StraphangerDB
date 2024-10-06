@@ -1,0 +1,71 @@
+id: west_end_bay_50th_st
+accessible: false
+station_names:
+- Bay 50th St
+lines:
+- West End
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.588841"
+station_longitude: "-73.983765"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.983765
+  - 40.588841
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stillwell Ave
+  east_west_street: Bay 50th St
+  corner: SW
+  entrance_latitude: "40.588305"
+  entrance_longitude: "-73.983791"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983791
+    - 40.588305
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stillwell Ave
+  east_west_street: Bay 50th St
+  corner: SE
+  entrance_latitude: "40.588348"
+  entrance_longitude: "-73.983543"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983543
+    - 40.588348
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stillwell Ave
+  east_west_street: Bay 50th St
+  corner: SW
+  entrance_latitude: "40.588022"
+  entrance_longitude: "-73.983735"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983735
+    - 40.588022
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stillwell Ave
+  east_west_street: Bay 50th St
+  corner: SE
+  entrance_latitude: "40.588066"
+  entrance_longitude: "-73.983498"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983498
+    - 40.588066

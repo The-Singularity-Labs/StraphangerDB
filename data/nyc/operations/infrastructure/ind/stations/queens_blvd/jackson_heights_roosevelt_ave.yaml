@@ -1,0 +1,110 @@
+id: queens_blvd_jackson_heights_roosevelt_ave
+accessible: false
+station_names:
+- Jackson Heights-Roosevelt Ave
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.746644"
+station_longitude: "-73.891338"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.891338
+  - 40.746644
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 73rd St
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.747034"
+  entrance_longitude: "-73.892555"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.892555
+    - 40.747034
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 74th St
+  east_west_street: Roosevelt Av
+  corner: SW
+  entrance_latitude: "40.746527"
+  entrance_longitude: "-73.891461"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.891461
+    - 40.746527
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 75th St
+  east_west_street: Broadway
+  corner: NE
+  entrance_latitude: "40.746391"
+  entrance_longitude: "-73.890285"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.890285
+    - 40.746391
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 75th St
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.745988"
+  entrance_longitude: "-73.890208"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.890208
+    - 40.745988
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 73rd St
+  east_west_street: 37th Rd
+  corner: NE
+  entrance_latitude: "40.747238"
+  entrance_longitude: "-73.892146"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.892146
+    - 40.747238
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 75th St
+  east_west_street: Broadway
+  corner: NW
+  entrance_latitude: "40.746597"
+  entrance_longitude: "-73.890955"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.890955
+    - 40.746597
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 75th St
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.746784"
+  entrance_longitude: "-73.890958"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.890958
+    - 40.746784

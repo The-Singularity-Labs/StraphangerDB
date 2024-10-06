@@ -1,0 +1,45 @@
+id: white_plains_rd_burke_av
+accessible: false
+station_names:
+- Burke Av
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.871356"
+station_longitude: "-73.867164"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.867164
+  - 40.871356
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: Burke Ave
+  corner: NW
+  entrance_latitude: "40.871631"
+  entrance_longitude: "-73.867283"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867283
+    - 40.871631
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains
+  east_west_street: Burke Ave
+  corner: SE
+  entrance_latitude: "40.871215"
+  entrance_longitude: "-73.867043"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867043
+    - 40.871215

@@ -1,0 +1,71 @@
+id: west_end_fort_hamilton_parkway
+accessible: false
+station_names:
+- Fort Hamilton Parkway
+lines:
+- West End
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.640914"
+station_longitude: "-73.994304"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.994304
+  - 40.640914
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 44th St
+  corner: NE
+  entrance_latitude: "40.641379"
+  entrance_longitude: "-73.994188"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994188
+    - 40.641379
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 45th St
+  corner: NW
+  entrance_latitude: "40.640185"
+  entrance_longitude: "-73.994423"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994423
+    - 40.640185
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 45th St
+  corner: NE
+  entrance_latitude: "40.64018"
+  entrance_longitude: "-73.99422"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99422
+    - 40.64018
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 44th St
+  corner: NW
+  entrance_latitude: "40.64136"
+  entrance_longitude: "-73.994411"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994411
+    - 40.64136

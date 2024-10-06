@@ -1,0 +1,58 @@
+id: 4th_av_86th_st
+accessible: false
+station_names:
+- 86th St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.622687"
+station_longitude: "-74.028398"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.028398
+  - 40.622687
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 85th St
+  corner: SW
+  entrance_latitude: "40.623498"
+  entrance_longitude: "-74.028204"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.028204
+    - 40.623498
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 86th St
+  corner: SE
+  entrance_latitude: "40.622583"
+  entrance_longitude: "-74.028315"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.028315
+    - 40.622583
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 86th St
+  corner: SW
+  entrance_latitude: "40.622656"
+  entrance_longitude: "-74.028547"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.028547
+    - 40.622656

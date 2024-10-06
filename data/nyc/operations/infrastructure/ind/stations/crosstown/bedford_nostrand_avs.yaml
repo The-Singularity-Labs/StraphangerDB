@@ -1,0 +1,97 @@
+id: crosstown_bedford_nostrand_avs
+accessible: false
+station_names:
+- Bedford-Nostrand Avs
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.689627"
+station_longitude: "-73.953522"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.953522
+  - 40.689627
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bedford Ave
+  east_west_street: Lafayette Ave
+  corner: NW
+  entrance_latitude: "40.6895"
+  entrance_longitude: "-73.955353"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955353
+    - 40.6895
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bedford Ave
+  east_west_street: Lafayette Ave
+  corner: SW
+  entrance_latitude: "40.68933"
+  entrance_longitude: "-73.955318"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955318
+    - 40.68933
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Lafayette Ave
+  corner: NW
+  entrance_latitude: "40.689995"
+  entrance_longitude: "-73.951616"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951616
+    - 40.689995
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bedford Ave
+  east_west_street: Lafayette Ave
+  corner: NE
+  entrance_latitude: "40.689543"
+  entrance_longitude: "-73.954998"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954998
+    - 40.689543
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Lafayette Ave
+  corner: SW
+  entrance_latitude: "40.689757"
+  entrance_longitude: "-73.951612"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951612
+    - 40.689757
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bedford Ave
+  east_west_street: Lafayette Ave
+  corner: SE
+  entrance_latitude: "40.689367"
+  entrance_longitude: "-73.954957"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954957
+    - 40.689367

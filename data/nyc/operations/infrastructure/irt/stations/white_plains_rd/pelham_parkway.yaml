@@ -1,0 +1,84 @@
+id: white_plains_rd_pelham_parkway
+accessible: false
+station_names:
+- Pelham Parkway
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.857192"
+station_longitude: "-73.867615"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.867615
+  - 40.857192
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: Pelham Pkwy
+  corner: SE
+  entrance_latitude: "40.856337"
+  entrance_longitude: "-73.867521"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867521
+    - 40.856337
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: Pelham Pkwy
+  corner: SW
+  entrance_latitude: "40.856403"
+  entrance_longitude: "-73.867771"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867771
+    - 40.856403
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: White Plains Rd
+  east_west_street: Pelham Pkwy
+  corner: SE
+  entrance_latitude: "40.856338"
+  entrance_longitude: "-73.867544"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867544
+    - 40.856338
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: Pelham Pkwy
+  corner: NE
+  entrance_latitude: "40.858029"
+  entrance_longitude: "-73.867481"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867481
+    - 40.858029
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: Pelham Pkwy
+  corner: NW
+  entrance_latitude: "40.858041"
+  entrance_longitude: "-73.867718"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.867718
+    - 40.858041

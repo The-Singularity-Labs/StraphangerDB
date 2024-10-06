@@ -1,0 +1,45 @@
+id: white_plains_rd_east_180th_st
+accessible: false
+station_names:
+- East 180th St
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.841894"
+station_longitude: "-73.873488"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.873488
+  - 40.841894
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Morris Park Ave
+  east_west_street: 180th St
+  corner: NW
+  entrance_latitude: "40.841453"
+  entrance_longitude: "-73.872892"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.872892
+    - 40.841453
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Morris Park Ave
+  east_west_street: 180th St
+  corner: NW
+  entrance_latitude: "40.841223"
+  entrance_longitude: "-73.873499"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.873499
+    - 40.841223

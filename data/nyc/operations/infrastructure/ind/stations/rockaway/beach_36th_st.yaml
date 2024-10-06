@@ -1,0 +1,71 @@
+id: rockaway_beach_36th_st
+accessible: false
+station_names:
+- Beach 36th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.595398"
+station_longitude: "-73.768175"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.768175
+  - 40.595398
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 36th
+  east_west_street: Edgemere Ave
+  corner: NE
+  entrance_latitude: "40.595445"
+  entrance_longitude: "-73.768313"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.768313
+    - 40.595445
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 36th
+  east_west_street: Edgemere Ave
+  corner: SE
+  entrance_latitude: "40.595297"
+  entrance_longitude: "-73.768206"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.768206
+    - 40.595297
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 35th
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.595617"
+  entrance_longitude: "-73.768032"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.768032
+    - 40.595617
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 35th
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.595469"
+  entrance_longitude: "-73.767919"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.767919
+    - 40.595469

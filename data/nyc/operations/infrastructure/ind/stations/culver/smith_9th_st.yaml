@@ -1,0 +1,32 @@
+id: culver_smith_9th_st
+accessible: false
+station_names:
+- Smith-9th St
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.67358"
+station_longitude: "-73.995959"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.995959
+  - 40.67358
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Smith St
+  east_west_street: 9th St
+  corner: NE
+  entrance_latitude: "40.674725"
+  entrance_longitude: "-73.997505"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997505
+    - 40.674725

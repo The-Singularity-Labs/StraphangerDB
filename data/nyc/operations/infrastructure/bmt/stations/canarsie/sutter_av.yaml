@@ -1,0 +1,32 @@
+id: canarsie_sutter_av
+accessible: false
+station_names:
+- Sutter Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.669367"
+station_longitude: "-73.901975"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.901975
+  - 40.669367
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: LIRR Bay Ridge Divide
+  east_west_street: Sutter Ave
+  corner: NW
+  entrance_latitude: "40.668527"
+  entrance_longitude: "-73.901765"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.901765
+    - 40.668527

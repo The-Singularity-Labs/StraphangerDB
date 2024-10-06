@@ -1,0 +1,58 @@
+id: 8th_av_high_st
+accessible: false
+station_names:
+- High St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.699337"
+station_longitude: "-73.990531"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.990531
+  - 40.699337
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Red Cross Pl
+  east_west_street: Adams St
+  corner: SW
+  entrance_latitude: "40.699112"
+  entrance_longitude: "-73.98892"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98892
+    - 40.699112
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sands St
+  east_west_street: Adams St
+  corner: SE
+  entrance_latitude: "40.699212"
+  entrance_longitude: "-73.988274"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988274
+    - 40.699212
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Cadman Plaza West
+  east_west_street: Cranberry St
+  corner: NW
+  entrance_latitude: "40.699405"
+  entrance_longitude: "-73.991413"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.991413
+    - 40.699405

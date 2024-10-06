@@ -1,0 +1,45 @@
+id: myrtle_ave_forest_av
+accessible: false
+station_names:
+- Forest Av
+lines:
+- Myrtle Ave
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.704423"
+station_longitude: "-73.903077"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.903077
+  - 40.704423
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Forest Ave
+  east_west_street: Myrtle Ave
+  corner: SW
+  entrance_latitude: "40.704443"
+  entrance_longitude: "-73.902389"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.902389
+    - 40.704443
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Forest Ave
+  east_west_street: Myrtle Ave
+  corner: NW
+  entrance_latitude: "40.704729"
+  entrance_longitude: "-73.902243"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.902243
+    - 40.704729

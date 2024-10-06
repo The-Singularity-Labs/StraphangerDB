@@ -1,0 +1,123 @@
+id: queens_blvd_kew_gardens_union_turnpike
+accessible: true
+station_names:
+- Kew Gardens-Union Turnpike
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.714441"
+station_longitude: "-73.831008"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.831008
+  - 40.714441
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.714073"
+  entrance_longitude: "-73.829917"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829917
+    - 40.714073
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.714929"
+  entrance_longitude: "-73.831501"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.831501
+    - 40.714929
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.714001"
+  entrance_longitude: "-73.831166"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.831166
+    - 40.714001
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.715019"
+  entrance_longitude: "-73.83162"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.83162
+    - 40.715019
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.714673"
+  entrance_longitude: "-73.832151"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.832151
+    - 40.714673
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.713967"
+  entrance_longitude: "-73.831303"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.831303
+    - 40.713967
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 80th Rd
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.713663"
+  entrance_longitude: "-73.830011"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830011
+    - 40.713663
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Tpke
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.714145"
+  entrance_longitude: "-73.830886"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830886
+    - 40.714145

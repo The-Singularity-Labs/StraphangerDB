@@ -1,0 +1,32 @@
+id: dyre_av_morris_park
+accessible: false
+station_names:
+- Morris Park
+lines:
+- Dyre Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.854364"
+station_longitude: "-73.860495"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.860495
+  - 40.854364
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Esplanade
+  east_west_street: Paulding Ave
+  corner: W
+  entrance_latitude: "40.854544"
+  entrance_longitude: "-73.860248"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.860248
+    - 40.854544

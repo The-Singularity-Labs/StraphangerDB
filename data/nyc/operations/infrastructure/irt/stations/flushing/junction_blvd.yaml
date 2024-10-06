@@ -1,0 +1,84 @@
+id: flushing_junction_blvd
+accessible: true
+station_names:
+- Junction Blvd
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.749145"
+station_longitude: "-73.869527"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.869527
+  - 40.749145
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Junction Blvd
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.749028"
+  entrance_longitude: "-73.869574"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.869574
+    - 40.749028
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Junction Boulevard
+  east_west_street: Roosevelt Avenue
+  corner: NE
+  entrance_latitude: "40.749263"
+  entrance_longitude: "-73.869376"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.869376
+    - 40.749263
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Junction Blvd
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.749095"
+  entrance_longitude: "-73.86912"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.86912
+    - 40.749095
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Junction Blvd
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.749266"
+  entrance_longitude: "-73.86922"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.86922
+    - 40.749266
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Junction Blvd
+  east_west_street: Roosevelt Ave
+  corner: NW
+  entrance_latitude: "40.749213"
+  entrance_longitude: "-73.869696"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.869696
+    - 40.749213

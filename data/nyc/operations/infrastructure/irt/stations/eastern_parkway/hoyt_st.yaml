@@ -1,0 +1,84 @@
+id: eastern_parkway_hoyt_st
+accessible: false
+station_names:
+- Hoyt St
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.690545"
+station_longitude: "-73.985065"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.985065
+  - 40.690545
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bridge St
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.690931"
+  entrance_longitude: "-73.98525"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98525
+    - 40.690931
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Duffield St
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.690433"
+  entrance_longitude: "-73.984323"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984323
+    - 40.690433
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Elm Pl
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.690025"
+  entrance_longitude: "-73.984248"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984248
+    - 40.690025
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bridge St
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.690972"
+  entrance_longitude: "-73.985448"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985448
+    - 40.690972
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Hoyt St
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.690388"
+  entrance_longitude: "-73.985299"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985299
+    - 40.690388

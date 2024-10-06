@@ -1,0 +1,71 @@
+id: jerome_av_167th_st
+accessible: false
+station_names:
+- 167th St
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.835537"
+station_longitude: "-73.9214"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.9214
+  - 40.835537
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 167th St
+  corner: NW
+  entrance_latitude: "40.835726"
+  entrance_longitude: "-73.921059"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.921059
+    - 40.835726
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 167th St
+  corner: SW
+  entrance_latitude: "40.835746"
+  entrance_longitude: "-73.921562"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.921562
+    - 40.835746
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 167th St
+  corner: SE
+  entrance_latitude: "40.8356"
+  entrance_longitude: "-73.921131"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.921131
+    - 40.8356
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: River Ave
+  east_west_street: 167th St
+  corner: NE
+  entrance_latitude: "40.835873"
+  entrance_longitude: "-73.92149"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.92149
+    - 40.835873

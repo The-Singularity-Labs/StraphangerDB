@@ -1,0 +1,58 @@
+id: rockaway_beach_25th_st
+accessible: false
+station_names:
+- Beach 25th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.600066"
+station_longitude: "-73.761353"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.761353
+  - 40.600066
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 25th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.599708"
+  entrance_longitude: "-73.761959"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.761959
+    - 40.599708
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 25th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.599427"
+  entrance_longitude: "-73.761807"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.761807
+    - 40.599427
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 25th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.59967"
+  entrance_longitude: "-73.761596"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.761596
+    - 40.59967

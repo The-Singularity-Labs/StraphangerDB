@@ -1,0 +1,45 @@
+id: broadway_7th_av_clark_st
+accessible: false
+station_names:
+- Clark St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.697466"
+station_longitude: "-73.993086"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.993086
+  - 40.697466
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Clark St
+  east_west_street: Henry St
+  corner: NW
+  entrance_latitude: "40.69759"
+  entrance_longitude: "-73.993275"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993275
+    - 40.69759
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Clark St
+  east_west_street: Henry St
+  corner: NW
+  entrance_latitude: "40.697649"
+  entrance_longitude: "-73.99306"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99306
+    - 40.697649

@@ -1,0 +1,97 @@
+id: broadway_7th_av_wall_st
+accessible: false
+station_names:
+- Wall St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.706821"
+station_longitude: "-74.0091"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.0091
+  - 40.706821
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: William St
+  east_west_street: Wall St
+  corner: SW
+  entrance_latitude: "40.706385"
+  entrance_longitude: "-74.009658"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009658
+    - 40.706385
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: William St
+  east_west_street: Wall St
+  corner: NE
+  entrance_latitude: "40.706392"
+  entrance_longitude: "-74.009332"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009332
+    - 40.706392
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: William St
+  east_west_street: Pine St
+  corner: SE
+  entrance_latitude: "40.706755"
+  entrance_longitude: "-74.008804"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008804
+    - 40.706755
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: William St
+  east_west_street: Wall St
+  corner: SE
+  entrance_latitude: "40.706272"
+  entrance_longitude: "-74.009447"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009447
+    - 40.706272
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: William St
+  east_west_street: Wall St
+  corner: NW
+  entrance_latitude: "40.706506"
+  entrance_longitude: "-74.009544"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009544
+    - 40.706506
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: William St
+  east_west_street: Cedar St
+  corner: NW
+  entrance_latitude: "40.707431"
+  entrance_longitude: "-74.008778"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008778
+    - 40.707431

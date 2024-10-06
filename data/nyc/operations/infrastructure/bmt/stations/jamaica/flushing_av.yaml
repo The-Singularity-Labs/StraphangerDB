@@ -1,0 +1,71 @@
+id: jamaica_flushing_av
+accessible: true
+station_names:
+- Flushing Av
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.70026"
+station_longitude: "-73.941126"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.941126
+  - 40.70026
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Flushing Ave
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.700629"
+  entrance_longitude: "-73.941995"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.941995
+    - 40.700629
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flushing Ave
+  east_west_street: Broadway
+  corner: NW
+  entrance_latitude: "40.700847"
+  entrance_longitude: "-73.94171"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.94171
+    - 40.700847
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.70072"
+  entrance_longitude: "-73.941672"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.941672
+    - 40.70072
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flushing Ave
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.700634"
+  entrance_longitude: "-73.942173"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.942173
+    - 40.700634

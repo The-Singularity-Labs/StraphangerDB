@@ -1,0 +1,45 @@
+id: jamaica_halsey_st
+accessible: false
+station_names:
+- Halsey St
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.68637"
+station_longitude: "-73.916559"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.916559
+  - 40.68637
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Weirfield St
+  east_west_street: Broadway
+  corner: NE
+  entrance_latitude: "40.685946"
+  entrance_longitude: "-73.915713"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.915713
+    - 40.685946
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Weirfield St
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.685847"
+  entrance_longitude: "-73.915807"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.915807
+    - 40.685847

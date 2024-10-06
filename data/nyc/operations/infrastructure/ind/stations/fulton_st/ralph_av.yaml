@@ -1,0 +1,58 @@
+id: fulton_st_ralph_av
+accessible: false
+station_names:
+- Ralph Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.678822"
+station_longitude: "-73.920786"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.920786
+  - 40.678822
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ralph Ave
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.678702"
+  entrance_longitude: "-73.921552"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.921552
+    - 40.678702
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ralph Ave
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.678984"
+  entrance_longitude: "-73.921442"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.921442
+    - 40.678984
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ralph Ave
+  east_west_street: Mac Dougal St
+  corner: NE
+  entrance_latitude: "40.679164"
+  entrance_longitude: "-73.92187"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.92187
+    - 40.679164

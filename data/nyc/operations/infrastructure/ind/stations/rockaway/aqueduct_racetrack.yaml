@@ -1,0 +1,32 @@
+id: rockaway_aqueduct_racetrack
+accessible: false
+station_names:
+- Aqueduct Racetrack
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.672131"
+station_longitude: "-73.835812"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.835812
+  - 40.672131
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Ramp
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.672208"
+  entrance_longitude: "-73.834589"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.834589
+    - 40.672208

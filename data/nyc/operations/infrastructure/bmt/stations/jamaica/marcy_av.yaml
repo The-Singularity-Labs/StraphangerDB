@@ -1,0 +1,123 @@
+id: jamaica_marcy_av
+accessible: true
+station_names:
+- Marcy Av
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.708359"
+station_longitude: "-73.957757"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.957757
+  - 40.708359
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Marcy Ave
+  east_west_street: Broadway
+  corner: NW
+  entrance_latitude: "40.708565"
+  entrance_longitude: "-73.957893"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957893
+    - 40.708565
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Havemeyer St
+  east_west_street: Broadway
+  corner: NE
+  entrance_latitude: "40.708788"
+  entrance_longitude: "-73.958826"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958826
+    - 40.708788
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Marcy Ave
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.708271"
+  entrance_longitude: "-73.957749"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957749
+    - 40.708271
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Marcy Ave
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.708403"
+  entrance_longitude: "-73.958124"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958124
+    - 40.708403
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Marcy Ave
+  east_west_street: Broadway
+  corner: NE
+  entrance_latitude: "40.708409"
+  entrance_longitude: "-73.957689"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957689
+    - 40.708409
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Marcy Ave
+  east_west_street: Broadway
+  corner: NW
+  entrance_latitude: "40.708529"
+  entrance_longitude: "-73.958048"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958048
+    - 40.708529
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Havemeyer St
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.708681"
+  entrance_longitude: "-73.958927"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958927
+    - 40.708681
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Marcy Ave
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.708293"
+  entrance_longitude: "-73.958044"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.958044
+    - 40.708293

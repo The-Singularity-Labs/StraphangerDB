@@ -1,0 +1,123 @@
+id: nostrand_av_flatbush_av_brooklyn_college
+accessible: true
+station_names:
+- Flatbush Av-Brooklyn College
+lines:
+- Nostrand Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.632836"
+station_longitude: "-73.947642"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.947642
+  - 40.632836
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Avenue H
+  corner: NE
+  entrance_latitude: "40.631845"
+  entrance_longitude: "-73.947665"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947665
+    - 40.631845
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: NE
+  entrance_latitude: "40.632463"
+  entrance_longitude: "-73.947518"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947518
+    - 40.632463
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: NE
+  entrance_latitude: "40.632359"
+  entrance_longitude: "-73.947389"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947389
+    - 40.632359
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: SE
+  entrance_latitude: "40.632324"
+  entrance_longitude: "-73.947482"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947482
+    - 40.632324
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: NE
+  entrance_latitude: "40.63275"
+  entrance_longitude: "-73.947375"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947375
+    - 40.63275
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: NE
+  entrance_latitude: "40.632868"
+  entrance_longitude: "-73.947547"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947547
+    - 40.632868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: NW
+  entrance_latitude: "40.633297"
+  entrance_longitude: "-73.947836"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947836
+    - 40.633297
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Flatbush Ave
+  corner: NW
+  entrance_latitude: "40.63327"
+  entrance_longitude: "-73.947929"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.947929
+    - 40.63327

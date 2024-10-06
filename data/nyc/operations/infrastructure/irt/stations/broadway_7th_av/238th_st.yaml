@@ -1,0 +1,58 @@
+id: broadway_7th_av_238th_st
+accessible: false
+station_names:
+- 238th St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.884667"
+station_longitude: "-73.90087"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.90087
+  - 40.884667
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 238th St
+  corner: SE
+  entrance_latitude: "40.885226"
+  entrance_longitude: "-73.900439"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.900439
+    - 40.885226
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 238th St
+  corner: SW
+  entrance_latitude: "40.884813"
+  entrance_longitude: "-73.900923"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.900923
+    - 40.884813
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 238th St
+  corner: NE
+  entrance_latitude: "40.884868"
+  entrance_longitude: "-73.900598"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.900598
+    - 40.884868

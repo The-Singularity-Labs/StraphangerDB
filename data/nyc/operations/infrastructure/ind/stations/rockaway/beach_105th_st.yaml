@@ -1,0 +1,71 @@
+id: rockaway_beach_105th_st
+accessible: false
+station_names:
+- Beach 105th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.583209"
+station_longitude: "-73.827559"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.827559
+  - 40.583209
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 106th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.583369"
+  entrance_longitude: "-73.827474"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827474
+    - 40.583369
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 106th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.583187"
+  entrance_longitude: "-73.827388"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827388
+    - 40.583187
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 106th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.583435"
+  entrance_longitude: "-73.827232"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827232
+    - 40.583435
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 106th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.583248"
+  entrance_longitude: "-73.827163"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827163
+    - 40.583248

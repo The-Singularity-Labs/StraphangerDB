@@ -1,0 +1,136 @@
+id: broadway_rector_st
+accessible: false
+station_names:
+- Rector St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.70722"
+station_longitude: "-74.013342"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.013342
+  - 40.70722
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: SW
+  entrance_latitude: "40.707495"
+  entrance_longitude: "-74.013273"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013273
+    - 40.707495
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: SW
+  entrance_latitude: "40.707659"
+  entrance_longitude: "-74.013166"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013166
+    - 40.707659
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: NW
+  entrance_latitude: "40.708083"
+  entrance_longitude: "-74.012863"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012863
+    - 40.708083
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: NW
+  entrance_latitude: "40.70795"
+  entrance_longitude: "-74.012963"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012963
+    - 40.70795
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Exchange Alley
+  corner: NW
+  entrance_latitude: "40.707225"
+  entrance_longitude: "-74.013454"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013454
+    - 40.707225
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: NE
+  entrance_latitude: "40.708028"
+  entrance_longitude: "-74.012696"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012696
+    - 40.708028
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: NE
+  entrance_latitude: "40.707902"
+  entrance_longitude: "-74.012774"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012774
+    - 40.707902
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Trinity Pl
+  east_west_street: Rector St
+  corner: SE
+  entrance_latitude: "40.707647"
+  entrance_longitude: "-74.012924"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012924
+    - 40.707647
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Morris St
+  corner: NE
+  entrance_latitude: "40.706345"
+  entrance_longitude: "-74.014"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014
+    - 40.706345

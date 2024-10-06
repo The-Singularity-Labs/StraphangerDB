@@ -1,0 +1,97 @@
+id: broadway_7th_av_rector_st
+accessible: false
+station_names:
+- Rector St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.707513"
+station_longitude: "-74.013783"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.013783
+  - 40.707513
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Rector St
+  corner: NE
+  entrance_latitude: "40.708107"
+  entrance_longitude: "-74.013445"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013445
+    - 40.708107
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Rector St
+  corner: NW
+  entrance_latitude: "40.708191"
+  entrance_longitude: "-74.013582"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013582
+    - 40.708191
+- entry_only: true
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Rector St
+  corner: SW
+  entrance_latitude: "40.707564"
+  entrance_longitude: "-74.013853"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013853
+    - 40.707564
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Morris St
+  corner: NW
+  entrance_latitude: "40.706493"
+  entrance_longitude: "-74.014319"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014319
+    - 40.706493
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Morris St
+  corner: NE
+  entrance_latitude: "40.706527"
+  entrance_longitude: "-74.014144"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014144
+    - 40.706527
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Greenwich St
+  east_west_street: Morris St
+  corner: NE
+  entrance_latitude: "40.706597"
+  entrance_longitude: "-74.014115"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014115
+    - 40.706597

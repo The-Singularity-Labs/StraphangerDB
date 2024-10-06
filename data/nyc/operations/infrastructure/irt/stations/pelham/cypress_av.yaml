@@ -1,0 +1,71 @@
+id: pelham_cypress_av
+accessible: false
+station_names:
+- Cypress Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.805368"
+station_longitude: "-73.914042"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.914042
+  - 40.805368
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Cypress Ave
+  east_west_street: 138th St
+  corner: SW
+  entrance_latitude: "40.805171"
+  entrance_longitude: "-73.913933"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913933
+    - 40.805171
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Cypress Ave
+  east_west_street: 138th St
+  corner: NE
+  entrance_latitude: "40.805155"
+  entrance_longitude: "-73.913208"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913208
+    - 40.805155
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Cypress Ave
+  east_west_street: 138th St
+  corner: NE
+  entrance_latitude: "40.805234"
+  entrance_longitude: "-73.913391"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913391
+    - 40.805234
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Cypress Ave
+  east_west_street: 138th St
+  corner: SE
+  entrance_latitude: "40.805047"
+  entrance_longitude: "-73.913524"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913524
+    - 40.805047

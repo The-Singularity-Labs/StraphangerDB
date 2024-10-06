@@ -1,0 +1,71 @@
+id: broadway_7th_av_van_cortlandt_park_242nd_st
+accessible: false
+station_names:
+- Van Cortlandt Park-242nd St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.889248"
+station_longitude: "-73.898583"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.898583
+  - 40.889248
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 242nd St
+  corner: NW
+  entrance_latitude: "40.890136"
+  entrance_longitude: "-73.898257"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.898257
+    - 40.890136
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 242nd St
+  corner: NE
+  entrance_latitude: "40.889683"
+  entrance_longitude: "-73.897925"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.897925
+    - 40.889683
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 242nd St
+  corner: NW
+  entrance_latitude: "40.889783"
+  entrance_longitude: "-73.898432"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.898432
+    - 40.889783
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 242nd St
+  corner: NE
+  entrance_latitude: "40.889946"
+  entrance_longitude: "-73.897798"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.897798
+    - 40.889946

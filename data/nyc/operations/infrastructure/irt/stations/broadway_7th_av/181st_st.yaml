@@ -1,0 +1,45 @@
+id: broadway_7th_av_181st_st
+accessible: false
+station_names:
+- 181st St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.849505"
+station_longitude: "-73.933596"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.933596
+  - 40.849505
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 181st St
+  corner: SE
+  entrance_latitude: "40.849098"
+  entrance_longitude: "-73.933747"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.933747
+    - 40.849098
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 181st St
+  corner: NE
+  entrance_latitude: "40.849435"
+  entrance_longitude: "-73.933428"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.933428
+    - 40.849435

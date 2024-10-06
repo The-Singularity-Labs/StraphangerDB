@@ -1,0 +1,84 @@
+id: broadway_7th_av_christopher_st
+accessible: false
+station_names:
+- Christopher St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.733422"
+station_longitude: "-74.002906"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.002906
+  - 40.733422
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: Christopher St
+  corner: SW
+  entrance_latitude: "40.733467"
+  entrance_longitude: "-74.003076"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003076
+    - 40.733467
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: West 4th St
+  corner: SE
+  entrance_latitude: "40.733402"
+  entrance_longitude: "-74.002748"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002748
+    - 40.733402
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: Christopher St
+  corner: NW
+  entrance_latitude: "40.733634"
+  entrance_longitude: "-74.003123"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003123
+    - 40.733634
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: Christopher St
+  corner: NW
+  entrance_latitude: "40.733652"
+  entrance_longitude: "-74.003006"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003006
+    - 40.733652
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: Christopher St
+  corner: SW
+  entrance_latitude: "40.733515"
+  entrance_longitude: "-74.003147"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003147
+    - 40.733515

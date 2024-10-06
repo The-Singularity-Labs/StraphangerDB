@@ -1,0 +1,84 @@
+id: 4th_av_95th_st
+accessible: false
+station_names:
+- 95th St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.616622"
+station_longitude: "-74.030876"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.030876
+  - 40.616622
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 93th St
+  corner: SW
+  entrance_latitude: "40.617587"
+  entrance_longitude: "-74.030696"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.030696
+    - 40.617587
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 95th St
+  corner: SW
+  entrance_latitude: "40.616021"
+  entrance_longitude: "-74.031383"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.031383
+    - 40.616021
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 93th St
+  corner: NE
+  entrance_latitude: "40.617363"
+  entrance_longitude: "-74.030404"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.030404
+    - 40.617363
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th Ave
+  east_west_street: 95th St
+  corner: NE
+  entrance_latitude: "40.615893"
+  entrance_longitude: "-74.03086"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.03086
+    - 40.615893
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 95th St
+  corner: NW
+  entrance_latitude: "40.616189"
+  entrance_longitude: "-74.031234"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.031234
+    - 40.616189

@@ -1,0 +1,136 @@
+id: 6th_av_42nd_st
+accessible: false
+station_names:
+- 42nd St
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.754222"
+station_longitude: "-73.984569"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.984569
+  - 40.754222
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 42nd St
+  corner: NW
+  entrance_latitude: "40.755333"
+  entrance_longitude: "-73.983934"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983934
+    - 40.755333
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 40th St
+  corner: SW
+  entrance_latitude: "40.753473"
+  entrance_longitude: "-73.985259"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985259
+    - 40.753473
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 42nd St
+  corner: NE
+  entrance_latitude: "40.754832"
+  entrance_longitude: "-73.983657"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983657
+    - 40.754832
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 42nd St
+  corner: NW
+  entrance_latitude: "40.755008"
+  entrance_longitude: "-73.984249"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984249
+    - 40.755008
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 40th St
+  corner: NW
+  entrance_latitude: "40.753709"
+  entrance_longitude: "-73.985084"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985084
+    - 40.753709
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.754609"
+  entrance_longitude: "-73.983894"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983894
+    - 40.754609
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.754849"
+  entrance_longitude: "-73.984627"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984627
+    - 40.754849
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 40th St
+  corner: NE
+  entrance_latitude: "40.753546"
+  entrance_longitude: "-73.984779"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984779
+    - 40.753546
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 40th St
+  corner: SE
+  entrance_latitude: "40.753408"
+  entrance_longitude: "-73.984892"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984892
+    - 40.753408

@@ -1,0 +1,84 @@
+id: lexington_av_bowling_green
+accessible: true
+station_names:
+- Bowling Green
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.704817"
+station_longitude: "-74.014065"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.014065
+  - 40.704817
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: State
+  east_west_street: Battery Pl
+  corner: SW
+  entrance_latitude: "40.704659"
+  entrance_longitude: "-74.01392"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.01392
+    - 40.704659
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Bowling Green
+  corner: NW
+  entrance_latitude: "40.704629"
+  entrance_longitude: "-74.013502"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013502
+    - 40.704629
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Battery Pl
+  corner: NW
+  entrance_latitude: "40.704825"
+  entrance_longitude: "-74.014572"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014572
+    - 40.704825
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: State
+  east_west_street: Battery Pl
+  corner: SW
+  entrance_latitude: "40.704157"
+  entrance_longitude: "-74.014509"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014509
+    - 40.704157
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Battery Pl
+  corner: NW
+  entrance_latitude: "40.704795"
+  entrance_longitude: "-74.014454"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014454
+    - 40.704795

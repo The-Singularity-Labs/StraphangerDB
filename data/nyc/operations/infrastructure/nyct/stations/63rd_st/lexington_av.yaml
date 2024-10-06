@@ -1,0 +1,84 @@
+id: 63rd_st_lexington_av
+accessible: true
+station_names:
+- Lexington Av
+lines:
+- 63rd St
+transfers: []
+division: NYCT
+borough: Manhattan
+station_latitude: "40.764627"
+station_longitude: "-73.96611"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.96611
+  - 40.764627
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Lexington Ave
+  east_west_street: 63rd St
+  corner: NW
+  entrance_latitude: "40.764884"
+  entrance_longitude: "-73.966514"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966514
+    - 40.764884
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Lexington Ave
+  east_west_street: 63rd St
+  corner: NW
+  entrance_latitude: "40.764874"
+  entrance_longitude: "-73.966431"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966431
+    - 40.764874
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 63rd St
+  corner: NW
+  entrance_latitude: "40.764866"
+  entrance_longitude: "-73.966422"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966422
+    - 40.764866
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Lexington Ave
+  east_west_street: 63rd St
+  corner: NW
+  entrance_latitude: "40.764881"
+  entrance_longitude: "-73.966411"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966411
+    - 40.764881
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 63rd St
+  corner: SW
+  entrance_latitude: "40.764721"
+  entrance_longitude: "-73.966552"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966552
+    - 40.764721

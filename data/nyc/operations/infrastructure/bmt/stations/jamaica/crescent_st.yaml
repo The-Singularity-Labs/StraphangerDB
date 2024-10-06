@@ -1,0 +1,45 @@
+id: jamaica_crescent_st
+accessible: false
+station_names:
+- Crescent St
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.683194"
+station_longitude: "-73.873785"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.873785
+  - 40.683194
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pine St
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.683588"
+  entrance_longitude: "-73.8726"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.8726
+    - 40.683588
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pine St
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.683478"
+  entrance_longitude: "-73.872548"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.872548
+    - 40.683478

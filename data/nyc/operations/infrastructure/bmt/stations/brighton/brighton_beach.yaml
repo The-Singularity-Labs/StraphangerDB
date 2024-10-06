@@ -1,0 +1,123 @@
+id: brighton_brighton_beach
+accessible: false
+station_names:
+- Brighton Beach
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.577621"
+station_longitude: "-73.961376"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.961376
+  - 40.577621
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 7 St
+  east_west_street: Brighton Beach Rd
+  corner: NE
+  entrance_latitude: "40.577931"
+  entrance_longitude: "-73.960524"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960524
+    - 40.577931
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 6 St
+  east_west_street: Brighton Beach Rd
+  corner: SW
+  entrance_latitude: "40.577425"
+  entrance_longitude: "-73.961719"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.961719
+    - 40.577425
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 6 St
+  east_west_street: Brighton Beach Rd
+  corner: SW
+  entrance_latitude: "40.577387"
+  entrance_longitude: "-73.961912"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.961912
+    - 40.577387
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 6 St
+  east_west_street: Brighton Beach Rd
+  corner: NW
+  entrance_latitude: "40.577656"
+  entrance_longitude: "-73.961792"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.961792
+    - 40.577656
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 6 St
+  east_west_street: Brighton Beach Rd
+  corner: NW
+  entrance_latitude: "40.577618"
+  entrance_longitude: "-73.961994"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.961994
+    - 40.577618
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 7 St
+  east_west_street: Brighton Beach Rd
+  corner: SE
+  entrance_latitude: "40.577697"
+  entrance_longitude: "-73.960438"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960438
+    - 40.577697
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Branch 7 St
+  east_west_street: Brighton Beach Rd
+  corner: SE
+  entrance_latitude: "40.577746"
+  entrance_longitude: "-73.960231"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960231
+    - 40.577746
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.577986"
+  entrance_longitude: "-73.960258"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960258
+    - 40.577986

@@ -1,0 +1,123 @@
+id: broadway_8th_st
+accessible: false
+station_names:
+- 8th St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.730328"
+station_longitude: "-73.992629"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.992629
+  - 40.730328
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 8th Ave
+  corner: SW
+  entrance_latitude: "40.730642"
+  entrance_longitude: "-73.992737"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992737
+    - 40.730642
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Waverly Pl
+  corner: NW
+  entrance_latitude: "40.729778"
+  entrance_longitude: "-73.993262"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993262
+    - 40.729778
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Waverly Pl
+  corner: NE
+  entrance_latitude: "40.729678"
+  entrance_longitude: "-73.993051"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993051
+    - 40.729678
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 8th Ave
+  corner: SE
+  entrance_latitude: "40.730477"
+  entrance_longitude: "-73.992286"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992286
+    - 40.730477
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 8th Ave
+  corner: NE
+  entrance_latitude: "40.730578"
+  entrance_longitude: "-73.992216"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992216
+    - 40.730578
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 8th Ave
+  corner: NW
+  entrance_latitude: "40.730716"
+  entrance_longitude: "-73.992517"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992517
+    - 40.730716
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 8th Ave
+  corner: SW
+  entrance_latitude: "40.730592"
+  entrance_longitude: "-73.99262"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99262
+    - 40.730592
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 8th Ave
+  corner: NW
+  entrance_latitude: "40.730773"
+  entrance_longitude: "-73.992641"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992641
+    - 40.730773

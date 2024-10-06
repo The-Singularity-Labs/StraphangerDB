@@ -1,0 +1,84 @@
+id: 8th_av_86th_st
+accessible: false
+station_names:
+- 86th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.785868"
+station_longitude: "-73.968916"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.968916
+  - 40.785868
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Central Park West
+  east_west_street: 87th St
+  corner: NW
+  entrance_latitude: "40.786115"
+  entrance_longitude: "-73.969011"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969011
+    - 40.786115
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Central Park West
+  east_west_street: 86th St
+  corner: SW
+  entrance_latitude: "40.785195"
+  entrance_longitude: "-73.969596"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969596
+    - 40.785195
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Central Park West
+  east_west_street: 86th St
+  corner: SW
+  entrance_latitude: "40.785282"
+  entrance_longitude: "-73.969662"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969662
+    - 40.785282
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Central Park West
+  east_west_street: 86th St
+  corner: NW
+  entrance_latitude: "40.78548"
+  entrance_longitude: "-73.969458"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969458
+    - 40.78548
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Central Park West
+  east_west_street: 88th St
+  corner: NW
+  entrance_latitude: "40.786769"
+  entrance_longitude: "-73.968448"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968448
+    - 40.786769

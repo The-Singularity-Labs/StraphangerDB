@@ -1,0 +1,136 @@
+id: fulton_st_lafayette_av
+accessible: false
+station_names:
+- Lafayette Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.686113"
+station_longitude: "-73.973946"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.973946
+  - 40.686113
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Oxford St
+  east_west_street: Fulton Ave
+  corner: NE
+  entrance_latitude: "40.685789"
+  entrance_longitude: "-73.97276"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97276
+    - 40.685789
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Oxford St
+  east_west_street: Fulton Ave
+  corner: SW
+  entrance_latitude: "40.6857"
+  entrance_longitude: "-73.973526"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973526
+    - 40.6857
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Oxford St
+  east_west_street: Fulton Ave
+  corner: NE
+  entrance_latitude: "40.686077"
+  entrance_longitude: "-73.973308"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973308
+    - 40.686077
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Portland Ave
+  east_west_street: Fulton Ave
+  corner: SE
+  entrance_latitude: "40.686041"
+  entrance_longitude: "-73.974278"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974278
+    - 40.686041
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Portland Ave
+  east_west_street: Fulton Ave
+  corner: SW
+  entrance_latitude: "40.686119"
+  entrance_longitude: "-73.974517"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974517
+    - 40.686119
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Portland Ave
+  east_west_street: Fulton Ave
+  corner: NE
+  entrance_latitude: "40.686409"
+  entrance_longitude: "-73.974347"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974347
+    - 40.686409
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Portland Ave
+  east_west_street: Fulton Ave
+  corner: NW
+  entrance_latitude: "40.686553"
+  entrance_longitude: "-73.974606"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974606
+    - 40.686553
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Oxford St
+  east_west_street: Fulton Ave
+  corner: NE
+  entrance_latitude: "40.685969"
+  entrance_longitude: "-73.973021"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973021
+    - 40.685969
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Oxford St
+  east_west_street: Fulton Ave
+  corner: SW
+  entrance_latitude: "40.685559"
+  entrance_longitude: "-73.9729"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.9729
+    - 40.685559

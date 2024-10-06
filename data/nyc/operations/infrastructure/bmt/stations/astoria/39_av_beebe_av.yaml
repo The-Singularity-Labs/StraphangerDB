@@ -1,0 +1,45 @@
+id: astoria_39_av_beebe_av
+accessible: false
+station_names:
+- 39 Av-Beebe Av
+lines:
+- Astoria
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.752882"
+station_longitude: "-73.932755"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.932755
+  - 40.752882
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 31st St
+  east_west_street: 39th Ave
+  corner: NW
+  entrance_latitude: "40.752901"
+  entrance_longitude: "-73.932903"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.932903
+    - 40.752901
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 31st St
+  east_west_street: 39th Ave
+  corner: SE
+  entrance_latitude: "40.752491"
+  entrance_longitude: "-73.932936"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.932936
+    - 40.752491

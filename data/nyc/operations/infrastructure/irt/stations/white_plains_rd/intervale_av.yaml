@@ -1,0 +1,58 @@
+id: white_plains_rd_intervale_av
+accessible: false
+station_names:
+- Intervale Av
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.822181"
+station_longitude: "-73.896736"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.896736
+  - 40.822181
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Intervale Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.8224"
+  entrance_longitude: "-73.896508"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896508
+    - 40.8224
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Intervale Ave
+  east_west_street: Westchester Ave
+  corner: SE
+  entrance_latitude: "40.822095"
+  entrance_longitude: "-73.896681"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896681
+    - 40.822095
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Intervale Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.822447"
+  entrance_longitude: "-73.896719"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896719
+    - 40.822447

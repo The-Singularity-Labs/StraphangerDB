@@ -1,0 +1,110 @@
+id: 8th_av_dyckman_st_200th_st
+accessible: false
+station_names:
+- Dyckman St-200th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.865491"
+station_longitude: "-73.927271"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.927271
+  - 40.865491
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: SE
+  entrance_latitude: "40.865296"
+  entrance_longitude: "-73.927411"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927411
+    - 40.865296
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: SW
+  entrance_latitude: "40.865362"
+  entrance_longitude: "-73.928059"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.928059
+    - 40.865362
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: NW
+  entrance_latitude: "40.865744"
+  entrance_longitude: "-73.927172"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927172
+    - 40.865744
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: NE
+  entrance_latitude: "40.865342"
+  entrance_longitude: "-73.926964"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.926964
+    - 40.865342
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: NE
+  entrance_latitude: "40.865446"
+  entrance_longitude: "-73.927035"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927035
+    - 40.865446
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: NW
+  entrance_latitude: "40.865758"
+  entrance_longitude: "-73.927266"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927266
+    - 40.865758
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Dyckman St
+  corner: SE
+  entrance_latitude: "40.865248"
+  entrance_longitude: "-73.927279"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.927279
+    - 40.865248

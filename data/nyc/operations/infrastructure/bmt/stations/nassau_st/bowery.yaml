@@ -1,0 +1,45 @@
+id: nassau_st_bowery
+accessible: false
+station_names:
+- Bowery
+lines:
+- Nassau St
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.72028"
+station_longitude: "-73.993915"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.993915
+  - 40.72028
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bowery
+  east_west_street: Delencey St
+  corner: NE
+  entrance_latitude: "40.720291"
+  entrance_longitude: "-73.993411"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993411
+    - 40.720291
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bowery
+  east_west_street: Delancey St
+  corner: SE
+  entrance_latitude: "40.719977"
+  entrance_longitude: "-73.993576"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993576
+    - 40.719977

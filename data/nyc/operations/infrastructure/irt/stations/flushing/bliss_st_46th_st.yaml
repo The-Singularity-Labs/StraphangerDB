@@ -1,0 +1,97 @@
+id: flushing_bliss_st_46th_st
+accessible: false
+station_names:
+- Bliss St-46th St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.743132"
+station_longitude: "-73.918435"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.918435
+  - 40.743132
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 46th St
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.743105"
+  entrance_longitude: "-73.918848"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918848
+    - 40.743105
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 46th St
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.743064"
+  entrance_longitude: "-73.918601"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918601
+    - 40.743064
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 46th St
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.743217"
+  entrance_longitude: "-73.918564"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918564
+    - 40.743217
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 46th St
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.74324"
+  entrance_longitude: "-73.918813"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918813
+    - 40.74324
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 47th St
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.742987"
+  entrance_longitude: "-73.917936"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917936
+    - 40.742987
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 47th St
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.743134"
+  entrance_longitude: "-73.917895"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917895
+    - 40.743134

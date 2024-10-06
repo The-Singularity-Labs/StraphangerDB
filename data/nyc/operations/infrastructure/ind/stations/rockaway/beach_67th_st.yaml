@@ -1,0 +1,71 @@
+id: rockaway_beach_67th_st
+accessible: false
+station_names:
+- Beach 67th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.590927"
+station_longitude: "-73.796924"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.796924
+  - 40.590927
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 67th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.590744"
+  entrance_longitude: "-73.797789"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.797789
+    - 40.590744
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 67th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.591123"
+  entrance_longitude: "-73.79646"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.79646
+    - 40.591123
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 67th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.590951"
+  entrance_longitude: "-73.796176"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.796176
+    - 40.590951
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 67th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.590901"
+  entrance_longitude: "-73.796609"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.796609
+    - 40.590901

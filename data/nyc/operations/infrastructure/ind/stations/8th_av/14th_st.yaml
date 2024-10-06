@@ -1,0 +1,123 @@
+id: 8th_av_14th_st
+accessible: false
+station_names:
+- 14th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.740893"
+station_longitude: "-74.00169"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.00169
+  - 40.740893
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 15th St
+  corner: NW
+  entrance_latitude: "40.740598"
+  entrance_longitude: "-74.002185"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002185
+    - 40.740598
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 14th St
+  corner: NE
+  entrance_latitude: "40.739776"
+  entrance_longitude: "-74.002256"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002256
+    - 40.739776
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 15th St
+  corner: NE
+  entrance_latitude: "40.74041"
+  entrance_longitude: "-74.00175"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00175
+    - 40.74041
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 14th St
+  corner: NW
+  entrance_latitude: "40.739949"
+  entrance_longitude: "-74.002655"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.002655
+    - 40.739949
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 16th St
+  corner: NE
+  entrance_latitude: "40.741046"
+  entrance_longitude: "-74.001284"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001284
+    - 40.741046
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 16th St
+  corner: SE
+  entrance_latitude: "40.740944"
+  entrance_longitude: "-74.001402"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001402
+    - 40.740944
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 16th St
+  corner: NW
+  entrance_latitude: "40.741235"
+  entrance_longitude: "-74.001715"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001715
+    - 40.741235
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 8th Ave
+  east_west_street: 16th St
+  corner: SW
+  entrance_latitude: "40.740938"
+  entrance_longitude: "-74.001919"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001919
+    - 40.740938

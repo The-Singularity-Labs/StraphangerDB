@@ -1,0 +1,71 @@
+id: rockaway_beach_90th_st
+accessible: false
+station_names:
+- Beach 90th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.588034"
+station_longitude: "-73.813641"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.813641
+  - 40.588034
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 89th St
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.587929"
+  entrance_longitude: "-73.813755"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.813755
+    - 40.587929
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 89th St
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.58808"
+  entrance_longitude: "-73.813907"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.813907
+    - 40.58808
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 90th St
+  east_west_street: Rockaway Frwy
+  corner: SE
+  entrance_latitude: "40.587814"
+  entrance_longitude: "-73.814037"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.814037
+    - 40.587814
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 90th St
+  east_west_street: Rockaway Frwy
+  corner: NE
+  entrance_latitude: "40.587999"
+  entrance_longitude: "-73.814117"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.814117
+    - 40.587999

@@ -1,0 +1,113 @@
+id: station_template
+kind: station
+is_disabled: true 
+labels:
+  division: IND
+  branch: Rockaway Beach Branch
+station:
+  accessible: false
+  station_names:
+  - 7th Av
+  lines:
+  - transfer
+  transfers: []
+  division: IND
+  borough: Manhattan
+  station_latitude: "40.762862"
+  station_longitude: "-73.981637"
+  has_payment_vending: true
+  staffing: FULL
+  grade: subteranean | elevated | trench | other
+  has_bike_parking: false
+  retail_footage: 25
+  passenger_capacity: 1000
+
+  track_points: 
+    - id: some_point_of_track
+      track_id: 0
+      orientation: inbound
+      level: 0 -- 0 indicates street level, -1 is standard subway level, +1 is standard elevated subway
+    - id: another_point_of_track
+      track_id: 0 -- points on the same track are automatically connected from outbound to inbound
+      orientation: outbound
+      level: 0 -- 0 indicates street level, -1 is standard subway level, +1 is standard elevated subway
+    - id: a_branch_point
+      track_id: 1
+      orientation: outbound
+      level: 0 -- 0 indicates street level, -1 is standard subway level, +1 is standard elevated subway
+
+  switch_graph:
+    - id: some_point_of_track
+      from: some_point_of_track
+      to: a_branch_point
+      capacity_per_hour: 24 -- number of trains that can be switched here assuming no competiting traffic 
+
+  platforms:
+    - id: Track 1
+      bounds: [null, 0]
+    - id: Track 2
+      bounds: [null, 0]
+
+  comments:
+  url: https://www.nycsubway.org/wiki/IRT_West_Side_Line#42nd_Street.2FTimes_Square
+  transfers:
+    ind/queens_plaza
+  georeference:
+    type: Point
+    coordinates:
+    - -73.981637
+    - 40.762862
+  entry_exits:
+    - entry_only: true
+      exit_only: false
+      entrance_type: Stair
+      north_south_street: 7th Ave
+      east_west_street: 53rd St
+      corner: NE
+      entrance_latitude: "40.762937"
+      entrance_longitude: "-73.981578"
+      entrance_georeference:
+        type: Point
+        coordinates:
+        - -73.981578
+        - 40.762937
+    - entry_only: true
+      exit_only: false
+      entrance_type: Stair
+      north_south_street: 7th Ave
+      east_west_street: 53rd St
+      corner: SE
+      entrance_latitude: "40.762793"
+      entrance_longitude: "-73.98169"
+      entrance_georeference:
+        type: Point
+        coordinates:
+        - -73.98169
+        - 40.762793
+    - entry_only: true
+      exit_only: false
+      entrance_type: Stair
+      north_south_street: Broadway
+      east_west_street: 53rd St
+      corner: SE
+      entrance_latitude: "40.763141"
+      entrance_longitude: "-73.982666"
+      entrance_georeference:
+        type: Point
+        coordinates:
+        - -73.982666
+        - 40.763141
+    - entry_only: true
+      exit_only: false
+      entrance_type: Stair
+      north_south_street: Broadway
+      east_west_street: 53rd St
+      corner: NE
+      entrance_latitude: "40.763388"
+      entrance_longitude: "-73.982495"
+      entrance_georeference:
+        type: Point
+        coordinates:
+        - -73.982495
+        - 40.763388
+

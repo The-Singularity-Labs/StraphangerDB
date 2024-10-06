@@ -1,0 +1,45 @@
+id: new_lots_rockaway_av
+accessible: false
+station_names:
+- Rockaway Av
+lines:
+- New Lots
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.662549"
+station_longitude: "-73.908946"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.908946
+  - 40.662549
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Rockaway Ave
+  east_west_street: Livonia Ave
+  corner: NW
+  entrance_latitude: "40.662703"
+  entrance_longitude: "-73.909033"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.909033
+    - 40.662703
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Rockaway Ave
+  east_west_street: Livonia Ave
+  corner: SE
+  entrance_latitude: "40.662401"
+  entrance_longitude: "-73.908809"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.908809
+    - 40.662401

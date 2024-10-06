@@ -1,0 +1,71 @@
+id: culver_fort_hamilton_parkway
+accessible: false
+station_names:
+- Fort Hamilton Parkway
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.650782"
+station_longitude: "-73.975776"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.975776
+  - 40.650782
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Prospect Expwy
+  east_west_street: Fort Hamilton Pkwy
+  corner: NW
+  entrance_latitude: "40.649854"
+  entrance_longitude: "-73.975815"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975815
+    - 40.649854
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Ave
+  east_west_street: Reeve Pl
+  corner: SE
+  entrance_latitude: "40.652665"
+  entrance_longitude: "-73.975901"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975901
+    - 40.652665
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Ave
+  east_west_street: Greenwood Ave
+  corner: NW
+  entrance_latitude: "40.651608"
+  entrance_longitude: "-73.975596"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975596
+    - 40.651608
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Prospect Ave
+  east_west_street: Greenwood Ave
+  corner: NE
+  entrance_latitude: "40.651834"
+  entrance_longitude: "-73.976076"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976076
+    - 40.651834

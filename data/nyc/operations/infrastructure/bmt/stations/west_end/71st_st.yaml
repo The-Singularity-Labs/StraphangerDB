@@ -1,0 +1,97 @@
+id: west_end_71st_st
+accessible: false
+station_names:
+- 71st St
+lines:
+- West End
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.619589"
+station_longitude: "-73.998864"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.998864
+  - 40.619589
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 71st St
+  corner: NW
+  entrance_latitude: "40.619133"
+  entrance_longitude: "-73.99924"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99924
+    - 40.619133
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: Bay Ridge Ave
+  corner: SW
+  entrance_latitude: "40.620379"
+  entrance_longitude: "-73.998764"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998764
+    - 40.620379
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: Bay Ridge Ave
+  corner: SE
+  entrance_latitude: "40.62036"
+  entrance_longitude: "-73.99855"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99855
+    - 40.62036
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 71st St
+  corner: NE
+  entrance_latitude: "40.618889"
+  entrance_longitude: "-73.998832"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998832
+    - 40.618889
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 71st St
+  corner: SE
+  entrance_latitude: "40.61877"
+  entrance_longitude: "-73.998995"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998995
+    - 40.61877
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: New Utrecht Ave
+  east_west_street: 71st St
+  corner: SW
+  entrance_latitude: "40.618834"
+  entrance_longitude: "-73.999195"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.999195
+    - 40.618834

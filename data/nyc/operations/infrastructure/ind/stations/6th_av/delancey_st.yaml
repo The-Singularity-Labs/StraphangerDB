@@ -1,0 +1,71 @@
+id: 6th_av_delancey_st
+accessible: false
+station_names:
+- Delancey St
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.718611"
+station_longitude: "-73.988114"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.988114
+  - 40.718611
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Essex St
+  east_west_street: Delancey St
+  corner: SE
+  entrance_latitude: "40.718207"
+  entrance_longitude: "-73.988273"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988273
+    - 40.718207
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Essex St
+  east_west_street: Delancey St
+  corner: SW
+  entrance_latitude: "40.718372"
+  entrance_longitude: "-73.988445"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988445
+    - 40.718372
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Essex St
+  east_west_street: Delancey St
+  corner: NW
+  entrance_latitude: "40.718781"
+  entrance_longitude: "-73.988233"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988233
+    - 40.718781
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Essex St
+  east_west_street: Delancey St
+  corner: NE
+  entrance_latitude: "40.718778"
+  entrance_longitude: "-73.987961"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987961
+    - 40.718778

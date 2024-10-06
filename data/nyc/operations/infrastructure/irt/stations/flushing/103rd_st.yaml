@@ -1,0 +1,71 @@
+id: flushing_103rd_st
+accessible: false
+station_names:
+- 103rd St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.749865"
+station_longitude: "-73.8627"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.8627
+  - 40.749865
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 103rd St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.749973"
+  entrance_longitude: "-73.862425"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.862425
+    - 40.749973
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 103rd St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.749787"
+  entrance_longitude: "-73.862389"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.862389
+    - 40.749787
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 103rd St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.749775"
+  entrance_longitude: "-73.862537"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.862537
+    - 40.749775
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 103rd St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.749964"
+  entrance_longitude: "-73.862546"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.862546
+    - 40.749964

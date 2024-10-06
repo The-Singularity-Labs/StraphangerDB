@@ -1,0 +1,71 @@
+id: broadway_7th_av_137th_st_city_college
+accessible: false
+station_names:
+- 137th St-City College
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.822008"
+station_longitude: "-73.953676"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.953676
+  - 40.822008
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 137th St
+  corner: NE
+  entrance_latitude: "40.821454"
+  entrance_longitude: "-73.953856"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.953856
+    - 40.821454
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 137th St
+  corner: NE
+  entrance_latitude: "40.821391"
+  entrance_longitude: "-73.953906"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.953906
+    - 40.821391
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 137th St
+  corner: NW
+  entrance_latitude: "40.821584"
+  entrance_longitude: "-73.954223"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954223
+    - 40.821584
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 137th St
+  corner: SW
+  entrance_latitude: "40.821348"
+  entrance_longitude: "-73.954408"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954408
+    - 40.821348

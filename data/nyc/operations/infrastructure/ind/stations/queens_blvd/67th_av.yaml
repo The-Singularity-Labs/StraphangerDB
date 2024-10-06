@@ -1,0 +1,71 @@
+id: queens_blvd_67th_av
+accessible: false
+station_names:
+- 67th Av
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.726523"
+station_longitude: "-73.852719"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.852719
+  - 40.726523
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 67th Ave
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.726598"
+  entrance_longitude: "-73.853534"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.853534
+    - 40.726598
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 67th Ave
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.727073"
+  entrance_longitude: "-73.853226"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.853226
+    - 40.727073
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 67th Dr
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.72603"
+  entrance_longitude: "-73.852186"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.852186
+    - 40.72603
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 67th Dr
+  east_west_street: Queens Blvd
+  corner: NW
+  entrance_latitude: "40.726367"
+  entrance_longitude: "-73.851592"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.851592
+    - 40.726367

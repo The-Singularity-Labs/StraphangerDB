@@ -1,0 +1,123 @@
+id: culver_7th_av
+accessible: false
+station_names:
+- 7th Av
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.666271"
+station_longitude: "-73.980305"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.980305
+  - 40.666271
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 9th St
+  corner: SE
+  entrance_latitude: "40.666649"
+  entrance_longitude: "-73.981624"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981624
+    - 40.666649
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 9th St
+  corner: NE
+  entrance_latitude: "40.667004"
+  entrance_longitude: "-73.981331"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981331
+    - 40.667004
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 9th St
+  corner: NW
+  entrance_latitude: "40.667112"
+  entrance_longitude: "-73.981716"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981716
+    - 40.667112
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 9th St
+  corner: NE
+  entrance_latitude: "40.665835"
+  entrance_longitude: "-73.979007"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979007
+    - 40.665835
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 9th St
+  corner: SE
+  entrance_latitude: "40.665494"
+  entrance_longitude: "-73.979278"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979278
+    - 40.665494
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 9th St
+  corner: SW
+  entrance_latitude: "40.665593"
+  entrance_longitude: "-73.979509"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979509
+    - 40.665593
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 9th St
+  corner: NW
+  entrance_latitude: "40.665993"
+  entrance_longitude: "-73.979181"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979181
+    - 40.665993
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 9th St
+  corner: SW
+  entrance_latitude: "40.666751"
+  entrance_longitude: "-73.981851"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981851
+    - 40.666751

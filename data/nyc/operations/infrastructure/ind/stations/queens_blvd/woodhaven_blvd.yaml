@@ -1,0 +1,71 @@
+id: queens_blvd_woodhaven_blvd
+accessible: false
+station_names:
+- Woodhaven Blvd
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.733106"
+station_longitude: "-73.869229"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.869229
+  - 40.733106
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Woodhaven Blvd
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.733354"
+  entrance_longitude: "-73.870983"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.870983
+    - 40.733354
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Woodhaven Blvd
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.733041"
+  entrance_longitude: "-73.870334"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.870334
+    - 40.733041
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Horace Harding Expwy
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.733188"
+  entrance_longitude: "-73.868605"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.868605
+    - 40.733188
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 59th Ave
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.733555"
+  entrance_longitude: "-73.869588"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.869588
+    - 40.733555

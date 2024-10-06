@@ -1,0 +1,58 @@
+id: brighton_kings_highway
+accessible: false
+station_names:
+- Kings Highway
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.60867"
+station_longitude: "-73.957734"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.957734
+  - 40.60867
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: ""
+  east_west_street: ""
+  corner: W
+  entrance_latitude: "40.608319"
+  entrance_longitude: "-73.957352"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957352
+    - 40.608319
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 15th St
+  east_west_street: Kings Hwy
+  corner: SE
+  entrance_latitude: "40.608835"
+  entrance_longitude: "-73.957769"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957769
+    - 40.608835
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 15th St
+  east_west_street: Kings Hwy
+  corner: NE
+  entrance_latitude: "40.609062"
+  entrance_longitude: "-73.957808"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.957808
+    - 40.609062

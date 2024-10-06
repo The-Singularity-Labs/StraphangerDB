@@ -1,0 +1,71 @@
+id: lenox_av_125th_st
+accessible: false
+station_names:
+- 125th St
+lines:
+- Lenox Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.807754"
+station_longitude: "-73.945495"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.945495
+  - 40.807754
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 125th St
+  corner: NE
+  entrance_latitude: "40.807875"
+  entrance_longitude: "-73.945229"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945229
+    - 40.807875
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 125th St
+  corner: SW
+  entrance_latitude: "40.807681"
+  entrance_longitude: "-73.945752"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945752
+    - 40.807681
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 125th St
+  corner: NW
+  entrance_latitude: "40.807995"
+  entrance_longitude: "-73.945524"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945524
+    - 40.807995
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 125th St
+  corner: SE
+  entrance_latitude: "40.807548"
+  entrance_longitude: "-73.945463"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945463
+    - 40.807548

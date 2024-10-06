@@ -1,0 +1,71 @@
+id: astoria_astoria_blvd_hoyt_av
+accessible: false
+station_names:
+- Astoria Blvd-Hoyt Av
+lines:
+- Astoria
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.770258"
+station_longitude: "-73.917843"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.917843
+  - 40.770258
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 31st St
+  east_west_street: Hoyt Ave North
+  corner: NE
+  entrance_latitude: "40.77087"
+  entrance_longitude: "-73.916935"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.916935
+    - 40.77087
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 31st St
+  east_west_street: Hoyt Ave North
+  corner: NW
+  entrance_latitude: "40.771009"
+  entrance_longitude: "-73.917167"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917167
+    - 40.771009
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 31st St
+  east_west_street: Hoyt Ave South
+  corner: SE
+  entrance_latitude: "40.77017"
+  entrance_longitude: "-73.917755"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917755
+    - 40.77017
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 31st St
+  east_west_street: Hoyt Ave South
+  corner: SW
+  entrance_latitude: "40.770313"
+  entrance_longitude: "-73.917978"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917978
+    - 40.770313

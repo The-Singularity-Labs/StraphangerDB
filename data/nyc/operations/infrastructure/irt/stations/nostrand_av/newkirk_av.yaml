@@ -1,0 +1,58 @@
+id: nostrand_av_newkirk_av
+accessible: false
+station_names:
+- Newkirk Av
+lines:
+- Nostrand Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.639967"
+station_longitude: "-73.948411"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.948411
+  - 40.639967
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Avenue D
+  corner: SW
+  entrance_latitude: "40.640743"
+  entrance_longitude: "-73.948597"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.948597
+    - 40.640743
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Newkirk Ave
+  corner: SE
+  entrance_latitude: "40.639924"
+  entrance_longitude: "-73.948161"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.948161
+    - 40.639924
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Newkirk Ave
+  corner: SW
+  entrance_latitude: "40.639883"
+  entrance_longitude: "-73.948701"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.948701
+    - 40.639883

@@ -1,0 +1,84 @@
+id: fulton_st_euclid_av
+accessible: true
+station_names:
+- Euclid Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.675377"
+station_longitude: "-73.872106"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.872106
+  - 40.675377
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Euclid Ave
+  east_west_street: Pitkin Ave
+  corner: NE
+  entrance_latitude: "40.675533"
+  entrance_longitude: "-73.871742"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.871742
+    - 40.675533
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Euclid Ave
+  east_west_street: Pitkin Ave
+  corner: SE
+  entrance_latitude: "40.675301"
+  entrance_longitude: "-73.871801"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.871801
+    - 40.675301
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Pitkin
+  east_west_street: ""
+  corner: NE
+  entrance_latitude: "40.675554"
+  entrance_longitude: "-73.871875"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.871875
+    - 40.675554
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Euclid Ave
+  east_west_street: Pitkin Ave
+  corner: SW
+  entrance_latitude: "40.675274"
+  entrance_longitude: "-73.872115"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.872115
+    - 40.675274
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Euclid Ave
+  east_west_street: Pitkin Ave
+  corner: NW
+  entrance_latitude: "40.675478"
+  entrance_longitude: "-73.872109"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.872109
+    - 40.675478

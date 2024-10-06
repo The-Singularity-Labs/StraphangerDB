@@ -1,0 +1,58 @@
+id: flushing_82nd_st_jackson_heights
+accessible: false
+station_names:
+- 82nd St-Jackson Heights
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.747659"
+station_longitude: "-73.883697"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.883697
+  - 40.747659
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 82nd St
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.747453"
+  entrance_longitude: "-73.883973"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.883973
+    - 40.747453
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 82nd St
+  east_west_street: Roosevelt Ave
+  corner: NW
+  entrance_latitude: "40.747797"
+  entrance_longitude: "-73.884028"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.884028
+    - 40.747797
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 82nd St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.747812"
+  entrance_longitude: "-73.883876"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.883876
+    - 40.747812

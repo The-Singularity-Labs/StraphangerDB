@@ -1,0 +1,58 @@
+id: crosstown_classon_av
+accessible: false
+station_names:
+- Classon Av
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.688873"
+station_longitude: "-73.96007"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.96007
+  - 40.688873
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Classon Ave
+  east_west_street: Lafayette Ave
+  corner: SE
+  entrance_latitude: "40.688781"
+  entrance_longitude: "-73.959871"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.959871
+    - 40.688781
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Classon Ave
+  east_west_street: Lafayette Ave
+  corner: SW
+  entrance_latitude: "40.688753"
+  entrance_longitude: "-73.96019"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.96019
+    - 40.688753
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Classon Ave
+  east_west_street: Lafayette Ave
+  corner: NW
+  entrance_latitude: "40.688942"
+  entrance_longitude: "-73.960215"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960215
+    - 40.688942

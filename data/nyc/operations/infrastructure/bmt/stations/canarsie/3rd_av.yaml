@@ -1,0 +1,71 @@
+id: canarsie_3rd_av
+accessible: false
+station_names:
+- 3rd Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.732849"
+station_longitude: "-73.986122"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.986122
+  - 40.732849
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.732961"
+  entrance_longitude: "-73.986657"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986657
+    - 40.732961
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 14th St
+  corner: NE
+  entrance_latitude: "40.733277"
+  entrance_longitude: "-73.986931"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986931
+    - 40.733277
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 14th St
+  corner: SE
+  entrance_latitude: "40.733134"
+  entrance_longitude: "-73.987041"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987041
+    - 40.733134
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 14th St
+  corner: NE
+  entrance_latitude: "40.733122"
+  entrance_longitude: "-73.986548"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986548
+    - 40.733122

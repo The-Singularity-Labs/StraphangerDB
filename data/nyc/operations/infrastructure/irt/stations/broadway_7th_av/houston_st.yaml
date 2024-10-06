@@ -1,0 +1,123 @@
+id: broadway_7th_av_houston_st
+accessible: false
+station_names:
+- Houston St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.728251"
+station_longitude: "-74.005367"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.005367
+  - 40.728251
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: Houston St
+  corner: NE
+  entrance_latitude: "40.728656"
+  entrance_longitude: "-74.005086"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005086
+    - 40.728656
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: Houston St
+  corner: SE
+  entrance_latitude: "40.728472"
+  entrance_longitude: "-74.005188"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005188
+    - 40.728472
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: King St
+  corner: NW
+  entrance_latitude: "40.727983"
+  entrance_longitude: "-74.00565"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00565
+    - 40.727983
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: Houston St
+  corner: SW
+  entrance_latitude: "40.728561"
+  entrance_longitude: "-74.00554"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00554
+    - 40.728561
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: Houston St
+  corner: NW
+  entrance_latitude: "40.728686"
+  entrance_longitude: "-74.005517"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005517
+    - 40.728686
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: King St
+  corner: SE
+  entrance_latitude: "40.727739"
+  entrance_longitude: "-74.005305"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005305
+    - 40.727739
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: King St
+  corner: SW
+  entrance_latitude: "40.72784"
+  entrance_longitude: "-74.005681"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005681
+    - 40.72784
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Varick St
+  east_west_street: King St
+  corner: NE
+  entrance_latitude: "40.727989"
+  entrance_longitude: "-74.005258"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.005258
+    - 40.727989

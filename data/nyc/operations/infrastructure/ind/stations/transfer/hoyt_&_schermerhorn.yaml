@@ -1,0 +1,45 @@
+id: fulton_st/crosstown_hoyt_&_schermerhorn
+accessible: false
+station_names:
+- Hoyt & Schermerhorn
+lines:
+- transfer
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.688484"
+station_longitude: "-73.985001"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.985001
+  - 40.688484
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Hoyt St
+  east_west_street: Schermerhorn St
+  corner: NE
+  entrance_latitude: "40.689085"
+  entrance_longitude: "-73.985941"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985941
+    - 40.689085
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Bond St
+  east_west_street: Schermerhorn St
+  corner: NW
+  entrance_latitude: "40.688396"
+  entrance_longitude: "-73.984216"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.984216
+    - 40.688396

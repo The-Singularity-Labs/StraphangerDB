@@ -1,0 +1,58 @@
+id: 4th_av_36th_st
+accessible: false
+station_names:
+- 36th St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.655144"
+station_longitude: "-74.003549"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.003549
+  - 40.655144
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 36th St
+  corner: NW
+  entrance_latitude: "40.65449"
+  entrance_longitude: "-74.004499"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004499
+    - 40.65449
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 36th St
+  corner: NW
+  entrance_latitude: "40.654676"
+  entrance_longitude: "-74.004306"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004306
+    - 40.654676
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 36th St
+  corner: NE
+  entrance_latitude: "40.654365"
+  entrance_longitude: "-74.004113"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004113
+    - 40.654365

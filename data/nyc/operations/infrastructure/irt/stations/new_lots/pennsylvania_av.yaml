@@ -1,0 +1,45 @@
+id: new_lots_pennsylvania_av
+accessible: false
+station_names:
+- Pennsylvania Av
+lines:
+- New Lots
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.664635"
+station_longitude: "-73.894895"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.894895
+  - 40.664635
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pennsylvania Ave
+  east_west_street: Livonia Ave
+  corner: NE
+  entrance_latitude: "40.664869"
+  entrance_longitude: "-73.893779"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.893779
+    - 40.664869
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pennsylvania Ave
+  east_west_street: Livonia Ave
+  corner: SW
+  entrance_latitude: "40.664575"
+  entrance_longitude: "-73.894117"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.894117
+    - 40.664575

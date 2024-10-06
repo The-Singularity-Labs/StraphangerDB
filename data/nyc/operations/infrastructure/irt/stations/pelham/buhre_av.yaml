@@ -1,0 +1,58 @@
+id: pelham_buhre_av
+accessible: false
+station_names:
+- Buhre Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.84681"
+station_longitude: "-73.832569"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.832569
+  - 40.84681
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Edison Ave
+  east_west_street: Buhre Ave
+  corner: SW
+  entrance_latitude: "40.846891"
+  entrance_longitude: "-73.832639"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.832639
+    - 40.846891
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Edison Ave
+  east_west_street: Westchester Ave
+  corner: SE
+  entrance_latitude: "40.846795"
+  entrance_longitude: "-73.832405"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.832405
+    - 40.846795
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Edison Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.847185"
+  entrance_longitude: "-73.832264"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.832264
+    - 40.847185

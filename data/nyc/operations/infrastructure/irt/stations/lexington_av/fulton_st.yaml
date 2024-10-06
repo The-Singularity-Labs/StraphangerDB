@@ -1,0 +1,84 @@
+id: lexington_av_fulton_st
+accessible: false
+station_names:
+- Fulton St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.710368"
+station_longitude: "-74.009509"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.009509
+  - 40.710368
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.711112"
+  entrance_longitude: "-74.009382"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009382
+    - 40.711112
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: John St
+  corner: SE
+  entrance_latitude: "40.710166"
+  entrance_longitude: "-74.009424"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009424
+    - 40.710166
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.711026"
+  entrance_longitude: "-74.00919"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00919
+    - 40.711026
+- entry_only: false
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Broadway
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.710944"
+  entrance_longitude: "-74.009403"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009403
+    - 40.710944
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: John St
+  corner: NE
+  entrance_latitude: "40.710165"
+  entrance_longitude: "-74.009182"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009182
+    - 40.710165

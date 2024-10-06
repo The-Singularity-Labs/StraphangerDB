@@ -1,0 +1,45 @@
+id: jerome_av_176th_st
+accessible: false
+station_names:
+- 176th St
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.84848"
+station_longitude: "-73.911794"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.911794
+  - 40.84848
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: 176th St
+  corner: SE
+  entrance_latitude: "40.848501"
+  entrance_longitude: "-73.911633"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.911633
+    - 40.848501
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: 176th St
+  corner: NW
+  entrance_latitude: "40.848385"
+  entrance_longitude: "-73.912003"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.912003
+    - 40.848385

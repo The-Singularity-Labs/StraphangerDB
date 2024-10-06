@@ -1,0 +1,97 @@
+id: broadway_whitehall_st
+accessible: false
+station_names:
+- Whitehall St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.703087"
+station_longitude: "-74.012994"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.012994
+  - 40.703087
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.704096"
+  entrance_longitude: "-74.013293"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013293
+    - 40.704096
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.702108"
+  entrance_longitude: "-74.012642"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012642
+    - 40.702108
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.704015"
+  entrance_longitude: "-74.013284"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013284
+    - 40.704015
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.701938"
+  entrance_longitude: "-74.012588"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012588
+    - 40.701938
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.702108"
+  entrance_longitude: "-74.012642"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012642
+    - 40.702108
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.704114"
+  entrance_longitude: "-74.013"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013
+    - 40.704114

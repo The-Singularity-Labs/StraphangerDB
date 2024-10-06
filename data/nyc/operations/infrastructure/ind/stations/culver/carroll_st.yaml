@@ -1,0 +1,84 @@
+id: culver_carroll_st
+accessible: false
+station_names:
+- Carroll St
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.680303"
+station_longitude: "-73.995048"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.995048
+  - 40.680303
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: President St
+  corner: SE
+  entrance_latitude: "40.680806"
+  entrance_longitude: "-73.99435"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99435
+    - 40.680806
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: President St
+  corner: NE
+  entrance_latitude: "40.680944"
+  entrance_longitude: "-73.994247"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994247
+    - 40.680944
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: President St
+  corner: NW
+  entrance_latitude: "40.681115"
+  entrance_longitude: "-73.994434"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994434
+    - 40.681115
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: 2nd St
+  corner: NW
+  entrance_latitude: "40.679299"
+  entrance_longitude: "-73.995698"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.995698
+    - 40.679299
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: 2nd St
+  corner: SE
+  entrance_latitude: "40.679344"
+  entrance_longitude: "-73.995288"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.995288
+    - 40.679344

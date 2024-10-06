@@ -1,0 +1,45 @@
+id: 4th_av_25th_st
+accessible: false
+station_names:
+- 25th St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.660397"
+station_longitude: "-73.998091"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.998091
+  - 40.660397
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 25th St
+  corner: SE
+  entrance_latitude: "40.660323"
+  entrance_longitude: "-73.997952"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997952
+    - 40.660323
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 25th St
+  corner: SW
+  entrance_latitude: "40.660489"
+  entrance_longitude: "-73.99822"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99822
+    - 40.660489

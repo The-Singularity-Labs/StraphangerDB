@@ -1,0 +1,110 @@
+id: 42nd_st_shuttle_grand_central
+accessible: false
+station_names:
+- Grand Central
+lines:
+- 42nd St Shuttle
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.752769"
+station_longitude: "-73.979189"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.979189
+  - 40.752769
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Madison Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.752846"
+  entrance_longitude: "-73.979798"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979798
+    - 40.752846
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Park Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.752184"
+  entrance_longitude: "-73.978048"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978048
+    - 40.752184
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Vanderbilt Ave
+  east_west_street: 42nd St
+  corner: NW
+  entrance_latitude: "40.752717"
+  entrance_longitude: "-73.978487"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978487
+    - 40.752717
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Vanderbilt Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.752279"
+  entrance_longitude: "-73.97828"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97828
+    - 40.752279
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Vanderbilt Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.752218"
+  entrance_longitude: "-73.978396"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978396
+    - 40.752218
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Madison Ave
+  east_west_street: 42nd St
+  corner: NE
+  entrance_latitude: "40.75283"
+  entrance_longitude: "-73.978917"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978917
+    - 40.75283
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Madison Ave
+  east_west_street: 42nd St
+  corner: NW
+  entrance_latitude: "40.753087"
+  entrance_longitude: "-73.979537"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979537
+    - 40.753087

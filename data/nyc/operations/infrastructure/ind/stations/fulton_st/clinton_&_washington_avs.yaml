@@ -1,0 +1,84 @@
+id: fulton_st_clinton_&_washington_avs
+accessible: false
+station_names:
+- Clinton & Washington Avs
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.683263"
+station_longitude: "-73.965838"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.965838
+  - 40.683263
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Fulton Ave
+  corner: NW
+  entrance_latitude: "40.683695"
+  entrance_longitude: "-73.967069"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967069
+    - 40.683695
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Fulton Ave
+  corner: SE
+  entrance_latitude: "40.682868"
+  entrance_longitude: "-73.96463"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.96463
+    - 40.682868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Fulton Ave
+  corner: NE
+  entrance_latitude: "40.683172"
+  entrance_longitude: "-73.964689"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.964689
+    - 40.683172
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Fulton Ave
+  corner: SE
+  entrance_latitude: "40.683317"
+  entrance_longitude: "-73.966741"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966741
+    - 40.683317
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Fulton Ave
+  corner: NE
+  entrance_latitude: "40.683653"
+  entrance_longitude: "-73.966797"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.966797
+    - 40.683653

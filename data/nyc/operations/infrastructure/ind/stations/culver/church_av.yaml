@@ -1,0 +1,97 @@
+id: culver_church_av
+accessible: false
+station_names:
+- Church Av
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.644041"
+station_longitude: "-73.979678"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.979678
+  - 40.644041
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Church Ave
+  corner: SE
+  entrance_latitude: "40.642692"
+  entrance_longitude: "-73.97926"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97926
+    - 40.642692
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Church Ave
+  corner: NW
+  entrance_latitude: "40.643006"
+  entrance_longitude: "-73.97966"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97966
+    - 40.643006
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Albemarle Rd
+  corner: SE
+  entrance_latitude: "40.645042"
+  entrance_longitude: "-73.979573"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979573
+    - 40.645042
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Albemarle Rd
+  corner: SW
+  entrance_latitude: "40.644908"
+  entrance_longitude: "-73.980019"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980019
+    - 40.644908
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Church Ave
+  corner: SW
+  entrance_latitude: "40.642571"
+  entrance_longitude: "-73.979579"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979579
+    - 40.642571
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Church Ave
+  corner: NE
+  entrance_latitude: "40.643147"
+  entrance_longitude: "-73.979342"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.979342
+    - 40.643147

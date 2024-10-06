@@ -1,0 +1,32 @@
+id: 6th_av_york_st
+accessible: false
+station_names:
+- York St
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.699743"
+station_longitude: "-73.986885"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.986885
+  - 40.699743
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jay St
+  east_west_street: York St
+  corner: SW
+  entrance_latitude: "40.70138"
+  entrance_longitude: "-73.986655"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986655
+    - 40.70138

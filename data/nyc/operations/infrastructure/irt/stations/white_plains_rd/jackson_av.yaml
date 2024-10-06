@@ -1,0 +1,71 @@
+id: white_plains_rd_jackson_av
+accessible: false
+station_names:
+- Jackson Av
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.81649"
+station_longitude: "-73.907807"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.907807
+  - 40.81649
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.816589"
+  entrance_longitude: "-73.907893"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907893
+    - 40.816589
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: Westchester Ave
+  corner: NW
+  entrance_latitude: "40.816873"
+  entrance_longitude: "-73.907379"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907379
+    - 40.816873
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 152nd St
+  corner: NE
+  entrance_latitude: "40.816349"
+  entrance_longitude: "-73.907836"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907836
+    - 40.816349
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jackson Ave
+  east_west_street: 152nd St
+  corner: NE
+  entrance_latitude: "40.816201"
+  entrance_longitude: "-73.907942"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907942
+    - 40.816201

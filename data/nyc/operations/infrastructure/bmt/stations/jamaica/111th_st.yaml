@@ -1,0 +1,45 @@
+id: jamaica_111th_st
+accessible: false
+station_names:
+- 111th St
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.697418"
+station_longitude: "-73.836345"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.836345
+  - 40.697418
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 111th St
+  east_west_street: Jamaica Blvd
+  corner: NE
+  entrance_latitude: "40.696771"
+  entrance_longitude: "-73.837042"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.837042
+    - 40.696771
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 111th St
+  east_west_street: Jamaica Blvd
+  corner: SE
+  entrance_latitude: "40.697055"
+  entrance_longitude: "-73.837156"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.837156
+    - 40.697055

@@ -1,0 +1,97 @@
+id: 6th_av/8th_av_west_4th_st
+accessible: true
+station_names:
+- West 4th St
+lines:
+- transfer
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.732338"
+station_longitude: "-74.000495"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.000495
+  - 40.732338
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Waverly Pl
+  corner: NE
+  entrance_latitude: "40.733067"
+  entrance_longitude: "-73.999728"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.999728
+    - 40.733067
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.731086"
+  entrance_longitude: "-74.001209"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001209
+    - 40.731086
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: West 3rd St
+  corner: NW
+  entrance_latitude: "40.731133"
+  entrance_longitude: "-74.001534"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001534
+    - 40.731133
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: West 3rd St
+  corner: NE
+  entrance_latitude: "40.731091"
+  entrance_longitude: "-74.001127"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001127
+    - 40.731091
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Waverly Pl
+  corner: NE
+  entrance_latitude: "40.733259"
+  entrance_longitude: "-73.999615"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.999615
+    - 40.733259
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Waverly Pl
+  corner: NW
+  entrance_latitude: "40.733072"
+  entrance_longitude: "-74.000192"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.000192
+    - 40.733072

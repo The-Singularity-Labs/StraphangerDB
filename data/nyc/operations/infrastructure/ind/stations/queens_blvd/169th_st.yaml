@@ -1,0 +1,123 @@
+id: queens_blvd_169th_st
+accessible: false
+station_names:
+- 169th St
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.71047"
+station_longitude: "-73.793604"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.793604
+  - 40.71047
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 168th St
+  east_west_street: Hillside Ave
+  corner: SE
+  entrance_latitude: "40.709852"
+  entrance_longitude: "-73.794564"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.794564
+    - 40.709852
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 168th St
+  east_west_street: Hillside Ave
+  corner: NW
+  entrance_latitude: "40.710154"
+  entrance_longitude: "-73.794922"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.794922
+    - 40.710154
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 168th St
+  east_west_street: Hillside Ave
+  corner: SW
+  entrance_latitude: "40.709812"
+  entrance_longitude: "-73.794712"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.794712
+    - 40.709812
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 169th St
+  east_west_street: Hillside Ave
+  corner: SE
+  entrance_latitude: "40.710563"
+  entrance_longitude: "-73.792853"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.792853
+    - 40.710563
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 169th St
+  east_west_street: Hillside Ave
+  corner: NW
+  entrance_latitude: "40.71083"
+  entrance_longitude: "-73.793248"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.793248
+    - 40.71083
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 169th St
+  east_west_street: Hillside Ave
+  corner: NE
+  entrance_latitude: "40.710968"
+  entrance_longitude: "-73.792761"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.792761
+    - 40.710968
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 169th St
+  east_west_street: Hillside Ave
+  corner: SW
+  entrance_latitude: "40.710495"
+  entrance_longitude: "-73.793022"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.793022
+    - 40.710495
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 168th St
+  east_west_street: Hillside Ave
+  corner: NE
+  entrance_latitude: "40.710184"
+  entrance_longitude: "-73.79473"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.79473
+    - 40.710184

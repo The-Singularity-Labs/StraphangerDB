@@ -1,0 +1,58 @@
+id: 8th_av_spring_st
+accessible: false
+station_names:
+- Spring St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.726227"
+station_longitude: "-74.003739"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.003739
+  - 40.726227
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Vandam St
+  corner: SW
+  entrance_latitude: "40.726208"
+  entrance_longitude: "-74.00399"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00399
+    - 40.726208
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Spring St
+  corner: NW
+  entrance_latitude: "40.725595"
+  entrance_longitude: "-74.004326"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.004326
+    - 40.725595
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: Spring St
+  corner: NE
+  entrance_latitude: "40.725583"
+  entrance_longitude: "-74.003747"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.003747
+    - 40.725583

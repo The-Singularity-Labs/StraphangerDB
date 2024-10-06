@@ -1,0 +1,97 @@
+id: culver_bergen_st
+accessible: false
+station_names:
+- Bergen St
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.686145"
+station_longitude: "-73.990862"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.990862
+  - 40.686145
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: Bergen St
+  corner: SE
+  entrance_latitude: "40.686584"
+  entrance_longitude: "-73.990362"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990362
+    - 40.686584
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: Bergen St
+  corner: NW
+  entrance_latitude: "40.686868"
+  entrance_longitude: "-73.990526"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990526
+    - 40.686868
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: Bergen St
+  corner: SW
+  entrance_latitude: "40.686708"
+  entrance_longitude: "-73.990629"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990629
+    - 40.686708
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: Bergen St
+  corner: NE
+  entrance_latitude: "40.686727"
+  entrance_longitude: "-73.990269"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990269
+    - 40.686727
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: Warren St
+  corner: NW
+  entrance_latitude: "40.685579"
+  entrance_longitude: "-73.991465"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.991465
+    - 40.685579
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Smith St
+  east_west_street: Warren St
+  corner: NE
+  entrance_latitude: "40.685445"
+  entrance_longitude: "-73.991131"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.991131
+    - 40.685445

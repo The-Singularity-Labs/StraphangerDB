@@ -1,0 +1,240 @@
+id: 6th_av_47_50th_sts_rockefeller_center
+accessible: true
+station_names:
+- 47-50th Sts Rockefeller Center
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.758663"
+station_longitude: "-73.981329"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.981329
+  - 40.758663
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 48th St
+  corner: NE
+  entrance_latitude: "40.758615"
+  entrance_longitude: "-73.981095"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981095
+    - 40.758615
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 49th St
+  corner: NW
+  entrance_latitude: "40.759434"
+  entrance_longitude: "-73.981001"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981001
+    - 40.759434
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 50th St
+  corner: SW
+  entrance_latitude: "40.759896"
+  entrance_longitude: "-73.980706"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980706
+    - 40.759896
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 51st St
+  corner: SW
+  entrance_latitude: "40.760502"
+  entrance_longitude: "-73.980218"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980218
+    - 40.760502
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 50th St
+  corner: NE
+  entrance_latitude: "40.759953"
+  entrance_longitude: "-73.980117"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980117
+    - 40.759953
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 50th St
+  corner: NW
+  entrance_latitude: "40.760125"
+  entrance_longitude: "-73.980499"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980499
+    - 40.760125
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 49th St
+  corner: NE
+  entrance_latitude: "40.759301"
+  entrance_longitude: "-73.980594"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980594
+    - 40.759301
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 6th Ave
+  east_west_street: 49th St
+  corner: NW
+  entrance_latitude: "40.759414"
+  entrance_longitude: "-73.981035"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981035
+    - 40.759414
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 49th St
+  corner: SE
+  entrance_latitude: "40.758996"
+  entrance_longitude: "-73.980788"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.980788
+    - 40.758996
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 48th St
+  corner: SW
+  entrance_latitude: "40.758623"
+  entrance_longitude: "-73.981566"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981566
+    - 40.758623
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 48-49th Sts
+  corner: W
+  entrance_latitude: "40.758977"
+  entrance_longitude: "-73.981352"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981352
+    - 40.758977
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 6th Ave
+  east_west_street: 48-49th Sts
+  corner: W
+  entrance_latitude: "40.759105"
+  entrance_longitude: "-73.981252"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981252
+    - 40.759105
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 47th St
+  corner: SE
+  entrance_latitude: "40.757801"
+  entrance_longitude: "-73.981788"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981788
+    - 40.757801
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 47th St
+  corner: SW
+  entrance_latitude: "40.758024"
+  entrance_longitude: "-73.982079"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982079
+    - 40.758024
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 47th St
+  corner: NE
+  entrance_latitude: "40.757981"
+  entrance_longitude: "-73.98154"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98154
+    - 40.757981
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 47th St
+  corner: SE
+  entrance_latitude: "40.757862"
+  entrance_longitude: "-73.981735"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981735
+    - 40.757862
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 6th Ave
+  east_west_street: 48th St
+  corner: SE
+  entrance_latitude: "40.758486"
+  entrance_longitude: "-73.981158"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981158
+    - 40.758486

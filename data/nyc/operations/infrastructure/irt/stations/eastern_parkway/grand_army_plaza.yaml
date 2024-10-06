@@ -1,0 +1,71 @@
+id: eastern_parkway_grand_army_plaza
+accessible: false
+station_names:
+- Grand Army Plaza
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.675235"
+station_longitude: "-73.971046"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.971046
+  - 40.675235
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Plaza Street West
+  corner: NW
+  entrance_latitude: "40.675142"
+  entrance_longitude: "-73.971216"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.971216
+    - 40.675142
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Plaza Street East
+  corner: SE
+  entrance_latitude: "40.67511"
+  entrance_longitude: "-73.970822"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.970822
+    - 40.67511
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Plaza Street West
+  corner: SW
+  entrance_latitude: "40.67495"
+  entrance_longitude: "-73.97099"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97099
+    - 40.67495
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Flatbush Ave
+  east_west_street: Plaza Street East
+  corner: SE
+  entrance_latitude: "40.675286"
+  entrance_longitude: "-73.970825"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.970825
+    - 40.675286

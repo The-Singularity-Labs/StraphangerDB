@@ -1,0 +1,71 @@
+id: fulton_st_nostrand_av
+accessible: false
+station_names:
+- Nostrand Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.680438"
+station_longitude: "-73.950426"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.950426
+  - 40.680438
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.680572"
+  entrance_longitude: "-73.949753"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949753
+    - 40.680572
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.680228"
+  entrance_longitude: "-73.949414"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949414
+    - 40.680228
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.680262"
+  entrance_longitude: "-73.949635"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949635
+    - 40.680262
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.680547"
+  entrance_longitude: "-73.949515"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949515
+    - 40.680547

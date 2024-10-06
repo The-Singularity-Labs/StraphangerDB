@@ -1,0 +1,97 @@
+id: brighton_ocean_parkway
+accessible: false
+station_names:
+- Ocean Parkway
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.576312"
+station_longitude: "-73.968501"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.968501
+  - 40.576312
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ocean Pkwy
+  east_west_street: Brighton Beach Rd
+  corner: SE
+  entrance_latitude: "40.576209"
+  entrance_longitude: "-73.967875"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967875
+    - 40.576209
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ocean Pkwy
+  east_west_street: Brighton Beach Rd
+  corner: SE
+  entrance_latitude: "40.576234"
+  entrance_longitude: "-73.967561"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967561
+    - 40.576234
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ocean Pkwy
+  east_west_street: Brighton Beach Rd
+  corner: NE
+  entrance_latitude: "40.576423"
+  entrance_longitude: "-73.967894"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967894
+    - 40.576423
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ocean Pkwy
+  east_west_street: Brighton Beach Rd
+  corner: NE
+  entrance_latitude: "40.576445"
+  entrance_longitude: "-73.967591"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967591
+    - 40.576445
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ocean Pkwy
+  east_west_street: Brighton Beach Rd
+  corner: NW
+  entrance_latitude: "40.576507"
+  entrance_longitude: "-73.969445"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969445
+    - 40.576507
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Ocean Pkwy
+  east_west_street: Brighton Beach Rd
+  corner: NW
+  entrance_latitude: "40.576487"
+  entrance_longitude: "-73.969243"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969243
+    - 40.576487

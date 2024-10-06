@@ -1,0 +1,71 @@
+id: pelham_longwood_av
+accessible: false
+station_names:
+- Longwood Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.816104"
+station_longitude: "-73.896435"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.896435
+  - 40.816104
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: Longwood Ave
+  corner: NW
+  entrance_latitude: "40.81652"
+  entrance_longitude: "-73.896224"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896224
+    - 40.81652
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: Longwood Ave
+  corner: SW
+  entrance_latitude: "40.816263"
+  entrance_longitude: "-73.896506"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896506
+    - 40.816263
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: Longwood Ave
+  corner: NE
+  entrance_latitude: "40.816367"
+  entrance_longitude: "-73.895924"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.895924
+    - 40.816367
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: Longwood Ave
+  corner: SE
+  entrance_latitude: "40.816137"
+  entrance_longitude: "-73.896133"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896133
+    - 40.816137

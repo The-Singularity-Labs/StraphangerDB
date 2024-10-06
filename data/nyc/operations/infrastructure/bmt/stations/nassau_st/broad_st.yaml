@@ -1,0 +1,136 @@
+id: nassau_st_broad_st
+accessible: false
+station_names:
+- Broad St
+lines:
+- Nassau St
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.706476"
+station_longitude: "-74.011056"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.011056
+  - 40.706476
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Nassau St
+  east_west_street: Cedar St
+  corner: SE
+  entrance_latitude: "40.708027"
+  entrance_longitude: "-74.009814"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009814
+    - 40.708027
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Wall St
+  corner: SE
+  entrance_latitude: "40.706911"
+  entrance_longitude: "-74.010494"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010494
+    - 40.706911
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Wall St
+  corner: SW
+  entrance_latitude: "40.707117"
+  entrance_longitude: "-74.010821"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010821
+    - 40.707117
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Wall St
+  corner: SE
+  entrance_latitude: "40.706887"
+  entrance_longitude: "-74.010687"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010687
+    - 40.706887
+- entry_only: true
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Exchange Pl
+  corner: SW
+  entrance_latitude: "40.706001"
+  entrance_longitude: "-74.011497"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011497
+    - 40.706001
+- entry_only: true
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Exchange Pl
+  corner: SW
+  entrance_latitude: "40.705747"
+  entrance_longitude: "-74.011554"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011554
+    - 40.705747
+- entry_only: true
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Exchange Pl
+  corner: NW
+  entrance_latitude: "40.706439"
+  entrance_longitude: "-74.011263"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011263
+    - 40.706439
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Exchange Pl
+  corner: SE
+  entrance_latitude: "40.705961"
+  entrance_longitude: "-74.011229"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011229
+    - 40.705961
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broad St
+  east_west_street: Exchange Pl
+  corner: SE
+  entrance_latitude: "40.706142"
+  entrance_longitude: "-74.011128"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011128
+    - 40.706142

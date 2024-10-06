@@ -1,0 +1,71 @@
+id: pelham_east_143rd_st_st_mary's_st
+accessible: false
+station_names:
+- East 143rd St-St Mary's St
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.808719"
+station_longitude: "-73.907657"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.907657
+  - 40.808719
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: St Mary's St
+  corner: SE
+  entrance_latitude: "40.80803"
+  entrance_longitude: "-73.90772"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.90772
+    - 40.80803
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: St Mary's St
+  corner: NW
+  entrance_latitude: "40.808322"
+  entrance_longitude: "-73.908002"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.908002
+    - 40.808322
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: St Mary's St
+  corner: SW
+  entrance_latitude: "40.808179"
+  entrance_longitude: "-73.908065"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.908065
+    - 40.808179
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Southern Blvd
+  east_west_street: St Mary's St
+  corner: NE
+  entrance_latitude: "40.80834"
+  entrance_longitude: "-73.907618"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907618
+    - 40.80834

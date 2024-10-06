@@ -1,0 +1,45 @@
+id: pelham_elder_av
+accessible: false
+station_names:
+- Elder Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.828584"
+station_longitude: "-73.879159"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.879159
+  - 40.828584
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Elder Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.828688"
+  entrance_longitude: "-73.879018"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.879018
+    - 40.828688
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Elder Ave
+  east_west_street: Westchester Ave
+  corner: SW
+  entrance_latitude: "40.82846"
+  entrance_longitude: "-73.879362"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.879362
+    - 40.82846

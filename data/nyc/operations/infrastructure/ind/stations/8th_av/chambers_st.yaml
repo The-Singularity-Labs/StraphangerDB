@@ -1,0 +1,136 @@
+id: 8th_av_chambers_st
+accessible: false
+station_names:
+- Chambers St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.714111"
+station_longitude: "-74.008585"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.008585
+  - 40.714111
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Chambers St
+  corner: SE
+  entrance_latitude: "40.714777"
+  entrance_longitude: "-74.007903"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.007903
+    - 40.714777
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Murray St
+  corner: SW
+  entrance_latitude: "40.713753"
+  entrance_longitude: "-74.009046"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009046
+    - 40.713753
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Murray St
+  corner: NW
+  entrance_latitude: "40.713949"
+  entrance_longitude: "-74.00896"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.00896
+    - 40.713949
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Warren St
+  corner: SW
+  entrance_latitude: "40.714313"
+  entrance_longitude: "-74.008584"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008584
+    - 40.714313
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Warren St
+  corner: NW
+  entrance_latitude: "40.714539"
+  entrance_longitude: "-74.008428"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008428
+    - 40.714539
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Warren St
+  corner: SE
+  entrance_latitude: "40.7142"
+  entrance_longitude: "-74.008357"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008357
+    - 40.7142
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Chambers St
+  corner: SW
+  entrance_latitude: "40.714873"
+  entrance_longitude: "-74.008162"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008162
+    - 40.714873
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Chambers St
+  corner: NE
+  entrance_latitude: "40.714992"
+  entrance_longitude: "-74.007739"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.007739
+    - 40.714992
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Chambers St
+  corner: NW
+  entrance_latitude: "40.715099"
+  entrance_longitude: "-74.007989"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.007989
+    - 40.715099

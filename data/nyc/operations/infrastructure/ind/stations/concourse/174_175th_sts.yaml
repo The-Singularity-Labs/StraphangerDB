@@ -1,0 +1,71 @@
+id: concourse_174_175th_sts
+accessible: false
+station_names:
+- 174-175th Sts
+lines:
+- Concourse
+transfers: []
+division: IND
+borough: Bronx
+station_latitude: "40.8459"
+station_longitude: "-73.910136"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.910136
+  - 40.8459
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Grand Concourse
+  east_west_street: 174th St
+  corner: NW
+  entrance_latitude: "40.844933"
+  entrance_longitude: "-73.911212"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.911212
+    - 40.844933
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 175th St
+  corner: SW
+  entrance_latitude: "40.846461"
+  entrance_longitude: "-73.909796"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.909796
+    - 40.846461
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 174th St
+  corner: NE
+  entrance_latitude: "40.844939"
+  entrance_longitude: "-73.910885"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.910885
+    - 40.844939
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 175th St
+  corner: NE
+  entrance_latitude: "40.846354"
+  entrance_longitude: "-73.909047"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.909047
+    - 40.846354

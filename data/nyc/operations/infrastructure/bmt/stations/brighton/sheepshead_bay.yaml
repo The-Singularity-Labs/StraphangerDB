@@ -1,0 +1,45 @@
+id: brighton_sheepshead_bay
+accessible: false
+station_names:
+- Sheepshead Bay
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.586896"
+station_longitude: "-73.954155"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.954155
+  - 40.586896
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 14th St
+  east_west_street: Voorhies Ave
+  corner: NE
+  entrance_latitude: "40.585734"
+  entrance_longitude: "-73.954371"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954371
+    - 40.585734
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 15th St
+  east_west_street: Sheepshead Bay Rd
+  corner: SE
+  entrance_latitude: "40.587302"
+  entrance_longitude: "-73.954224"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954224
+    - 40.587302

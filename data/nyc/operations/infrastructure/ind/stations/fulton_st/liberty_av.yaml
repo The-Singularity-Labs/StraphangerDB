@@ -1,0 +1,71 @@
+id: fulton_st_liberty_av
+accessible: false
+station_names:
+- Liberty Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.674542"
+station_longitude: "-73.896548"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.896548
+  - 40.674542
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pennsylvania Ave
+  east_west_street: Liberty Ave
+  corner: SE
+  entrance_latitude: "40.674268"
+  entrance_longitude: "-73.896312"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896312
+    - 40.674268
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pennsylvania Ave
+  east_west_street: Liberty Ave
+  corner: NE
+  entrance_latitude: "40.674567"
+  entrance_longitude: "-73.896364"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896364
+    - 40.674567
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pennsylvania Ave
+  east_west_street: Liberty Ave
+  corner: SW
+  entrance_latitude: "40.674242"
+  entrance_longitude: "-73.896645"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896645
+    - 40.674242
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Pennsylvania Ave
+  east_west_street: Liberty Ave
+  corner: NW
+  entrance_latitude: "40.67443"
+  entrance_longitude: "-73.896776"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.896776
+    - 40.67443

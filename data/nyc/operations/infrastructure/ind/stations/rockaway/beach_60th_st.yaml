@@ -1,0 +1,71 @@
+id: rockaway_beach_60th_st
+accessible: false
+station_names:
+- Beach 60th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.592374"
+station_longitude: "-73.788522"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.788522
+  - 40.592374
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 59th Sr
+  east_west_street: Rockaway Frwy
+  corner: SW
+  entrance_latitude: "40.592292"
+  entrance_longitude: "-73.789153"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.789153
+    - 40.592292
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 59th Sr
+  east_west_street: Rockaway Frwy
+  corner: NW
+  entrance_latitude: "40.59249"
+  entrance_longitude: "-73.789161"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.789161
+    - 40.59249
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 60th St
+  east_west_street: Rockaway Frwy
+  corner: SE
+  entrance_latitude: "40.592269"
+  entrance_longitude: "-73.789578"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.789578
+    - 40.592269
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 60th St
+  east_west_street: Rockaway Frwy
+  corner: NE
+  entrance_latitude: "40.592478"
+  entrance_longitude: "-73.78941"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.78941
+    - 40.592478

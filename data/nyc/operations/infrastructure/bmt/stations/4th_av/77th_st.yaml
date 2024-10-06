@@ -1,0 +1,58 @@
+id: 4th_av_77th_st
+accessible: false
+station_names:
+- 77th St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.629742"
+station_longitude: "-74.02551"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.02551
+  - 40.629742
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 77th St
+  corner: NW
+  entrance_latitude: "40.62955"
+  entrance_longitude: "-74.025731"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.025731
+    - 40.62955
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 77th St
+  corner: NE
+  entrance_latitude: "40.629503"
+  entrance_longitude: "-74.025452"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.025452
+    - 40.629503
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 76th St
+  corner: NW
+  entrance_latitude: "40.630221"
+  entrance_longitude: "-74.025459"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.025459
+    - 40.630221

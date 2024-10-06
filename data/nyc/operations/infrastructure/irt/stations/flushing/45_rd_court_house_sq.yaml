@@ -1,0 +1,58 @@
+id: flushing_45_rd_court_house_sq
+accessible: false
+station_names:
+- 45 Rd-Court House Sq
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.747023"
+station_longitude: "-73.945264"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.945264
+  - 40.747023
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 23rd St
+  east_west_street: 45th Rd
+  corner: NW
+  entrance_latitude: "40.746308"
+  entrance_longitude: "-73.945713"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945713
+    - 40.746308
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 23rd St
+  east_west_street: 45th Rd
+  corner: SE
+  entrance_latitude: "40.74613"
+  entrance_longitude: "-73.945349"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945349
+    - 40.74613
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 23rd St
+  east_west_street: 45th Rd
+  corner: NE
+  entrance_latitude: "40.746232"
+  entrance_longitude: "-73.945322"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.945322
+    - 40.746232

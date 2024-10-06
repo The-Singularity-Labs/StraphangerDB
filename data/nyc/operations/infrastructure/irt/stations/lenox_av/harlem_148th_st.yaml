@@ -1,0 +1,32 @@
+id: lenox_av_harlem_148th_st
+accessible: false
+station_names:
+- Harlem-148th St
+lines:
+- Lenox Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.82388"
+station_longitude: "-73.93647"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.93647
+  - 40.82388
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Adam C. Powell Blvd
+  east_west_street: 149th St
+  corner: NE
+  entrance_latitude: "40.824069"
+  entrance_longitude: "-73.936981"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936981
+    - 40.824069

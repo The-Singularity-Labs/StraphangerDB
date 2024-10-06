@@ -1,0 +1,97 @@
+id: broadway_7th_av_66th_st_lincoln_center
+accessible: true
+station_names:
+- 66th St-Lincoln Center
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.77344"
+station_longitude: "-73.982209"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.982209
+  - 40.77344
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.773576"
+  entrance_longitude: "-73.982425"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982425
+    - 40.773576
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Broadway
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.773536"
+  entrance_longitude: "-73.982006"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982006
+    - 40.773536
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.773457"
+  entrance_longitude: "-73.982004"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982004
+    - 40.773457
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.773682"
+  entrance_longitude: "-73.982015"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982015
+    - 40.773682
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Broadway
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.773738"
+  entrance_longitude: "-73.982448"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982448
+    - 40.773738
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 66th St
+  corner: SE
+  entrance_latitude: "40.773829"
+  entrance_longitude: "-73.982433"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982433
+    - 40.773829

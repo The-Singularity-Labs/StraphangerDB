@@ -1,0 +1,71 @@
+id: crosstown_metropolitan_av
+accessible: false
+station_names:
+- Metropolitan Av
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.712792"
+station_longitude: "-73.951418"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.951418
+  - 40.712792
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Metropolitan Ave
+  corner: SE
+  entrance_latitude: "40.713744"
+  entrance_longitude: "-73.951455"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951455
+    - 40.713744
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Metropolitan Ave
+  corner: SW
+  entrance_latitude: "40.71414"
+  entrance_longitude: "-73.95135"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95135
+    - 40.71414
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Metropolitan Ave
+  corner: SW
+  entrance_latitude: "40.713927"
+  entrance_longitude: "-73.951737"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951737
+    - 40.713927
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Metropolitan Ave
+  corner: NE
+  entrance_latitude: "40.713747"
+  entrance_longitude: "-73.951768"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951768
+    - 40.713747

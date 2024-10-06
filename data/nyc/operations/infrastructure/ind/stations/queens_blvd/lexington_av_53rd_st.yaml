@@ -1,0 +1,110 @@
+id: queens_blvd_lexington_av_53rd_st
+accessible: true
+station_names:
+- Lexington Av-53rd St
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.757552"
+station_longitude: "-73.969055"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.969055
+  - 40.757552
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 52nd St
+  corner: NE
+  entrance_latitude: "40.757784"
+  entrance_longitude: "-73.971098"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.971098
+    - 40.757784
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 3rd Ave
+  east_west_street: 53rd St
+  corner: NE
+  entrance_latitude: "40.757685"
+  entrance_longitude: "-73.969125"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969125
+    - 40.757685
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 53rd St
+  corner: NE
+  entrance_latitude: "40.758329"
+  entrance_longitude: "-73.970567"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.970567
+    - 40.758329
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Lexington Avenue
+  east_west_street: 52nd Street
+  corner: NE
+  entrance_latitude: "40.757804"
+  entrance_longitude: "-73.971141"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.971141
+    - 40.757804
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 3rd Ave
+  east_west_street: 53rd St
+  corner: SE
+  entrance_latitude: "40.757475"
+  entrance_longitude: "-73.969255"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969255
+    - 40.757475
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 3rd Ave
+  east_west_street: 53rd St
+  corner: NE
+  entrance_latitude: "40.757718"
+  entrance_longitude: "-73.969161"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.969161
+    - 40.757718
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 53rd St
+  corner: SE
+  entrance_latitude: "40.75812"
+  entrance_longitude: "-73.970958"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.970958
+    - 40.75812

@@ -1,0 +1,58 @@
+id: new_lots_saratoga_av
+accessible: false
+station_names:
+- Saratoga Av
+lines:
+- New Lots
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.661453"
+station_longitude: "-73.916327"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.916327
+  - 40.661453
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saratoga Ave
+  east_west_street: Livonia Ave
+  corner: NE
+  entrance_latitude: "40.661689"
+  entrance_longitude: "-73.91524"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.91524
+    - 40.661689
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saratoga Ave
+  east_west_street: Livonia Ave
+  corner: SE
+  entrance_latitude: "40.661558"
+  entrance_longitude: "-73.915225"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.915225
+    - 40.661558
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saratoga Ave
+  east_west_street: Livonia Ave
+  corner: SW
+  entrance_latitude: "40.661401"
+  entrance_longitude: "-73.915543"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.915543
+    - 40.661401

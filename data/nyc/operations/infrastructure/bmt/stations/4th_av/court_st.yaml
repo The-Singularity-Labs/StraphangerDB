@@ -1,0 +1,58 @@
+id: 4th_av_court_st
+accessible: false
+station_names:
+- Court St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.6941"
+station_longitude: "-73.991777"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.991777
+  - 40.6941
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton St
+  east_west_street: Montague St
+  corner: NW
+  entrance_latitude: "40.694416"
+  entrance_longitude: "-73.992619"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992619
+    - 40.694416
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton St
+  east_west_street: Montague St
+  corner: NW
+  entrance_latitude: "40.694475"
+  entrance_longitude: "-73.99283"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99283
+    - 40.694475
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton St
+  east_west_street: Montague St
+  corner: SW
+  entrance_latitude: "40.694232"
+  entrance_longitude: "-73.992635"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992635
+    - 40.694232

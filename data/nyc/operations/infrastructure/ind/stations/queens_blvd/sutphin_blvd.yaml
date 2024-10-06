@@ -1,0 +1,84 @@
+id: queens_blvd_sutphin_blvd
+accessible: false
+station_names:
+- Sutphin Blvd
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.70546"
+station_longitude: "-73.810708"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.810708
+  - 40.70546
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 144th St
+  east_west_street: Hillside Ave
+  corner: SW
+  entrance_latitude: "40.704906"
+  entrance_longitude: "-73.811956"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.811956
+    - 40.704906
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 144th St
+  east_west_street: Hillside Ave
+  corner: NE
+  entrance_latitude: "40.705341"
+  entrance_longitude: "-73.81186"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.81186
+    - 40.705341
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Hillside Ave
+  corner: SW
+  entrance_latitude: "40.705538"
+  entrance_longitude: "-73.809717"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.809717
+    - 40.705538
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Hillside Ave
+  corner: NE
+  entrance_latitude: "40.705945"
+  entrance_longitude: "-73.809489"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.809489
+    - 40.705945
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Hillside Ave
+  corner: SE
+  entrance_latitude: "40.705591"
+  entrance_longitude: "-73.809481"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.809481
+    - 40.705591

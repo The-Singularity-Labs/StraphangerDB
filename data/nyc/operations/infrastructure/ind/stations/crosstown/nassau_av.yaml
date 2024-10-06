@@ -1,0 +1,97 @@
+id: crosstown_nassau_av
+accessible: false
+station_names:
+- Nassau Av
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.724635"
+station_longitude: "-73.951277"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.951277
+  - 40.724635
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Norman Ave
+  corner: NE
+  entrance_latitude: "40.725573"
+  entrance_longitude: "-73.951603"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951603
+    - 40.725573
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Nassau Ave
+  corner: SW
+  entrance_latitude: "40.72365"
+  entrance_longitude: "-73.950929"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950929
+    - 40.72365
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Nassau Ave
+  corner: SE
+  entrance_latitude: "40.723765"
+  entrance_longitude: "-73.950566"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950566
+    - 40.723765
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Nassau Ave
+  corner: NW
+  entrance_latitude: "40.72378"
+  entrance_longitude: "-73.950985"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950985
+    - 40.72378
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Nassau Ave
+  corner: NE
+  entrance_latitude: "40.723894"
+  entrance_longitude: "-73.950665"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950665
+    - 40.723894
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Norman Ave
+  corner: NW
+  entrance_latitude: "40.725446"
+  entrance_longitude: "-73.951974"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951974
+    - 40.725446

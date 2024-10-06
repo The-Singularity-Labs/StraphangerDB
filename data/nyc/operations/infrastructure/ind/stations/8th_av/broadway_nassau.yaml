@@ -1,0 +1,45 @@
+id: 8th_av_broadway_nassau
+accessible: false
+station_names:
+- Broadway-Nassau
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.710197"
+station_longitude: "-74.007691"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.007691
+  - 40.710197
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Broadway
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.710555"
+  entrance_longitude: "-74.008632"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008632
+    - 40.710555
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Broadway
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.710692"
+  entrance_longitude: "-74.008428"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.008428
+    - 40.710692

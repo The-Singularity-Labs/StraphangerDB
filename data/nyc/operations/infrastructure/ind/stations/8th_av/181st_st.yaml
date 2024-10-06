@@ -1,0 +1,84 @@
+id: 8th_av_181st_st
+accessible: false
+station_names:
+- 181st St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.851695"
+station_longitude: "-73.937969"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.937969
+  - 40.851695
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Fort Washington Ave
+  east_west_street: 185th St
+  corner: SE
+  entrance_latitude: "40.852759"
+  entrance_longitude: "-73.936636"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.936636
+    - 40.852759
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Washington Ave
+  east_west_street: 181st St
+  corner: SE
+  entrance_latitude: "40.850717"
+  entrance_longitude: "-73.938214"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.938214
+    - 40.850717
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Washington Ave
+  east_west_street: 181st St
+  corner: SW
+  entrance_latitude: "40.85087"
+  entrance_longitude: "-73.938537"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.938537
+    - 40.85087
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Washington Ave
+  east_west_street: 181st St
+  corner: SE
+  entrance_latitude: "40.850752"
+  entrance_longitude: "-73.93813"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.93813
+    - 40.850752
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Washington Ave
+  east_west_street: 181st St
+  corner: SW
+  entrance_latitude: "40.850778"
+  entrance_longitude: "-73.938472"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.938472
+    - 40.850778

@@ -1,0 +1,84 @@
+id: broadway_7th_av_59th_st_columbus_circle
+accessible: false
+station_names:
+- 59th St-Columbus Circle
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.768247"
+station_longitude: "-73.981929"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.981929
+  - 40.768247
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Columbus Circle
+  east_west_street: 59th St
+  corner: SE
+  entrance_latitude: "40.769365"
+  entrance_longitude: "-73.982392"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982392
+    - 40.769365
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 60th St
+  corner: SW
+  entrance_latitude: "40.768777"
+  entrance_longitude: "-73.982106"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982106
+    - 40.768777
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Columbus Circle
+  east_west_street: 59th St
+  corner: SE
+  entrance_latitude: "40.767642"
+  entrance_longitude: "-73.981235"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981235
+    - 40.767642
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Columbus Circle
+  east_west_street: 59th St
+  corner: SE
+  entrance_latitude: "40.767654"
+  entrance_longitude: "-73.981423"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981423
+    - 40.767654
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Columbus Circle
+  east_west_street: 59th St
+  corner: SE
+  entrance_latitude: "40.769227"
+  entrance_longitude: "-73.9824"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.9824
+    - 40.769227

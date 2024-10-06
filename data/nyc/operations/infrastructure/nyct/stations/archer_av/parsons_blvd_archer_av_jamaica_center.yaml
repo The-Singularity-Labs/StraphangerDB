@@ -1,0 +1,149 @@
+id: archer_av_parsons_blvd_archer_av_jamaica_center
+accessible: false
+station_names:
+- Parsons Blvd-Archer Av - Jamaica Center
+lines:
+- Archer Av
+transfers: []
+division: NYCT
+borough: Queens
+station_latitude: "40.702147"
+station_longitude: "-73.801109"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.801109
+  - 40.702147
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 153rd St
+  east_west_street: Archer Ave
+  corner: SW
+  entrance_latitude: "40.701874"
+  entrance_longitude: "-73.801747"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.801747
+    - 40.701874
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 153rd St
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.702234"
+  entrance_longitude: "-73.801859"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.801859
+    - 40.702234
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: SW
+  entrance_latitude: "40.702324"
+  entrance_longitude: "-73.80001"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.80001
+    - 40.702324
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.702674"
+  entrance_longitude: "-73.799786"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.799786
+    - 40.702674
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.701886"
+  entrance_longitude: "-73.801754"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.801754
+    - 40.701886
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: SW
+  entrance_latitude: "40.702311"
+  entrance_longitude: "-73.799991"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.799991
+    - 40.702311
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.702821"
+  entrance_longitude: "-73.799843"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.799843
+    - 40.702821
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.701855"
+  entrance_longitude: "-73.80174"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.80174
+    - 40.701855
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Parsons Blvd
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.702353"
+  entrance_longitude: "-73.799784"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.799784
+    - 40.702353
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 158th St
+  east_west_street: Archer Ave
+  corner: SW
+  entrance_latitude: "40.70164"
+  entrance_longitude: "-73.802478"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.802478
+    - 40.70164

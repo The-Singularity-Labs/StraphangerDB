@@ -1,0 +1,123 @@
+id: crosstown_clinton_washington_avs
+accessible: false
+station_names:
+- Clinton-Washington Avs
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.688089"
+station_longitude: "-73.966839"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.966839
+  - 40.688089
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Lafayette Ave
+  corner: SE
+  entrance_latitude: "40.688157"
+  entrance_longitude: "-73.965579"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.965579
+    - 40.688157
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Lafayette Ave
+  corner: NE
+  entrance_latitude: "40.688114"
+  entrance_longitude: "-73.967575"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967575
+    - 40.688114
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Lafayette Ave
+  corner: NE
+  entrance_latitude: "40.688114"
+  entrance_longitude: "-73.967575"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967575
+    - 40.688114
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Lafayette Ave
+  corner: SW
+  entrance_latitude: "40.687875"
+  entrance_longitude: "-73.967931"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967931
+    - 40.687875
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Clinton Ave
+  east_west_street: Lafayette Ave
+  corner: SW
+  entrance_latitude: "40.687875"
+  entrance_longitude: "-73.967931"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967931
+    - 40.687875
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Lafayette Ave
+  corner: NE
+  entrance_latitude: "40.68846"
+  entrance_longitude: "-73.965749"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.965749
+    - 40.68846
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Lafayette Ave
+  corner: NE
+  entrance_latitude: "40.68846"
+  entrance_longitude: "-73.965749"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.965749
+    - 40.68846
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Washington Ave
+  east_west_street: Lafayette Ave
+  corner: SE
+  entrance_latitude: "40.688157"
+  entrance_longitude: "-73.965579"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.965579
+    - 40.688157

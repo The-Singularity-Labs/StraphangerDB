@@ -1,0 +1,45 @@
+id: broadway_7th_av_191st_st
+accessible: false
+station_names:
+- 191st St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.855225"
+station_longitude: "-73.929412"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.929412
+  - 40.855225
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 191st St
+  corner: SW
+  entrance_latitude: "40.855374"
+  entrance_longitude: "-73.929536"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.929536
+    - 40.855374
+- entry_only: true
+  exit_only: false
+  entrance_type: Ramp
+  north_south_street: Broadway
+  east_west_street: 190th St
+  corner: NE
+  entrance_latitude: "40.856413"
+  entrance_longitude: "-73.932605"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.932605
+    - 40.856413

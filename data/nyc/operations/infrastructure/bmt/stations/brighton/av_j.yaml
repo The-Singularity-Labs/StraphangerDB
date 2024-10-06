@@ -1,0 +1,58 @@
+id: brighton_av_j
+accessible: false
+station_names:
+- Av J
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.625039"
+station_longitude: "-73.960803"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.960803
+  - 40.625039
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: East 16 St
+  east_west_street: Avenue J
+  corner: NW
+  entrance_latitude: "40.625363"
+  entrance_longitude: "-73.960654"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960654
+    - 40.625363
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 15th St
+  east_west_street: Avenue J
+  corner: NE
+  entrance_latitude: "40.625307"
+  entrance_longitude: "-73.960969"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960969
+    - 40.625307
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: 15th St
+  east_west_street: Avenue J
+  corner: SE
+  entrance_latitude: "40.62513"
+  entrance_longitude: "-73.960792"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.960792
+    - 40.62513

@@ -1,0 +1,123 @@
+id: lexington_av_86th_st
+accessible: false
+station_names:
+- 86th St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.779492"
+station_longitude: "-73.955589"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.955589
+  - 40.779492
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: SW
+  entrance_latitude: "40.779468"
+  entrance_longitude: "-73.955905"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955905
+    - 40.779468
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: SE
+  entrance_latitude: "40.77933"
+  entrance_longitude: "-73.955545"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955545
+    - 40.77933
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: SE
+  entrance_latitude: "40.779284"
+  entrance_longitude: "-73.955443"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955443
+    - 40.779284
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: NE
+  entrance_latitude: "40.779577"
+  entrance_longitude: "-73.955304"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955304
+    - 40.779577
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: NE
+  entrance_latitude: "40.779661"
+  entrance_longitude: "-73.955302"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955302
+    - 40.779661
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: NW
+  entrance_latitude: "40.77972"
+  entrance_longitude: "-73.955596"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955596
+    - 40.77972
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: SW
+  entrance_latitude: "40.779427"
+  entrance_longitude: "-73.95581"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95581
+    - 40.779427
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 86th St
+  corner: NW
+  entrance_latitude: "40.779718"
+  entrance_longitude: "-73.955719"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.955719
+    - 40.779718

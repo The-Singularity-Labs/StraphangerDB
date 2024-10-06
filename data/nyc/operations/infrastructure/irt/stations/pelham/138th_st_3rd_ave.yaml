@@ -1,0 +1,110 @@
+id: pelham_138th_st_3rd_ave
+accessible: false
+station_names:
+- 138th St-3rd Ave
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.810476"
+station_longitude: "-73.926138"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.926138
+  - 40.810476
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Alexander Ave
+  east_west_street: 138th St
+  corner: SW
+  entrance_latitude: "40.810019"
+  entrance_longitude: "-73.925438"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.925438
+    - 40.810019
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Alexander Ave
+  east_west_street: 138th St
+  corner: NW
+  entrance_latitude: "40.810241"
+  entrance_longitude: "-73.925267"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.925267
+    - 40.810241
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 138th St
+  corner: NE
+  entrance_latitude: "40.810831"
+  entrance_longitude: "-73.926655"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.926655
+    - 40.810831
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lincoln Ave
+  east_west_street: 138th St
+  corner: SE
+  entrance_latitude: "40.810712"
+  entrance_longitude: "-73.92705"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.92705
+    - 40.810712
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Alexander Ave
+  east_west_street: 138th St
+  corner: SW
+  entrance_latitude: "40.810102"
+  entrance_longitude: "-73.925641"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.925641
+    - 40.810102
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Alexander Ave
+  east_west_street: 138th St
+  corner: NW
+  entrance_latitude: "40.810282"
+  entrance_longitude: "-73.925386"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.925386
+    - 40.810282
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lincoln Ave
+  east_west_street: 138th St
+  corner: SE
+  entrance_latitude: "40.810638"
+  entrance_longitude: "-73.926883"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.926883
+    - 40.810638

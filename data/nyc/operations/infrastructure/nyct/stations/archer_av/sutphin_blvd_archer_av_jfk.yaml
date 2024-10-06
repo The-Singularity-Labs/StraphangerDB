@@ -1,0 +1,71 @@
+id: archer_av_sutphin_blvd_archer_av_jfk
+accessible: false
+station_names:
+- Sutphin Blvd-Archer Av - JFK
+lines:
+- Archer Av
+transfers: []
+division: NYCT
+borough: Queens
+station_latitude: "40.700486"
+station_longitude: "-73.807969"
+has_payment_vending: false
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.807969
+  - 40.700486
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Archer Ave
+  corner: SW
+  entrance_latitude: "40.700401"
+  entrance_longitude: "-73.807976"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.807976
+    - 40.700401
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Archer Ave
+  corner: SE
+  entrance_latitude: "40.700554"
+  entrance_longitude: "-73.807353"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.807353
+    - 40.700554
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Archer Ave
+  corner: NE
+  entrance_latitude: "40.700872"
+  entrance_longitude: "-73.807673"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.807673
+    - 40.700872
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Sutphin Blvd
+  east_west_street: Archer Ave
+  corner: NW
+  entrance_latitude: "40.70081"
+  entrance_longitude: "-73.807923"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.807923
+    - 40.70081

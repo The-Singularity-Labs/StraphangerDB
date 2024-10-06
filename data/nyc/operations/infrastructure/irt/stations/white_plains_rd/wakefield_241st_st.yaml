@@ -1,0 +1,58 @@
+id: white_plains_rd_wakefield_241st_st
+accessible: false
+station_names:
+- Wakefield-241st St
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.903125"
+station_longitude: "-73.85062"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.85062
+  - 40.903125
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: 241st St
+  corner: NW
+  entrance_latitude: "40.903597"
+  entrance_longitude: "-73.85036"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.85036
+    - 40.903597
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: 241st St
+  corner: SE
+  entrance_latitude: "40.903283"
+  entrance_longitude: "-73.850321"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.850321
+    - 40.903283
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: 241st St
+  corner: NE
+  entrance_latitude: "40.903509"
+  entrance_longitude: "-73.850124"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.850124
+    - 40.903509

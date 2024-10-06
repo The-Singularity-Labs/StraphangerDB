@@ -1,0 +1,71 @@
+id: concourse_182nd_183rd_sts
+accessible: false
+station_names:
+- 182nd-183rd Sts
+lines:
+- Concourse
+transfers: []
+division: IND
+borough: Bronx
+station_latitude: "40.856093"
+station_longitude: "-73.900741"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.900741
+  - 40.856093
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 182nd St
+  corner: SW
+  entrance_latitude: "40.856038"
+  entrance_longitude: "-73.90114"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.90114
+    - 40.856038
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 182nd St
+  corner: NW
+  entrance_latitude: "40.856237"
+  entrance_longitude: "-73.901115"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.901115
+    - 40.856237
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 182nd St
+  corner: NE
+  entrance_latitude: "40.856039"
+  entrance_longitude: "-73.900449"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.900449
+    - 40.856039
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand Concourse
+  east_west_street: 182nd St
+  corner: SE
+  entrance_latitude: "40.855864"
+  entrance_longitude: "-73.900484"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.900484
+    - 40.855864

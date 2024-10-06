@@ -1,0 +1,123 @@
+id: lexington_av_wall_st
+accessible: false
+station_names:
+- Wall St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.707557"
+station_longitude: "-74.011862"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.011862
+  - 40.707557
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Rector St
+  corner: SE
+  entrance_latitude: "40.70719"
+  entrance_longitude: "-74.011997"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011997
+    - 40.70719
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Wall St
+  corner: SE
+  entrance_latitude: "40.707446"
+  entrance_longitude: "-74.011848"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011848
+    - 40.707446
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Rector St
+  corner: NW
+  entrance_latitude: "40.707671"
+  entrance_longitude: "-74.011854"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011854
+    - 40.707671
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Rector St
+  corner: NW
+  entrance_latitude: "40.707577"
+  entrance_longitude: "-74.011927"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011927
+    - 40.707577
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Rector St
+  corner: SW
+  entrance_latitude: "40.707428"
+  entrance_longitude: "-74.012067"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012067
+    - 40.707428
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Rector St
+  corner: SW
+  entrance_latitude: "40.707315"
+  entrance_longitude: "-74.012161"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.012161
+    - 40.707315
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Rector St
+  corner: SE
+  entrance_latitude: "40.708436"
+  entrance_longitude: "-74.011298"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011298
+    - 40.708436
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: Wall St
+  corner: SE
+  entrance_latitude: "40.707577"
+  entrance_longitude: "-74.011731"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.011731
+    - 40.707577

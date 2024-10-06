@@ -1,0 +1,45 @@
+id: dyre_av_gun_hill_rd
+accessible: false
+station_names:
+- Gun Hill Rd
+lines:
+- Dyre Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.869526"
+station_longitude: "-73.846384"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.846384
+  - 40.869526
+entry_exits:
+- entry_only: false
+  exit_only: true
+  entrance_type: Easement
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.870039"
+  entrance_longitude: "-73.845724"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.845724
+    - 40.870039
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Seymour Ave
+  east_west_street: Gun Hill Rd
+  corner: SE
+  entrance_latitude: "40.870117"
+  entrance_longitude: "-73.845869"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.845869
+    - 40.870117

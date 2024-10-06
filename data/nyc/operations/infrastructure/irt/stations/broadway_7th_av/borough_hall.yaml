@@ -1,0 +1,71 @@
+id: broadway_7th_av_borough_hall
+accessible: true
+station_names:
+- Borough Hall
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.693219"
+station_longitude: "-73.989998"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.989998
+  - 40.693219
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Court Street
+  east_west_street: Montague Street
+  corner: SE
+  entrance_latitude: "40.693594"
+  entrance_longitude: "-73.990304"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990304
+    - 40.693594
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Montague St
+  corner: SW
+  entrance_latitude: "40.693569"
+  entrance_longitude: "-73.990599"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990599
+    - 40.693569
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Cadman Plaza West
+  east_west_street: Montague St
+  corner: NE
+  entrance_latitude: "40.693838"
+  entrance_longitude: "-73.990119"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.990119
+    - 40.693838
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Court St
+  east_west_street: Montague St
+  corner: SW
+  entrance_latitude: "40.693728"
+  entrance_longitude: "-73.99063"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99063
+    - 40.693728

@@ -1,0 +1,45 @@
+id: brighton_parkside_av
+accessible: false
+station_names:
+- Parkside Av
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.655292"
+station_longitude: "-73.961495"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.961495
+  - 40.655292
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Ocean Ave
+  east_west_street: Parkside Ave
+  corner: NE
+  entrance_latitude: "40.655221"
+  entrance_longitude: "-73.961516"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.961516
+    - 40.655221
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Ocean Ave
+  east_west_street: Woodruff Ave
+  corner: NW
+  entrance_latitude: "40.654251"
+  entrance_longitude: "-73.961909"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.961909
+    - 40.654251

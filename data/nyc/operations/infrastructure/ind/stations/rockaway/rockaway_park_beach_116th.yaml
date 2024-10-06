@@ -1,0 +1,32 @@
+id: rockaway_rockaway_park_beach_116th
+accessible: false
+station_names:
+- Rockaway Park-Beach 116th
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.580903"
+station_longitude: "-73.835592"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.835592
+  - 40.580903
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Beach 116th St
+  east_west_street: Wainwright Ct
+  corner: NE
+  entrance_latitude: "40.58051"
+  entrance_longitude: "-73.837418"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.837418
+    - 40.58051

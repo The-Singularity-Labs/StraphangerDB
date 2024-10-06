@@ -1,0 +1,45 @@
+id: new_lots_van_siclen_av
+accessible: false
+station_names:
+- Van Siclen Av
+lines:
+- New Lots
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.665449"
+station_longitude: "-73.889395"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.889395
+  - 40.665449
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Van Siclen Ave
+  east_west_street: Livonia Ave
+  corner: SE
+  entrance_latitude: "40.665431"
+  entrance_longitude: "-73.888386"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.888386
+    - 40.665431
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Van Siclen Ave
+  east_west_street: Livonia Ave
+  corner: NW
+  entrance_latitude: "40.66574"
+  entrance_longitude: "-73.888613"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.888613
+    - 40.66574

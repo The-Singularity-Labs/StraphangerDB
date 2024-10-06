@@ -1,0 +1,45 @@
+id: lenox_av_110th_st_central_park_north
+accessible: false
+station_names:
+- 110th St-Central Park North
+lines:
+- Lenox Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.799075"
+station_longitude: "-73.951822"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.951822
+  - 40.799075
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: St Nicholas Ave
+  east_west_street: Central Park North
+  corner: NW
+  entrance_latitude: "40.798497"
+  entrance_longitude: "-73.952672"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952672
+    - 40.798497
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 111th St
+  corner: NW
+  entrance_latitude: "40.799033"
+  entrance_longitude: "-73.952058"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952058
+    - 40.799033

@@ -1,0 +1,84 @@
+id: queens_blvd_5th_av_53rd_st
+accessible: false
+station_names:
+- 5th Av-53rd St
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.760167"
+station_longitude: "-73.975224"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.975224
+  - 40.760167
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Madison Ave
+  east_west_street: 53rd St
+  corner: NE
+  entrance_latitude: "40.759721"
+  entrance_longitude: "-73.973858"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.973858
+    - 40.759721
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th Ave
+  east_west_street: 53rd St
+  corner: NE
+  entrance_latitude: "40.760373"
+  entrance_longitude: "-73.975562"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975562
+    - 40.760373
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th Ave
+  east_west_street: 53rd St
+  corner: SE
+  entrance_latitude: "40.760267"
+  entrance_longitude: "-73.975638"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975638
+    - 40.760267
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 5th Ave
+  east_west_street: 53rd St
+  corner: SW
+  entrance_latitude: "40.760422"
+  entrance_longitude: "-73.976146"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976146
+    - 40.760422
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Madison Ave
+  east_west_street: 53rd St
+  corner: SE
+  entrance_latitude: "40.759556"
+  entrance_longitude: "-73.974068"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.974068
+    - 40.759556

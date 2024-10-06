@@ -1,0 +1,71 @@
+id: lenox_av_116th_st
+accessible: false
+station_names:
+- 116th St
+lines:
+- Lenox Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.802098"
+station_longitude: "-73.949625"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.949625
+  - 40.802098
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 116th St
+  corner: NW
+  entrance_latitude: "40.802229"
+  entrance_longitude: "-73.949734"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949734
+    - 40.802229
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 116th St
+  corner: SW
+  entrance_latitude: "40.801945"
+  entrance_longitude: "-73.949943"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949943
+    - 40.801945
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 116th St
+  corner: SE
+  entrance_latitude: "40.801822"
+  entrance_longitude: "-73.949651"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949651
+    - 40.801822
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lenox Ave
+  east_west_street: 116th St
+  corner: NE
+  entrance_latitude: "40.802111"
+  entrance_longitude: "-73.949437"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949437
+    - 40.802111

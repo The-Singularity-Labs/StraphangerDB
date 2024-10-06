@@ -1,0 +1,149 @@
+id: 8th_av/queens_blvd_50th_st
+accessible: true
+station_names:
+- 50th St
+lines:
+- transfer
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.762456"
+station_longitude: "-73.985984"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.985984
+  - 40.762456
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 8th Ave
+  east_west_street: 49th St
+  corner: NW
+  entrance_latitude: "40.761968"
+  entrance_longitude: "-73.986662"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986662
+    - 40.761968
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 50th St
+  corner: NE
+  entrance_latitude: "40.762216"
+  entrance_longitude: "-73.985757"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985757
+    - 40.762216
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 50th St
+  corner: SE
+  entrance_latitude: "40.762085"
+  entrance_longitude: "-73.985829"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985829
+    - 40.762085
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 49th St
+  corner: SW
+  entrance_latitude: "40.761691"
+  entrance_longitude: "-73.986805"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986805
+    - 40.761691
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 49th St
+  corner: SW
+  entrance_latitude: "40.761741"
+  entrance_longitude: "-73.986924"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986924
+    - 40.761741
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: 8th Ave
+  east_west_street: 50th St
+  corner: SW
+  entrance_latitude: "40.762312"
+  entrance_longitude: "-73.986378"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986378
+    - 40.762312
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 8th Ave
+  east_west_street: 49th St
+  corner: NW
+  entrance_latitude: "40.761968"
+  entrance_longitude: "-73.986662"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986662
+    - 40.761968
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 8th Ave
+  east_west_street: 50th St
+  corner: NW
+  entrance_latitude: "40.762452"
+  entrance_longitude: "-73.986299"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986299
+    - 40.762452
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 8th Ave
+  east_west_street: 50th St
+  corner: SW
+  entrance_latitude: "40.762312"
+  entrance_longitude: "-73.986378"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986378
+    - 40.762312
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 51st St
+  corner: NE
+  entrance_latitude: "40.7629"
+  entrance_longitude: "-73.985412"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.985412
+    - 40.7629

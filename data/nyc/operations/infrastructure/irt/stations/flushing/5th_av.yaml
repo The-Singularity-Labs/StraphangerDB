@@ -1,0 +1,58 @@
+id: flushing_5th_av
+accessible: false
+station_names:
+- 5th Av
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.753821"
+station_longitude: "-73.981963"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.981963
+  - 40.753821
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th-6th Aves
+  east_west_street: 42nd St
+  corner: S
+  entrance_latitude: "40.754213"
+  entrance_longitude: "-73.982984"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982984
+    - 40.754213
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.753409"
+  entrance_longitude: "-73.98113"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98113
+    - 40.753409
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th-6th Aves
+  east_west_street: 42nd St
+  corner: S
+  entrance_latitude: "40.754175"
+  entrance_longitude: "-73.982871"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.982871
+    - 40.754175

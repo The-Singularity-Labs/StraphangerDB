@@ -1,0 +1,71 @@
+id: culver_ditmas_av
+accessible: false
+station_names:
+- Ditmas Av
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.636119"
+station_longitude: "-73.978172"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.978172
+  - 40.636119
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Cortelyou Rd
+  corner: SW
+  entrance_latitude: "40.637093"
+  entrance_longitude: "-73.978463"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978463
+    - 40.637093
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Cortelyou Rd
+  corner: SE
+  entrance_latitude: "40.637107"
+  entrance_longitude: "-73.978257"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978257
+    - 40.637107
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Ditmas Ave
+  corner: SW
+  entrance_latitude: "40.635434"
+  entrance_longitude: "-73.978289"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.978289
+    - 40.635434
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Ditmas Ave
+  corner: SE
+  entrance_latitude: "40.635389"
+  entrance_longitude: "-73.977914"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977914
+    - 40.635389

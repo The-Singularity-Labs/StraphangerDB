@@ -1,0 +1,32 @@
+id: canarsie_bushwick_av
+accessible: false
+station_names:
+- Bushwick Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.682829"
+station_longitude: "-73.905249"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.905249
+  - 40.682829
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: De Sales Pl
+  east_west_street: Bushwick Ave
+  corner: NW
+  entrance_latitude: "40.6823"
+  entrance_longitude: "-73.905149"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.905149
+    - 40.6823

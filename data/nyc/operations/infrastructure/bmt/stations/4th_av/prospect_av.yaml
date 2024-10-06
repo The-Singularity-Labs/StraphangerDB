@@ -1,0 +1,58 @@
+id: 4th_av_prospect_av
+accessible: false
+station_names:
+- Prospect Av
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.665414"
+station_longitude: "-73.992872"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.992872
+  - 40.665414
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Prospect Ave
+  corner: SW
+  entrance_latitude: "40.665058"
+  entrance_longitude: "-73.993002"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993002
+    - 40.665058
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Prospect Ave
+  corner: NE
+  entrance_latitude: "40.665299"
+  entrance_longitude: "-73.992729"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992729
+    - 40.665299
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Prospect Ave
+  corner: SE
+  entrance_latitude: "40.665269"
+  entrance_longitude: "-73.993245"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993245
+    - 40.665269

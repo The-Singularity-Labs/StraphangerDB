@@ -1,0 +1,32 @@
+id: pelham_westchester_square_east_tremont_av
+accessible: false
+station_names:
+- Westchester Square-East Tremont Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.839892"
+station_longitude: "-73.842952"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.842952
+  - 40.839892
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Westchester Ave
+  east_west_street: Ferris Pl
+  corner: SW
+  entrance_latitude: "40.840128"
+  entrance_longitude: "-73.842875"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.842875
+    - 40.840128

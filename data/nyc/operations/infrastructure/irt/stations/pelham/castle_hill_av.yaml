@@ -1,0 +1,45 @@
+id: pelham_castle_hill_av
+accessible: false
+station_names:
+- Castle Hill Av
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.834255"
+station_longitude: "-73.851222"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.851222
+  - 40.834255
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Castle Hill Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.834321"
+  entrance_longitude: "-73.85144"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.85144
+    - 40.834321
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Castle Hill Ave
+  east_west_street: Westchester Ave
+  corner: SW
+  entrance_latitude: "40.834093"
+  entrance_longitude: "-73.851857"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.851857
+    - 40.834093

@@ -1,0 +1,45 @@
+id: canarsie_east_105th_st
+accessible: false
+station_names:
+- East 105th St
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.650573"
+station_longitude: "-73.899485"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.899485
+  - 40.650573
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Turnbull Ave
+  east_west_street: E 105th St
+  corner: SE
+  entrance_latitude: "40.651278"
+  entrance_longitude: "-73.898862"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.898862
+    - 40.651278
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Turnbull Ave
+  east_west_street: E 105th St
+  corner: SE
+  entrance_latitude: "40.651462"
+  entrance_longitude: "-73.899191"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.899191
+    - 40.651462

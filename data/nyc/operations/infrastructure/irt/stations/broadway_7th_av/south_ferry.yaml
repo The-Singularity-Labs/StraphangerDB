@@ -1,0 +1,84 @@
+id: broadway_7th_av_south_ferry
+accessible: true
+station_names:
+- South Ferry
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.702068"
+station_longitude: "-74.013664"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.013664
+  - 40.702068
+entry_exits:
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.701313"
+  entrance_longitude: "-74.013479"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013479
+    - 40.701313
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.701961"
+  entrance_longitude: "-74.013397"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013397
+    - 40.701961
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.702033"
+  entrance_longitude: "-74.013149"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013149
+    - 40.702033
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.702033"
+  entrance_longitude: "-74.013149"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013149
+    - 40.702033
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.701961"
+  entrance_longitude: "-74.013397"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013397
+    - 40.701961

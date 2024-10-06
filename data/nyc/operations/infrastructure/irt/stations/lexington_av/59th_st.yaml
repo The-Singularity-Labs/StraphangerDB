@@ -1,0 +1,110 @@
+id: lexington_av_59th_st
+accessible: false
+station_names:
+- 59th St
+lines:
+- Lexington Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.762526"
+station_longitude: "-73.967967"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.967967
+  - 40.762526
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Lexington Ave
+  east_west_street: 60th St
+  corner: SE
+  entrance_latitude: "40.76266"
+  entrance_longitude: "-73.967625"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967625
+    - 40.76266
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 60th St
+  corner: NW
+  entrance_latitude: "40.762986"
+  entrance_longitude: "-73.96785"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.96785
+    - 40.762986
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 59th St
+  corner: SE
+  entrance_latitude: "40.762069"
+  entrance_longitude: "-73.968016"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968016
+    - 40.762069
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 60th St
+  corner: NE
+  entrance_latitude: "40.762835"
+  entrance_longitude: "-73.967554"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.967554
+    - 40.762835
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 59th St
+  corner: SW
+  entrance_latitude: "40.762266"
+  entrance_longitude: "-73.968479"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968479
+    - 40.762266
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Ave
+  east_west_street: 59th St
+  corner: NW
+  entrance_latitude: "40.762414"
+  entrance_longitude: "-73.968371"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968371
+    - 40.762414
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Lexington Avenue
+  east_west_street: East 60th Street
+  corner: SW
+  entrance_latitude: "40.762836"
+  entrance_longitude: "-73.96804"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.96804
+    - 40.762836

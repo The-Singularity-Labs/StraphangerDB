@@ -1,0 +1,58 @@
+id: queens_blvd_briarwood_van_wyck_blvd
+accessible: false
+station_names:
+- Briarwood-Van Wyck Blvd
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.709179"
+station_longitude: "-73.820574"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.820574
+  - 40.709179
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Van Wyck Blvd
+  east_west_street: Queens Blvd
+  corner: SE
+  entrance_latitude: "40.709316"
+  entrance_longitude: "-73.819773"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.819773
+    - 40.709316
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Van Wyck Blvd
+  east_west_street: Queens Blvd
+  corner: SW
+  entrance_latitude: "40.708068"
+  entrance_longitude: "-73.820111"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.820111
+    - 40.708068
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 84th Rd
+  east_west_street: Queens Blvd
+  corner: NE
+  entrance_latitude: "40.709681"
+  entrance_longitude: "-73.819601"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.819601
+    - 40.709681

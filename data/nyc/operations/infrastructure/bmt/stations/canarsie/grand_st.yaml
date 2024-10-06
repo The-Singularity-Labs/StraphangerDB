@@ -1,0 +1,71 @@
+id: canarsie_grand_st
+accessible: false
+station_names:
+- Grand St
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.711926"
+station_longitude: "-73.94067"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.94067
+  - 40.711926
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand St
+  east_west_street: Bushwick Ave
+  corner: NE
+  entrance_latitude: "40.712017"
+  entrance_longitude: "-73.940976"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940976
+    - 40.712017
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand St
+  east_west_street: Bushwick Ave
+  corner: SW
+  entrance_latitude: "40.711912"
+  entrance_longitude: "-73.940433"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940433
+    - 40.711912
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand St
+  east_west_street: Bushwick Ave
+  corner: SE
+  entrance_latitude: "40.712182"
+  entrance_longitude: "-73.940668"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940668
+    - 40.712182
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Grand St
+  east_west_street: Bushwick Ave
+  corner: NW
+  entrance_latitude: "40.711791"
+  entrance_longitude: "-73.940742"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940742
+    - 40.711791

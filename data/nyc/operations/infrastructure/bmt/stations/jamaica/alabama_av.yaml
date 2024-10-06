@@ -1,0 +1,45 @@
+id: jamaica_alabama_av
+accessible: false
+station_names:
+- Alabama Av
+lines:
+- Jamaica
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.676992"
+station_longitude: "-73.898654"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.898654
+  - 40.676992
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.676755"
+  entrance_longitude: "-73.899834"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.899834
+    - 40.676755
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.676803"
+  entrance_longitude: "-73.89951"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.89951
+    - 40.676803

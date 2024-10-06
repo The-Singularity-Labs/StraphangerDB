@@ -1,0 +1,32 @@
+id: flushing_grand_central_42nd_st
+accessible: false
+station_names:
+- Grand Central-42nd St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.751431"
+station_longitude: "-73.976041"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.976041
+  - 40.751431
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 3rd Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.750851"
+  entrance_longitude: "-73.975078"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975078
+    - 40.750851

@@ -1,0 +1,71 @@
+id: rockaway_howard_beach
+accessible: true
+station_names:
+- Howard Beach
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.660476"
+station_longitude: "-73.830301"
+has_payment_vending: false
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.830301
+  - 40.660476
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 103rd St
+  east_west_street: 159th Ave
+  corner: SE
+  entrance_latitude: "40.66016"
+  entrance_longitude: "-73.830372"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830372
+    - 40.66016
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 103rd St
+  east_west_street: 159th Ave
+  corner: SE
+  entrance_latitude: "40.660372"
+  entrance_longitude: "-73.830369"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830369
+    - 40.660372
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 103rd St
+  east_west_street: 159th Ave
+  corner: NE
+  entrance_latitude: "40.660465"
+  entrance_longitude: "-73.830518"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830518
+    - 40.660465
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: 103rd St
+  east_west_street: 159th Ave
+  corner: NE
+  entrance_latitude: "40.660486"
+  entrance_longitude: "-73.830453"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830453
+    - 40.660486

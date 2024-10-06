@@ -1,0 +1,58 @@
+id: 6th_av_grand_st
+accessible: false
+station_names:
+- Grand St
+lines:
+- 6th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.718267"
+station_longitude: "-73.993753"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.993753
+  - 40.718267
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chrystie St
+  east_west_street: Grand St
+  corner: NW
+  entrance_latitude: "40.718265"
+  entrance_longitude: "-73.993877"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993877
+    - 40.718265
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chrystie St
+  east_west_street: Grand St
+  corner: NE
+  entrance_latitude: "40.718155"
+  entrance_longitude: "-73.993452"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993452
+    - 40.718155
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Chrystie St
+  east_west_street: Grand St
+  corner: NE
+  entrance_latitude: "40.718191"
+  entrance_longitude: "-73.993577"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993577
+    - 40.718191

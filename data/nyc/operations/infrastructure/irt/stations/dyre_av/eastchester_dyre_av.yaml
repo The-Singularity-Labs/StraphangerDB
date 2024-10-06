@@ -1,0 +1,32 @@
+id: dyre_av_eastchester_dyre_av
+accessible: false
+station_names:
+- Eastchester-Dyre Av
+lines:
+- Dyre Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.8883"
+station_longitude: "-73.830834"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.830834
+  - 40.8883
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Dyre Ave
+  east_west_street: Light St
+  corner: NE
+  entrance_latitude: "40.88798"
+  entrance_longitude: "-73.831195"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.831195
+    - 40.88798

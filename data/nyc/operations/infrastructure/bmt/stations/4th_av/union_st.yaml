@@ -1,0 +1,71 @@
+id: 4th_av_union_st
+accessible: false
+station_names:
+- Union St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.677316"
+station_longitude: "-73.98311"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.98311
+  - 40.677316
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Union St
+  corner: SW
+  entrance_latitude: "40.677279"
+  entrance_longitude: "-73.983327"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983327
+    - 40.677279
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Union St
+  corner: SE
+  entrance_latitude: "40.677001"
+  entrance_longitude: "-73.983133"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983133
+    - 40.677001
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Union St
+  corner: SW
+  entrance_latitude: "40.677135"
+  entrance_longitude: "-73.983416"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.983416
+    - 40.677135
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: Union St
+  corner: SE
+  entrance_latitude: "40.677171"
+  entrance_longitude: "-73.98302"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98302
+    - 40.677171

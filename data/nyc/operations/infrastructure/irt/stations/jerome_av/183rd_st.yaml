@@ -1,0 +1,58 @@
+id: jerome_av_183rd_st
+accessible: false
+station_names:
+- 183rd St
+lines:
+- Jerome Av
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.858407"
+station_longitude: "-73.903879"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.903879
+  - 40.858407
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: 183rd St
+  corner: NE
+  entrance_latitude: "40.858453"
+  entrance_longitude: "-73.90369"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.90369
+    - 40.858453
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: 183rd St
+  corner: NW
+  entrance_latitude: "40.858477"
+  entrance_longitude: "-73.904088"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.904088
+    - 40.858477
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Jerome Ave
+  east_west_street: 183rd St
+  corner: SW
+  entrance_latitude: "40.858267"
+  entrance_longitude: "-73.904099"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.904099
+    - 40.858267

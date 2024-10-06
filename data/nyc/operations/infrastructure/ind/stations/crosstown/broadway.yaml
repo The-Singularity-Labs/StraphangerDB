@@ -1,0 +1,71 @@
+id: crosstown_broadway
+accessible: false
+station_names:
+- Broadway
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.706092"
+station_longitude: "-73.950308"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.950308
+  - 40.706092
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Broadway
+  corner: NE
+  entrance_latitude: "40.705495"
+  entrance_longitude: "-73.950089"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950089
+    - 40.705495
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Broadway
+  corner: SE
+  entrance_latitude: "40.705114"
+  entrance_longitude: "-73.950062"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950062
+    - 40.705114
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Heyward St
+  corner: NW
+  entrance_latitude: "40.70549"
+  entrance_longitude: "-73.950554"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950554
+    - 40.70549
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.705204"
+  entrance_longitude: "-73.95032"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.95032
+    - 40.705204

@@ -1,0 +1,123 @@
+id: canarsie_dekalb_av
+accessible: false
+station_names:
+- DeKalb Av
+lines:
+- Canarsie
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.703811"
+station_longitude: "-73.918425"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.918425
+  - 40.703811
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: DeKalb Ave
+  east_west_street: Wyckoff Ave
+  corner: NW
+  entrance_latitude: "40.70448"
+  entrance_longitude: "-73.919184"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919184
+    - 40.70448
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stanhope St
+  east_west_street: Wyckoff Ave
+  corner: SW
+  entrance_latitude: "40.703353"
+  entrance_longitude: "-73.917957"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917957
+    - 40.703353
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stanhope St
+  east_west_street: Wyckoff Ave
+  corner: SE
+  entrance_latitude: "40.703248"
+  entrance_longitude: "-73.91772"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.91772
+    - 40.703248
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stanhope St
+  east_west_street: Wyckoff Ave
+  corner: NW
+  entrance_latitude: "40.70354"
+  entrance_longitude: "-73.917771"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917771
+    - 40.70354
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: DeKalb Ave
+  east_west_street: Wyckoff Ave
+  corner: SW
+  entrance_latitude: "40.704326"
+  entrance_longitude: "-73.919452"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919452
+    - 40.704326
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Stanhope St
+  east_west_street: Wyckoff Ave
+  corner: NE
+  entrance_latitude: "40.703461"
+  entrance_longitude: "-73.917606"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917606
+    - 40.703461
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: DeKalb Ave
+  east_west_street: Wyckoff Ave
+  corner: NE
+  entrance_latitude: "40.704379"
+  entrance_longitude: "-73.919026"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919026
+    - 40.704379
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: DeKalb Ave
+  east_west_street: Wyckoff Ave
+  corner: SE
+  entrance_latitude: "40.704153"
+  entrance_longitude: "-73.919273"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.919273
+    - 40.704153

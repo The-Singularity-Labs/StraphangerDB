@@ -1,0 +1,227 @@
+id: 8th_av_34th_st
+accessible: true
+station_names:
+- 34th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.752287"
+station_longitude: "-73.993391"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.993391
+  - 40.752287
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 34th St
+  corner: NW
+  entrance_latitude: "40.752427"
+  entrance_longitude: "-73.993679"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993679
+    - 40.752427
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.751996"
+  entrance_longitude: "-73.993327"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993327
+    - 40.751996
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 34th St
+  corner: SE
+  entrance_latitude: "40.75202"
+  entrance_longitude: "-73.993352"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993352
+    - 40.75202
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 34th St
+  corner: NE
+  entrance_latitude: "40.752161"
+  entrance_longitude: "-73.993109"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993109
+    - 40.752161
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 35th St
+  corner: SE
+  entrance_latitude: "40.752689"
+  entrance_longitude: "-73.992742"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992742
+    - 40.752689
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 35th St
+  corner: NE
+  entrance_latitude: "40.752796"
+  entrance_longitude: "-73.992669"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992669
+    - 40.752796
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 35th St
+  corner: NE
+  entrance_latitude: "40.752766"
+  entrance_longitude: "-73.992596"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.992596
+    - 40.752766
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 35th St
+  corner: SW
+  entrance_latitude: "40.752877"
+  entrance_longitude: "-73.993244"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993244
+    - 40.752877
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 35th St
+  corner: NW
+  entrance_latitude: "40.753053"
+  entrance_longitude: "-73.993256"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993256
+    - 40.753053
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 35th St
+  corner: NW
+  entrance_latitude: "40.753032"
+  entrance_longitude: "-73.993188"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993188
+    - 40.753032
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 34th St
+  corner: SW
+  entrance_latitude: "40.752178"
+  entrance_longitude: "-73.993701"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993701
+    - 40.752178
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 33rd St
+  corner: SE
+  entrance_latitude: "40.751291"
+  entrance_longitude: "-73.993887"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993887
+    - 40.751291
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 33rd St
+  corner: NE
+  entrance_latitude: "40.751432"
+  entrance_longitude: "-73.993538"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.993538
+    - 40.751432
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 33rd St
+  corner: NW
+  entrance_latitude: "40.751677"
+  entrance_longitude: "-73.994107"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994107
+    - 40.751677
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 33rd St
+  corner: SW
+  entrance_latitude: "40.751561"
+  entrance_longitude: "-73.994243"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994243
+    - 40.751561
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 33rd St
+  corner: SW
+  entrance_latitude: "40.751539"
+  entrance_longitude: "-73.994181"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.994181
+    - 40.751539

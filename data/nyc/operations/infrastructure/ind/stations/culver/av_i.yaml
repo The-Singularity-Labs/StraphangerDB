@@ -1,0 +1,71 @@
+id: culver_av_i
+accessible: false
+station_names:
+- Av I
+lines:
+- Culver
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.625322"
+station_longitude: "-73.976127"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.976127
+  - 40.625322
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue I
+  corner: NW
+  entrance_latitude: "40.626133"
+  entrance_longitude: "-73.976407"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976407
+    - 40.626133
+- entry_only: false
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue J
+  corner: NE
+  entrance_latitude: "40.624301"
+  entrance_longitude: "-73.975817"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.975817
+    - 40.624301
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue J
+  corner: NW
+  entrance_latitude: "40.624263"
+  entrance_longitude: "-73.976049"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976049
+    - 40.624263
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: McDonald Ave
+  east_west_street: Avenue I
+  corner: NE
+  entrance_latitude: "40.626163"
+  entrance_longitude: "-73.976177"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976177
+    - 40.626163

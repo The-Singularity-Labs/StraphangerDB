@@ -1,0 +1,32 @@
+id: brighton_atlantic_av
+accessible: false
+station_names:
+- Atlantic Av
+lines:
+- Brighton
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.68446"
+station_longitude: "-73.97689"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.97689
+  - 40.68446
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Ashland Pl
+  east_west_street: Hanson Pl
+  corner: NE
+  entrance_latitude: "40.685222"
+  entrance_longitude: "-73.977628"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.977628
+    - 40.685222

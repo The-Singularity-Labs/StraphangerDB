@@ -1,0 +1,97 @@
+id: 8th_av_125th_st
+accessible: false
+station_names:
+- 125th St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.811109"
+station_longitude: "-73.952343"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.952343
+  - 40.811109
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 125th St
+  corner: SE
+  entrance_latitude: "40.810526"
+  entrance_longitude: "-73.952583"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952583
+    - 40.810526
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 125th St
+  corner: NE
+  entrance_latitude: "40.810879"
+  entrance_longitude: "-73.952318"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952318
+    - 40.810879
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 125th St
+  corner: NW
+  entrance_latitude: "40.811007"
+  entrance_longitude: "-73.952615"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952615
+    - 40.811007
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 125th St
+  corner: SW
+  entrance_latitude: "40.810636"
+  entrance_longitude: "-73.952886"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.952886
+    - 40.810636
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 127th St
+  corner: SE
+  entrance_latitude: "40.811858"
+  entrance_longitude: "-73.951351"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951351
+    - 40.811858
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Saint Nicholas Ave
+  east_west_street: 127th St
+  corner: SW
+  entrance_latitude: "40.81199"
+  entrance_longitude: "-73.951745"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.951745
+    - 40.81199

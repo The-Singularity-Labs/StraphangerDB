@@ -1,0 +1,97 @@
+id: queens_blvd_parsons_blvd
+accessible: false
+station_names:
+- Parsons Blvd
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.707564"
+station_longitude: "-73.803326"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.803326
+  - 40.707564
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Parsons Blvd
+  east_west_street: Hillside Ave
+  corner: NW
+  entrance_latitude: "40.707873"
+  entrance_longitude: "-73.802999"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.802999
+    - 40.707873
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Parsons Blvd
+  east_west_street: Hillside Ave
+  corner: SW
+  entrance_latitude: "40.707473"
+  entrance_longitude: "-73.802797"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.802797
+    - 40.707473
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 153rd St
+  east_west_street: Hillside Ave
+  corner: SE
+  entrance_latitude: "40.707062"
+  entrance_longitude: "-73.804332"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.804332
+    - 40.707062
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 153rd St
+  east_west_street: Hillside Ave
+  corner: NE
+  entrance_latitude: "40.707358"
+  entrance_longitude: "-73.804498"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.804498
+    - 40.707358
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Parsons Blvd
+  east_west_street: Hillside Ave
+  corner: SE
+  entrance_latitude: "40.707563"
+  entrance_longitude: "-73.802611"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.802611
+    - 40.707563
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 153rd St
+  east_west_street: Hillside Ave
+  corner: SW
+  entrance_latitude: "40.707063"
+  entrance_longitude: "-73.80462"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.80462
+    - 40.707063

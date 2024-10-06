@@ -1,0 +1,84 @@
+id: crosstown_greenpoint_av
+accessible: false
+station_names:
+- Greenpoint Av
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.731352"
+station_longitude: "-73.954449"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.954449
+  - 40.731352
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Greenpoint Ave
+  corner: SE
+  entrance_latitude: "40.730122"
+  entrance_longitude: "-73.954049"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954049
+    - 40.730122
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: India St
+  corner: SE
+  entrance_latitude: "40.732258"
+  entrance_longitude: "-73.954379"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954379
+    - 40.732258
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Greenpoint Ave
+  corner: NW
+  entrance_latitude: "40.730278"
+  entrance_longitude: "-73.954488"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954488
+    - 40.730278
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: Greenpoint Ave
+  corner: SW
+  entrance_latitude: "40.73007"
+  entrance_longitude: "-73.954377"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954377
+    - 40.73007
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Manhattan Ave
+  east_west_street: India St
+  corner: SW
+  entrance_latitude: "40.732216"
+  entrance_longitude: "-73.954784"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.954784
+    - 40.732216

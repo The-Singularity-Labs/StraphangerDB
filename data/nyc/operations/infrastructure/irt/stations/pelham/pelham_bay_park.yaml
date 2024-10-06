@@ -1,0 +1,84 @@
+id: pelham_pelham_bay_park
+accessible: true
+station_names:
+- Pelham Bay Park
+lines:
+- Pelham
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.852462"
+station_longitude: "-73.828121"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.828121
+  - 40.852462
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.852803"
+  entrance_longitude: "-73.827195"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827195
+    - 40.852803
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Burr Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.852377"
+  entrance_longitude: "-73.825986"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.825986
+    - 40.852377
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Burr Ave
+  east_west_street: Westchester Ave
+  corner: NE
+  entrance_latitude: "40.853012"
+  entrance_longitude: "-73.827172"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827172
+    - 40.853012
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: ""
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.853041"
+  entrance_longitude: "-73.826991"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.826991
+    - 40.853041
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Burr Ave
+  east_west_street: Westchester Ave
+  corner: SE
+  entrance_latitude: "40.852824"
+  entrance_longitude: "-73.827035"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.827035
+    - 40.852824

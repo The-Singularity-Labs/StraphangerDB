@@ -1,0 +1,110 @@
+id: nostrand_av_church_av
+accessible: true
+station_names:
+- Church Av
+lines:
+- Nostrand Av
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.650843"
+station_longitude: "-73.949575"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.949575
+  - 40.650843
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Church Ave
+  corner: NW
+  entrance_latitude: "40.650894"
+  entrance_longitude: "-73.949819"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949819
+    - 40.650894
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Nostrand
+  east_west_street: Church
+  corner: SW
+  entrance_latitude: "40.650717"
+  entrance_longitude: "-73.949741"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949741
+    - 40.650717
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Nostrand Ave
+  east_west_street: Church Ave
+  corner: SW
+  entrance_latitude: "40.65064"
+  entrance_longitude: "-73.949677"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949677
+    - 40.65064
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Church Ave
+  corner: NW
+  entrance_latitude: "40.650969"
+  entrance_longitude: "-73.949714"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949714
+    - 40.650969
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Church Ave
+  corner: SE
+  entrance_latitude: "40.65064"
+  entrance_longitude: "-73.949429"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949429
+    - 40.65064
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Nostrand Ave
+  east_west_street: Church Ave
+  corner: SE
+  entrance_latitude: "40.650748"
+  entrance_longitude: "-73.949384"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949384
+    - 40.650748
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Church Ave
+  corner: NE
+  entrance_latitude: "40.65091"
+  entrance_longitude: "-73.949416"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949416
+    - 40.65091

@@ -1,0 +1,71 @@
+id: rockaway_beach_44th_st
+accessible: false
+station_names:
+- Beach 44th St
+lines:
+- Rockaway
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.592943"
+station_longitude: "-73.776013"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.776013
+  - 40.592943
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 44th St
+  east_west_street: Edgemere Ave
+  corner: SW
+  entrance_latitude: "40.592897"
+  entrance_longitude: "-73.775715"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.775715
+    - 40.592897
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 45th St
+  east_west_street: Edgemere Ave
+  corner: SW
+  entrance_latitude: "40.59286"
+  entrance_longitude: "-73.776109"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.776109
+    - 40.59286
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 44th St
+  east_west_street: Edgemere Ave
+  corner: NW
+  entrance_latitude: "40.593106"
+  entrance_longitude: "-73.775743"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.775743
+    - 40.593106
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Beach 45th St
+  east_west_street: Edgemere Ave
+  corner: NE
+  entrance_latitude: "40.593079"
+  entrance_longitude: "-73.775985"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.775985
+    - 40.593079

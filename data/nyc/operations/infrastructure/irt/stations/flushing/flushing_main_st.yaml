@@ -1,0 +1,149 @@
+id: flushing_flushing_main_st
+accessible: true
+station_names:
+- Flushing-Main St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.7596"
+station_longitude: "-73.83003"
+has_payment_vending: true
+staffing: PART
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.83003
+  - 40.7596
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.759895"
+  entrance_longitude: "-73.828573"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.828573
+    - 40.759895
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.759946"
+  entrance_longitude: "-73.828414"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.828414
+    - 40.759946
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.760048"
+  entrance_longitude: "-73.828444"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.828444
+    - 40.760048
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.760004"
+  entrance_longitude: "-73.82863"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.82863
+    - 40.760004
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.759908"
+  entrance_longitude: "-73.829019"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829019
+    - 40.759908
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: SW
+  entrance_latitude: "40.759404"
+  entrance_longitude: "-73.830333"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830333
+    - 40.759404
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: NW
+  entrance_latitude: "40.759587"
+  entrance_longitude: "-73.830408"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.830408
+    - 40.759587
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.759451"
+  entrance_longitude: "-73.829927"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829927
+    - 40.759451
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.759706"
+  entrance_longitude: "-73.829943"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829943
+    - 40.759706
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Main St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.759542"
+  entrance_longitude: "-73.829885"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.829885
+    - 40.759542

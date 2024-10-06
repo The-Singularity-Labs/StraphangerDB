@@ -1,0 +1,123 @@
+id: white_plains_rd_149th_st_3rd_av
+accessible: true
+station_names:
+- 149th St-3rd Av
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.816109"
+station_longitude: "-73.917757"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.917757
+  - 40.816109
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 149th St
+  corner: NW
+  entrance_latitude: "40.816265"
+  entrance_longitude: "-73.917456"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917456
+    - 40.816265
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Melrose Ave
+  east_west_street: 149th St
+  corner: SW
+  entrance_latitude: "40.815971"
+  entrance_longitude: "-73.917983"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917983
+    - 40.815971
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 149th St
+  corner: SE
+  entrance_latitude: "40.815881"
+  entrance_longitude: "-73.917522"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917522
+    - 40.815881
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 3rd Ave
+  east_west_street: 149th St
+  corner: SE
+  entrance_latitude: "40.815853"
+  entrance_longitude: "-73.917759"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917759
+    - 40.815853
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Melrose Ave
+  east_west_street: 149th St
+  corner: NW
+  entrance_latitude: "40.816242"
+  entrance_longitude: "-73.917934"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917934
+    - 40.816242
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Melrose Ave
+  east_west_street: 149th St
+  corner: NE
+  entrance_latitude: "40.816315"
+  entrance_longitude: "-73.917543"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917543
+    - 40.816315
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Melrose Ave
+  east_west_street: 149th St
+  corner: SW
+  entrance_latitude: "40.816033"
+  entrance_longitude: "-73.918064"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.918064
+    - 40.816033
+- entry_only: true
+  exit_only: false
+  entrance_type: Elevator
+  north_south_street: Melrose Ave
+  east_west_street: 149th St
+  corner: NW
+  entrance_latitude: "40.816247"
+  entrance_longitude: "-73.917798"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.917798
+    - 40.816247

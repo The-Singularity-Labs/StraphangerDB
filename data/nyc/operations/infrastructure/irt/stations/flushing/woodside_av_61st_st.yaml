@@ -1,0 +1,58 @@
+id: flushing_woodside_av_61st_st
+accessible: false
+station_names:
+- Woodside Av-61st St
+lines:
+- Flushing
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.74563"
+station_longitude: "-73.902984"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.902984
+  - 40.74563
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 61st St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.745717"
+  entrance_longitude: "-73.903063"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903063
+    - 40.745717
+- entry_only: true
+  exit_only: false
+  entrance_type: Escalator
+  north_south_street: 61st St
+  east_west_street: Roosevelt Ave
+  corner: SE
+  entrance_latitude: "40.745531"
+  entrance_longitude: "-73.903248"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903248
+    - 40.745531
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 61st St
+  east_west_street: Roosevelt Ave
+  corner: NE
+  entrance_latitude: "40.745692"
+  entrance_longitude: "-73.903234"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.903234
+    - 40.745692

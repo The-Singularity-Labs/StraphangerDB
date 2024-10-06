@@ -1,0 +1,32 @@
+id: franklin_av_botanic_gardens
+accessible: false
+station_names:
+- Botanic Gardens
+lines:
+- Franklin Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.670343"
+station_longitude: "-73.959245"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.959245
+  - 40.670343
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Franklin Ave
+  east_west_street: Eastern Pkwy
+  corner: SW
+  entrance_latitude: "40.670588"
+  entrance_longitude: "-73.959093"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.959093
+    - 40.670588

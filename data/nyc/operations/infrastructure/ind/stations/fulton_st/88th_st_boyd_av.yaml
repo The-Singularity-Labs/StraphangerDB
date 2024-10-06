@@ -1,0 +1,45 @@
+id: fulton_st_88th_st_boyd_av
+accessible: false
+station_names:
+- 88th St-Boyd Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.679843"
+station_longitude: "-73.85147"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.85147
+  - 40.679843
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 88th St
+  east_west_street: Liberty Ave
+  corner: SE
+  entrance_latitude: "40.679828"
+  entrance_longitude: "-73.850401"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.850401
+    - 40.679828
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 88th St
+  east_west_street: Liberty Ave
+  corner: NE
+  entrance_latitude: "40.679973"
+  entrance_longitude: "-73.850413"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.850413
+    - 40.679973

@@ -1,0 +1,58 @@
+id: west_end_18th_av
+accessible: false
+station_names:
+- 18th Av
+lines:
+- West End
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.607954"
+station_longitude: "-74.001736"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.001736
+  - 40.607954
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 18th Ave
+  east_west_street: 85th St
+  corner: NE
+  entrance_latitude: "40.607897"
+  entrance_longitude: "-74.001628"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001628
+    - 40.607897
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 18th Ave
+  east_west_street: 85th St
+  corner: SE
+  entrance_latitude: "40.607723"
+  entrance_longitude: "-74.001894"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001894
+    - 40.607723
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 18th Ave
+  east_west_street: 85th St
+  corner: SE
+  entrance_latitude: "40.607602"
+  entrance_longitude: "-74.001491"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.001491
+    - 40.607602

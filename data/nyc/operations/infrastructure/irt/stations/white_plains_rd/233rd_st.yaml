@@ -1,0 +1,45 @@
+id: white_plains_rd_233rd_st
+accessible: false
+station_names:
+- 233rd St
+lines:
+- White Plains Rd
+transfers: []
+division: IRT
+borough: Bronx
+station_latitude: "40.893193"
+station_longitude: "-73.857473"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.857473
+  - 40.893193
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: 233rd St
+  corner: SE
+  entrance_latitude: "40.893215"
+  entrance_longitude: "-73.857344"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.857344
+    - 40.893215
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: White Plains Rd
+  east_west_street: 233rd St
+  corner: NW
+  entrance_latitude: "40.893597"
+  entrance_longitude: "-73.857405"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.857405
+    - 40.893597

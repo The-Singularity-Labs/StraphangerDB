@@ -1,0 +1,162 @@
+id: 8th_av_23rd_st
+accessible: false
+station_names:
+- 23rd St
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.745906"
+station_longitude: "-73.998041"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.998041
+  - 40.745906
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 23rd St
+  corner: NE
+  entrance_latitude: "40.745299"
+  entrance_longitude: "-73.998145"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998145
+    - 40.745299
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.745102"
+  entrance_longitude: "-73.998365"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998365
+    - 40.745102
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 25th St
+  corner: SE
+  entrance_latitude: "40.746427"
+  entrance_longitude: "-73.99735"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.99735
+    - 40.746427
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 25th St
+  corner: NE
+  entrance_latitude: "40.746535"
+  entrance_longitude: "-73.997271"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997271
+    - 40.746535
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 23rd St
+  corner: NW
+  entrance_latitude: "40.745505"
+  entrance_longitude: "-73.998642"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998642
+    - 40.745505
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 23rd St
+  corner: SW
+  entrance_latitude: "40.745278"
+  entrance_longitude: "-73.998771"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998771
+    - 40.745278
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 25th St
+  corner: SW
+  entrance_latitude: "40.746603"
+  entrance_longitude: "-73.997801"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997801
+    - 40.746603
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 25th St
+  corner: NW
+  entrance_latitude: "40.746732"
+  entrance_longitude: "-73.997711"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997711
+    - 40.746732
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 25th St
+  corner: NE
+  entrance_latitude: "40.746483"
+  entrance_longitude: "-73.997142"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997142
+    - 40.746483
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 24th St
+  corner: NW
+  entrance_latitude: "40.74611"
+  entrance_longitude: "-73.998145"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.998145
+    - 40.74611
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 8th Ave
+  east_west_street: 24th St
+  corner: SE
+  entrance_latitude: "40.745814"
+  entrance_longitude: "-73.997852"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.997852
+    - 40.745814

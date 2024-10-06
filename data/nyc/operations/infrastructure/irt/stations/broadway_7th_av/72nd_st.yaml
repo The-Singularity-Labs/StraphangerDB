@@ -1,0 +1,71 @@
+id: broadway_7th_av_72nd_st
+accessible: false
+station_names:
+- 72nd St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.778453"
+station_longitude: "-73.98197"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.98197
+  - 40.778453
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Broadway
+  east_west_street: 72nd St
+  corner: SE
+  entrance_latitude: "40.778585"
+  entrance_longitude: "-73.981923"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981923
+    - 40.778585
+- entry_only: false
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Broadway
+  east_west_street: 72nd St
+  corner: SE
+  entrance_latitude: "40.778437"
+  entrance_longitude: "-73.981947"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981947
+    - 40.778437
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Broadway
+  east_west_street: 72nd St
+  corner: NE
+  entrance_latitude: "40.779146"
+  entrance_longitude: "-73.981822"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981822
+    - 40.779146
+- entry_only: true
+  exit_only: false
+  entrance_type: Door
+  north_south_street: Broadway
+  east_west_street: 72nd St
+  corner: NE
+  entrance_latitude: "40.778875"
+  entrance_longitude: "-73.981877"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.981877
+    - 40.778875

@@ -1,0 +1,97 @@
+id: fulton_st_rockaway_av
+accessible: false
+station_names:
+- Rockaway Av
+lines:
+- Fulton St
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.67834"
+station_longitude: "-73.911946"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.911946
+  - 40.67834
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Hopkinson Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.678317"
+  entrance_longitude: "-73.913651"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913651
+    - 40.678317
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Rockaway Ave
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.67846"
+  entrance_longitude: "-73.910971"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.910971
+    - 40.67846
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Rockaway Ave
+  east_west_street: Fulton St
+  corner: SE
+  entrance_latitude: "40.678017"
+  entrance_longitude: "-73.910661"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.910661
+    - 40.678017
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Rockaway Ave
+  east_west_street: Fulton St
+  corner: SW
+  entrance_latitude: "40.678142"
+  entrance_longitude: "-73.910875"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.910875
+    - 40.678142
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Hopkinson Ave
+  east_west_street: Fulton St
+  corner: NW
+  entrance_latitude: "40.678594"
+  entrance_longitude: "-73.913732"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.913732
+    - 40.678594
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Rockaway Ave
+  east_west_street: Fulton St
+  corner: NE
+  entrance_latitude: "40.678513"
+  entrance_longitude: "-73.910773"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.910773
+    - 40.678513

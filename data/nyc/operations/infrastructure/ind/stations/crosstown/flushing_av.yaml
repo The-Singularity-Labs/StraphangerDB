@@ -1,0 +1,45 @@
+id: crosstown_flushing_av
+accessible: false
+station_names:
+- Flushing Av
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.700377"
+station_longitude: "-73.950234"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.950234
+  - 40.700377
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Flushing Ave
+  corner: NE
+  entrance_latitude: "40.699985"
+  entrance_longitude: "-73.949895"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.949895
+    - 40.699985
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Union Ave
+  east_west_street: Flushing Ave
+  corner: SW
+  entrance_latitude: "40.699582"
+  entrance_longitude: "-73.950164"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950164
+    - 40.699582

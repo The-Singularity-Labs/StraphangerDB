@@ -1,0 +1,45 @@
+id: myrtle_ave_seneca_av
+accessible: false
+station_names:
+- Seneca Av
+lines:
+- Myrtle Ave
+transfers: []
+division: BMT
+borough: Queens
+station_latitude: "40.702762"
+station_longitude: "-73.90774"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.90774
+  - 40.702762
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Myrtle Ave
+  east_west_street: Seneca Ave
+  corner: SW
+  entrance_latitude: "40.702835"
+  entrance_longitude: "-73.907894"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907894
+    - 40.702835
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Myrtle Ave
+  east_west_street: Seneca Ave
+  corner: NE
+  entrance_latitude: "40.70278"
+  entrance_longitude: "-73.907515"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907515
+    - 40.70278

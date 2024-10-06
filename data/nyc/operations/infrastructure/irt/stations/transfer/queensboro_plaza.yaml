@@ -1,0 +1,45 @@
+id: flushing/astoria_queensboro_plaza
+accessible: false
+station_names:
+- Queensboro Plaza
+lines:
+- transfer
+transfers: []
+division: IRT
+borough: Queens
+station_latitude: "40.750582"
+station_longitude: "-73.940202"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.940202
+  - 40.750582
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: Queens Plaza North
+  east_west_street: 27th St
+  corner: NW
+  entrance_latitude: "40.750835"
+  entrance_longitude: "-73.939671"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.939671
+    - 40.750835
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Queens Plaza South
+  east_west_street: 27th St
+  corner: SW
+  entrance_latitude: "40.750302"
+  entrance_longitude: "-73.940245"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.940245
+    - 40.750302

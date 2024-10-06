@@ -1,0 +1,136 @@
+id: broadway_7th_av_times_square
+accessible: false
+station_names:
+- Times Square
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.75529"
+station_longitude: "-73.987495"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.987495
+  - 40.75529
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 7th Ave
+  east_west_street: 42nd St
+  corner: NW
+  entrance_latitude: "40.756241"
+  entrance_longitude: "-73.987133"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987133
+    - 40.756241
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 40th St
+  corner: SE
+  entrance_latitude: "40.754568"
+  entrance_longitude: "-73.987827"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987827
+    - 40.754568
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 41st St
+  corner: NW
+  entrance_latitude: "40.755554"
+  entrance_longitude: "-73.987679"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987679
+    - 40.755554
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.755575"
+  entrance_longitude: "-73.986311"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986311
+    - 40.755575
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 7th Ave
+  east_west_street: 42nd St
+  corner: SE
+  entrance_latitude: "40.755747"
+  entrance_longitude: "-73.986875"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.986875
+    - 40.755747
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 41st St
+  corner: SE
+  entrance_latitude: "40.755248"
+  entrance_longitude: "-73.987362"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987362
+    - 40.755248
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 41st St
+  corner: SE
+  entrance_latitude: "40.755334"
+  entrance_longitude: "-73.9872"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.9872
+    - 40.755334
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 7th Ave
+  east_west_street: 42nd St
+  corner: SW
+  entrance_latitude: "40.756042"
+  entrance_longitude: "-73.987242"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.987242
+    - 40.756042
+- entry_only: true
+  exit_only: false
+  entrance_type: Easement
+  north_south_street: 7th Ave
+  east_west_street: 40th St
+  corner: SW
+  entrance_latitude: "40.754691"
+  entrance_longitude: "-73.988067"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988067
+    - 40.754691

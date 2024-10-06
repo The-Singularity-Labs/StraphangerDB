@@ -1,0 +1,45 @@
+id: queens_blvd_northern_blvd
+accessible: false
+station_names:
+- Northern Blvd
+lines:
+- Queens Blvd
+transfers: []
+division: IND
+borough: Queens
+station_latitude: "40.752885"
+station_longitude: "-73.906006"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.906006
+  - 40.752885
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 54th St
+  east_west_street: Broadway
+  corner: SW
+  entrance_latitude: "40.753428"
+  entrance_longitude: "-73.906847"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.906847
+    - 40.753428
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 54th St
+  east_west_street: Northern Blvd
+  corner: NW
+  entrance_latitude: "40.753086"
+  entrance_longitude: "-73.907119"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.907119
+    - 40.753086

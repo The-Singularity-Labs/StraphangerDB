@@ -1,0 +1,45 @@
+id: eastern_parkway_nostrand_av
+accessible: false
+station_names:
+- Nostrand Av
+lines:
+- Eastern Parkway
+transfers: []
+division: IRT
+borough: Brooklyn
+station_latitude: "40.669847"
+station_longitude: "-73.950466"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.950466
+  - 40.669847
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Eastern Pkwy
+  corner: SW
+  entrance_latitude: "40.669741"
+  entrance_longitude: "-73.950798"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950798
+    - 40.669741
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Nostrand Ave
+  east_west_street: Eastern Pkwy
+  corner: SE
+  entrance_latitude: "40.669711"
+  entrance_longitude: "-73.950247"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.950247
+    - 40.669711

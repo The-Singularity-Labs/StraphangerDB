@@ -1,0 +1,123 @@
+id: 8th_av_world_trade_center
+accessible: false
+station_names:
+- World Trade Center
+lines:
+- 8th Av
+transfers: []
+division: IND
+borough: Manhattan
+station_latitude: "40.712582"
+station_longitude: "-74.009781"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.009781
+  - 40.712582
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.71171"
+  entrance_longitude: "-74.010204"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010204
+    - 40.71171
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Vesey St
+  corner: NW
+  entrance_latitude: "40.712258"
+  entrance_longitude: "-74.010306"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010306
+    - 40.712258
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: ""
+  corner: ""
+  entrance_latitude: "40.711793"
+  entrance_longitude: "-74.010165"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.010165
+    - 40.711793
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Park Pl
+  corner: NW
+  entrance_latitude: "40.713435"
+  entrance_longitude: "-74.009292"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009292
+    - 40.713435
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Park Pl
+  corner: SE
+  entrance_latitude: "40.713036"
+  entrance_longitude: "-74.009245"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009245
+    - 40.713036
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Park Pl
+  corner: SW
+  entrance_latitude: "40.713286"
+  entrance_longitude: "-74.009511"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009511
+    - 40.713286
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Barclay St
+  corner: SW
+  entrance_latitude: "40.712681"
+  entrance_longitude: "-74.009891"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009891
+    - 40.712681
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Church St
+  east_west_street: Park Pl
+  corner: NE
+  entrance_latitude: "40.713333"
+  entrance_longitude: "-74.009033"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.009033
+    - 40.713333

@@ -1,0 +1,123 @@
+id: broadway_23rd_st
+accessible: false
+station_names:
+- 23rd St
+lines:
+- Broadway
+transfers: []
+division: BMT
+borough: Manhattan
+station_latitude: "40.741303"
+station_longitude: "-73.989344"
+has_payment_vending: true
+staffing: NONE
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.989344
+  - 40.741303
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 23rd St
+  corner: NW
+  entrance_latitude: "40.741913"
+  entrance_longitude: "-73.989428"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989428
+    - 40.741913
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.74108"
+  entrance_longitude: "-73.989083"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989083
+    - 40.74108
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 22nd St
+  corner: NW
+  entrance_latitude: "40.740758"
+  entrance_longitude: "-73.989632"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989632
+    - 40.740758
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 23rd St
+  corner: NE
+  entrance_latitude: "40.741539"
+  entrance_longitude: "-73.988989"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988989
+    - 40.741539
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 23rd St
+  corner: NE
+  entrance_latitude: "40.741378"
+  entrance_longitude: "-73.988895"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.988895
+    - 40.741378
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 22nd St
+  corner: NE
+  entrance_latitude: "40.740643"
+  entrance_longitude: "-73.989217"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989217
+    - 40.740643
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 5th Ave
+  east_west_street: 22nd St
+  corner: NE
+  entrance_latitude: "40.741208"
+  entrance_longitude: "-73.989639"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.989639
+    - 40.741208
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 23rd St
+  corner: SE
+  entrance_latitude: "40.741111"
+  entrance_longitude: "-73.98892"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.98892
+    - 40.741111

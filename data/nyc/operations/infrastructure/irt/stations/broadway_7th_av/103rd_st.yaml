@@ -1,0 +1,84 @@
+id: broadway_7th_av_103rd_st
+accessible: false
+station_names:
+- 103rd St
+lines:
+- Broadway-7th Av
+transfers: []
+division: IRT
+borough: Manhattan
+station_latitude: "40.799446"
+station_longitude: "-73.968379"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.968379
+  - 40.799446
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 103rd St
+  corner: NE
+  entrance_latitude: "40.799223"
+  entrance_longitude: "-73.968271"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968271
+    - 40.799223
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 103rd St
+  corner: NW
+  entrance_latitude: "40.799282"
+  entrance_longitude: "-73.968679"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968679
+    - 40.799282
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 103rd St
+  corner: NE
+  entrance_latitude: "40.799142"
+  entrance_longitude: "-73.968314"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968314
+    - 40.799142
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 103rd St
+  corner: NW
+  entrance_latitude: "40.79941"
+  entrance_longitude: "-73.968612"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968612
+    - 40.79941
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: Broadway
+  east_west_street: 104th St
+  corner: SE
+  entrance_latitude: "40.799584"
+  entrance_longitude: "-73.968091"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.968091
+    - 40.799584

@@ -1,0 +1,45 @@
+id: crosstown_fulton_st
+accessible: false
+station_names:
+- Fulton St
+lines:
+- Crosstown
+transfers: []
+division: IND
+borough: Brooklyn
+station_latitude: "40.687119"
+station_longitude: "-73.975375"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -73.975375
+  - 40.687119
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Greene Pl
+  east_west_street: Lafayette Ave
+  corner: NE
+  entrance_latitude: "40.687159"
+  entrance_longitude: "-73.97629"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.97629
+    - 40.687159
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: Fort Greene Pl
+  east_west_street: Lafayette Ave
+  corner: NW
+  entrance_latitude: "40.68716"
+  entrance_longitude: "-73.976865"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -73.976865
+    - 40.68716

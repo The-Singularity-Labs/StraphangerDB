@@ -1,0 +1,84 @@
+id: 4th_av_53rd_st
+accessible: false
+station_names:
+- 53rd St
+lines:
+- 4th Av
+transfers: []
+division: BMT
+borough: Brooklyn
+station_latitude: "40.645069"
+station_longitude: "-74.014034"
+has_payment_vending: true
+staffing: FULL
+station_georeference:
+  type: Point
+  coordinates:
+  - -74.014034
+  - 40.645069
+entry_exits:
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 53rd St
+  corner: SE
+  entrance_latitude: "40.644601"
+  entrance_longitude: "-74.014309"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014309
+    - 40.644601
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 53rd St
+  corner: SW
+  entrance_latitude: "40.644653"
+  entrance_longitude: "-74.01469"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.01469
+    - 40.644653
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 53rd St
+  corner: SE
+  entrance_latitude: "40.644493"
+  entrance_longitude: "-74.014419"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014419
+    - 40.644493
+- entry_only: false
+  exit_only: true
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 52nd St
+  corner: NW
+  entrance_latitude: "40.645619"
+  entrance_longitude: "-74.013688"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.013688
+    - 40.645619
+- entry_only: true
+  exit_only: false
+  entrance_type: Stair
+  north_south_street: 4th Ave
+  east_west_street: 53rd St
+  corner: SW
+  entrance_latitude: "40.644756"
+  entrance_longitude: "-74.014586"
+  entrance_georeference:
+    type: Point
+    coordinates:
+    - -74.014586
+    - 40.644756
