@@ -21,4 +21,4 @@
 go.work
 
 build/**
-dist/**
+dist/**aider_output.txt

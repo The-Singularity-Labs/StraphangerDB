@@ -1,0 +1,87 @@
+name: Agent Smith
+
+on:
+  issues:
+    types: [labeled]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  agent-smith:
+    if: |
+      (github.event.label.name == 'agent smith') ||
+      (contains(github.event.comment.body, '🤖'))
+    runs-on: [self-hosted]
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.event.issue.number }}
+      cancel-in-progress: true
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git User
+        run: |
+            git config --global user.name "Agent Smith"
+            git config --global user.email "agent.smith@matrix.com"
+
+      - name: Run Agent Logic
+        env:
+            OLLAMA_API_BASE: http://ollama:11434
+            AIDER_MODEL: ollama/qwen:7b
+        run: |
+            # Determine instruction based on event type
+            if [ "${{ github.event_name }}" == "issues" ]; then
+              INSTRUCTION="${{ github.event.issue.body }}"
+            elif [ "${{ github.event_name }}" == "issue_comment" ]; then
+              # Strip the robot emoji and trim whitespace
+              INSTRUCTION=$(echo "${{ github.event.comment.body }}" | sed 's/🤖//g' | xargs)
+            fi
+            
+            echo "Running Aider with instruction: $INSTRUCTION"
+            
+            # Run aider with auto-commit (--yes)
+            # The runner 'aiden' has aider installed in the path
+            # We capture output to a file for reporting
+            aider --model $AIDER_MODEL --yes --message "$INSTRUCTION" > aider_output.txt 2>&1
+            
+            # Push changes if any were made (aider auto-commits, but we might need to push)
+            # We use a simple git push; authentication is handled by the runner's token or ssh key if configured
+            # For self-hosted runners, we might need to ensure push access
+            git push origin HEAD
+
+      - name: Report Status
+        if: always() # Report status even if aider fails
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let commentBody = '';
+            try {
+              if (fs.existsSync('aider_output.txt')) {
+                commentBody = fs.readFileSync('aider_output.txt', 'utf8');
+              } else {
+                commentBody = 'No output captured from Aider.';
+              }
+            } catch (error) {
+              console.error(error);
+              commentBody = 'Error reading Aider output.';
+            }
+            
+            // Truncate if too long (GitHub comment limit is approx 65536 chars)
+            if (commentBody.length > 65000) {
+               commentBody = commentBody.substring(0, 65000) + '... (truncated)';
+            }
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "### Agent Smith Report:\n\n```\n" + commentBody + "\n```"
+            });
